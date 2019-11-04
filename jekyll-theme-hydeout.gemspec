@@ -1,0 +1,1 @@
+  spec.authors       = ["Andrew Fong"]
