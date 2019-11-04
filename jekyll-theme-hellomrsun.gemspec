@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-hydeout"
+  spec.name          = "jekyll-theme-hellomrsun"
   spec.version       = "4.0.0"
   spec.authors       = ["hellomrsun"]
   spec.email         = [""]
