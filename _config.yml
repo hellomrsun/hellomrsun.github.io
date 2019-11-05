@@ -18,7 +18,7 @@ author:
   name:           ''
   url:            
 
-disqus.shortname: 'hellomrsun.github.io'
+disqusshortname: 'hellomrsun.github.io'
 
 paginate:         5
 # paginate_path:    '/page:num'
