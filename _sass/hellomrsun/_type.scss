@@ -120,5 +120,8 @@ a[href^="#fnref:"] {
 a svg, .icon svg {
   height: 1em;
 }
+.stackoverflow svg {
+  width: 24px;
+}
 a svg { fill: $link-color; }
 .icon { vertical-align: middle; }

@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            hellomrsun
 tagline:          'hellomrsun'
-description:      'A C# developer''s blog'
+description:      'A C# developer'
 url:              https://hellomrsun.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
