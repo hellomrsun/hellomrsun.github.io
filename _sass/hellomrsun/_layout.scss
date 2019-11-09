@@ -279,7 +279,7 @@ body {
 @if $sidebar-sticky {
   @media (min-width: $large-breakpoint) {
     body {
-      align-items: flex-end;
+      align-items: center;
     }
   }
 }

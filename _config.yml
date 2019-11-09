@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            hellomrsun
-tagline:          'hellomrsun'
-description:      'A C# developer'
+title:            Jiangong SUN
+tagline:          'Fullstack .NET developer'
+description:      'A Fullstack .NET developer with C#, EF, Angular'
 url:              https://hellomrsun.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

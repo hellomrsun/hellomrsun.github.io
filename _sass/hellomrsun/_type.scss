@@ -121,7 +121,12 @@ a svg, .icon svg {
   height: 1em;
 }
 .stackoverflow svg {
-  width: 24px;
+  width: 22px;
+  height: 1em;
+}
+.csdn svg {
+  width: 45px;
+  height: 1em;
 }
 a svg { fill: $link-color; }
 .icon { vertical-align: middle; }
