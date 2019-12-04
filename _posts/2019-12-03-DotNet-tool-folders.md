@@ -5,7 +5,7 @@ excerpt_separator:  <!--more-->
 ---
 
 
-1. C:\Windows\Microsoft.NET
+1. .NET Framework folder: C:\Windows\Microsoft.NET
 
 * Assembly
   * GAC_32
@@ -41,8 +41,26 @@ excerpt_separator:  <!--more-->
     * ildasm.exe: IL Disassembler
 * Framework64
 
+2. Microsoft SDK folder: C:\Program Files (x86)\Microsoft SDKs
 
-2. C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE
+| SDK Version |  Details |
+| --- | --- |
+| v7.0 | Microsoft Windows SDK for Windows 7 and .NET Framework 3.5 SP1 |
+| v7.0A | Included in Visual Studio 2010. .NET Framework 4. Works only with Visual Studio 2010 and not Visual Studio 2010 Express. |
+| v7.1 | Microsoft Windows SDK for Windows 7 and .NET Framework 4 |
+| v7.1A | Included in Visual Studio 2012 Update 1 (or later) |
+| v8.0 | Microsoft Windows SDK for Windows 8 and .NET Framework 4.5. .NET Framework 4.5, Windows Store apps and Integrated DirectX SDK |
+| v8.0A | Included in Visual Studio 2012 |
+| v8.1 | Windows Software Development Kit (SDK) for Windows 8.1 Windows 8.1, .NET Framework 4.5.1, Windows Store apps and Integrated DirectX SDK |
+| v8.1A | Included in Visual Studio 2013 |
+| v10.0A | Windows Standalone SDK for Windows 10. Included in Visual Studio 2015. |
+
+
+
+Full reference on [Windows SDK versions](https://en.wikipedia.org/wiki/Microsoft_Windows_SDK)
+
+
+3. C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE
 
 * mspdbsrv.exe
 * MSTest.exe
