@@ -125,7 +125,7 @@ ILSpy is a open source project on [Github](https://github.com/icsharpcode/ILSpy)
 * <b>Msiler</b>
 Msiler is a visual studio plugin to view CIL on live mode.
 
-![Msiler](./../../../assets/images/PE_CIL/Msiler.png)
+![Msiler](./../../../assets/images/PE_CIL/Msiler.PNG)
 
 You can download its different versions:
 
