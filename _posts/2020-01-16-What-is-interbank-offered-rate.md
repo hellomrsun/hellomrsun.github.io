@@ -1,14 +1,15 @@
 ---
 layout: post
-title: What is IBOR 
+title: What is Inter-Bank Offered Rate 
 excerpt_separator:  <!--more-->
 ---
 
-IBOR means: InterBank Offered Rate.
+IBOR means: Inter-Bank Offered Rate.
 
 The most important IBORs are : <b>Libor</b>, <b>Euribor</b>, and <b>Hibor</b>
 
  <!--more-->
+
 
 ##### 1. ICE LIBOR #####
 
@@ -74,7 +75,9 @@ HIBOR: HongKong Inter-Bank Offered Rate
 <br/>
 
 References:
-https://www.theice.com/iba/libor
-https://www.emmi-benchmarks.eu/euribor-org/about-euribor.html
-https://www.hkab.org.hk/index.jsp
 
+https://www.theice.com/iba/libor
+
+https://www.emmi-benchmarks.eu/euribor-org/about-euribor.html
+
+https://www.hkab.org.hk/index.jsp
