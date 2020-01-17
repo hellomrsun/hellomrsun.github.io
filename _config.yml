@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Jiangong SUN
-tagline:          'Fullstack .NET developer'
-description:      'A Fullstack .NET developer with C#, EF, Angular'
+tagline:          'A .NET engineer'
+description:      'A .NET engineer'
 url:              https://hellomrsun.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"

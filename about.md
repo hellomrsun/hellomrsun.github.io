@@ -4,5 +4,4 @@ title: About
 sidebar_link: true
 ---
 
-I'm a experienced C# software engineer.
-
+I'm a .NET engineer working mainly on C#. 
