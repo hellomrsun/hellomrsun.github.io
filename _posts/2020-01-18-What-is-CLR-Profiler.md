@@ -6,6 +6,8 @@ excerpt_separator:  <!--more-->
 
 CLR Profiler is a .NET tool, developed by Microsoft, to evaluate the C# applications (.exe) performances.
 
+<!--more-->
+
 You could CLR profiler to view statistics like Heap statistics, Garbage Collection statistics, GC Handle Statistics etc.
 
 <b>CLR Profiler interface:</b>
