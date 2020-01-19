@@ -12,7 +12,7 @@ Here are some of them:
 
 ### 1. DotTrace
 
-DotTrace is a profiling tool developped by JetBrains, and it part of ReSharper Ultimate.
+DotTrace is a profiling tool developed by JetBrains, and it's part of ReSharper Ultimate.
 I personally used it and find it very useful to locate the code issues.
 You can experiment it with 10 days free trial.
 
