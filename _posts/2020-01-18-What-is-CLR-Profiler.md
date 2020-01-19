@@ -12,12 +12,12 @@ You could CLR profiler to view statistics like Heap statistics, Garbage Collecti
 
 <b>CLR Profiler interface:</b>
 
-![](./../../../assets/images/CLR_Profiler/CLR_Profiler.PNG)
+![](./../../../assets/images/ClrProfiler/CLR_Profiler.PNG)
 
 
 <b>CLR Profiler statistics report:</b>
 
-![](./../../../assets/images/CLR_Profiler/CLR_profiler_stats.PNG)
+![](./../../../assets/images/ClrProfiler/CLR_profiler_stats.PNG)
 
 
 <br/>
@@ -45,7 +45,7 @@ public class StringBenchmark
 
 Result:
 
-![](./../../../assets/images/CLR_Profiler/StringBenchmark.PNG)
+![](./../../../assets/images/ClrProfiler/StringBenchmark.PNG)
 
 
 <br/>
@@ -68,6 +68,6 @@ public class StringBuilderBenchmark
 
 Result:
 
-![](./../../../assets/images/CLR_Profiler/StringBuilderBenchmark.PNG)
+![](./../../../assets/images/ClrProfiler/StringBuilderBenchmark.PNG)
 
 
