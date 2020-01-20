@@ -66,3 +66,7 @@ Result:
 
 
 You can compare the differences in the two reports.
+
+<br/>
+
+[Download CLR Profiler](https://github.com/microsoftarchive/clrprofiler/releases)

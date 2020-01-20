@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Jiangong SUN
-tagline:          'A .NET engineer'
-description:      'A .NET engineer'
+title:            SUN Jiangong
+tagline:          'A Senior .NET engineer'
+description:      'A Senior .NET engineer'
 url:              https://hellomrsun.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -19,7 +19,7 @@ author:
   name:           ''
   url:            
 
-paginate:         5
+paginate:         10
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
