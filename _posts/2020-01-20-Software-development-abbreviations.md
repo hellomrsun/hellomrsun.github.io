@@ -6,6 +6,8 @@ excerpt_separator:  <!--more-->
 
 Here are most used abbreviations used by C# developers.
 
+<!-- more -->
+
 #### 1. Architecture
 
 | Abbrev | Full name |
