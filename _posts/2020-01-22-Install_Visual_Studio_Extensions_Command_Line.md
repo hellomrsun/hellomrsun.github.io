@@ -27,11 +27,11 @@ Beware of the Visual Studio folder will be different depending its version.
 
 4. Execute the command:
 
-```cmd
+```
 > VSIXInstaller.exe /quiet /admin "VSIX_File_Path"
 ```
 or
-```cmd
+```
 > VSIXInstaller.exe /q /a "VSIX_File_Path"
 ```
 
