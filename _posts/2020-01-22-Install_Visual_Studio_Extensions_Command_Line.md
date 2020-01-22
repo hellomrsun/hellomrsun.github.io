@@ -21,8 +21,8 @@ Beware of the Visual Studio folder will be different depending its version.
 | Visual Studio Version | Visual Studio Internal Version | Physical folder |
 | --- | --- | -- |
 | VS 2012 | VS 11.0 | C:\Program Files (x86)\Microsoft Visual Studio 11.0 |
-| VS 2013 | VS 12.0 | C:\Program Files (x86)\Microsoft Visual Studio 11.0 |
-| VS 2015 | VS 14.0 | C:\Program Files (x86)\Microsoft Visual Studio 11.0 |
+| VS 2013 | VS 12.0 | C:\Program Files (x86)\Microsoft Visual Studio 12.0 |
+| VS 2015 | VS 14.0 | C:\Program Files (x86)\Microsoft Visual Studio 14.0 |
 | VS 2017 | VS 15.0 | C:\Program Files (x86)\Microsoft Visual Studio\2017 |
 
 4. Execute the command:
