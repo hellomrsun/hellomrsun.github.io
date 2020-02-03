@@ -19,6 +19,8 @@ Here are most used abbreviations used by C# developers.
 | MVC | Model View Controller |
 | MVP | Model View Presenter |
 | MVVM | Model View View Model |
+| CQRS | Command Query Responsibility Segregation |
+
 
 <br/>
 
@@ -60,3 +62,13 @@ Here are most used abbreviations used by C# developers.
 | --- | --- |
 | DoD | Definition of Done |
 
+#### 6. Database
+
+| Abbrev | Full name |
+| --- | --- |
+| ORM | Object Relational Mapper |
+| POCO | Plain Old CLR Object |
+
+
+
+Last update: 2020-02-03
