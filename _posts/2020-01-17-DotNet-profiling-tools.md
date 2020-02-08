@@ -2,6 +2,7 @@
 layout: post
 title: .NET Profiling tools 
 excerpt_separator:  <!--more-->
+tags: .NET Profiler
 ---
 
 There are some .NET profiling tools which are quite helpful to make code benchmarks and guide you to fix the application's performance problems.

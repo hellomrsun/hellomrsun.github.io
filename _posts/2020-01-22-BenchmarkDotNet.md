@@ -2,6 +2,7 @@
 layout: post
 title: How to make benchmark with BenchmarkDotNet?
 excerpt_separator:  <!--more-->
+tags: .NET Profiler Benchmark
 ---
 
 BenchmarkDotNet is a .NET benchmark tool, developed by Microsoft.

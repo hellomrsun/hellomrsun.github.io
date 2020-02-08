@@ -2,6 +2,7 @@
 layout: post
 title: What are most used abbreviations by C# developers 
 excerpt_separator:  <!--more-->
+tags: Craftsmanship
 ---
 
 Here are most used abbreviations used by C# developers.
@@ -20,7 +21,6 @@ Here are most used abbreviations used by C# developers.
 | MVP | Model View Presenter |
 | MVVM | Model View View Model |
 | CQRS | Command Query Responsibility Segregation |
-
 
 <br/>
 

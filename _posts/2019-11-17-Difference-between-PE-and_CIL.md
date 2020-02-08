@@ -2,6 +2,7 @@
 layout: post
 title: What is the difference between PE (Portable Executable) and CIL (Common Intermediate Language)?
 excerpt_separator:  <!--more-->
+tags: PE CIL
 ---
 
 In .NET, C# code is compiled into Common Intermediate Language (**CIL**) by compiler at **compile-time**, then the CIL code will be compiled into machine code by Just-In-Time (**JIT**) compiler at **runtime**.

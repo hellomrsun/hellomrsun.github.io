@@ -2,6 +2,7 @@
 layout: post
 title: What is Inter-Bank Offered Rate 
 excerpt_separator:  <!--more-->
+tags: Finance IBOR
 ---
 
 IBOR means: Inter-Bank Offered Rate.

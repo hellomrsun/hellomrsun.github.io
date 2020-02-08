@@ -2,6 +2,7 @@
 layout: post
 title: What is CLR profiler?
 excerpt_separator:  <!--more-->
+tags: Profiler CLR
 ---
 
 CLR Profiler is a .NET tool, developed by Microsoft, to evaluate the C# applications (.exe) performances.

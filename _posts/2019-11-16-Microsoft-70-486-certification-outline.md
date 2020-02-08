@@ -2,6 +2,7 @@
 layout: post
 title: Microsoft 70-486 Certification
 excerpt_separator:  <!--more-->
+tags: .NET Certification
 ---
 
 
