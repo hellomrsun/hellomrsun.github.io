@@ -10,7 +10,7 @@ comments: true
     <span>
       {% for tag in page.tags %}
       {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tags/{{ tag_name }}#{{ tag_name | downcase}}">
+      <a href="/tags#{{ tag_name | downcase}}">
         <span class="tag-name">
           <nobr>{{ tag_name }}</nobr>
         </span>&nbsp;
