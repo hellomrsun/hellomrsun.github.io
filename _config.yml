@@ -6,7 +6,7 @@ highlighter: rouge
 title: SUN Jiangong
 tagline: "A Senior .NET engineer"
 description: "A Senior .NET engineer"
-url: https://hellomrsun.github.io
+url: https://sunjiangong.com
 baseurl:
   ""
   # the optional subpath of your site, e.g. "/blog"
@@ -20,7 +20,7 @@ tags_page: true
 
 author:
   name: SUN Jiangong
-  url: 
+  url: https://sunjiangong.com
 
 paginate: 10
 # paginate_path:    '/page:num'
