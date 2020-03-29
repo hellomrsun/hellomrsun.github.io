@@ -3,6 +3,7 @@ layout: post
 title: SqlLocalDb Versions - Windows API call RegGetValueW returned error code
 excerpt_separator:  <!--more-->
 tags: Entity-Framework
+canonical_url: 'https://sunjiangong.com/Windows-API-call-RegGetValueW-returned-error-code/'
 ---
 
 I've met this error when I check the version of SQL Server LocalDb in my machine.

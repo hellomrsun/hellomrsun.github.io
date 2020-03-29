@@ -3,6 +3,7 @@ layout: post
 title: Some useful resources in developing websites with Angular?
 excerpt_separator:  <!--more-->
 tags: Angular
+canonical_url: 'https://sunjiangong.com/Some-useful-resources-in-developing-websites-with-Angular/'
 ---
 
 I would like to share some useful tips in developing web applications with Angular.

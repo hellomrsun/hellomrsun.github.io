@@ -3,6 +3,7 @@ layout: post
 title: What are most used abbreviations by C# developers 
 excerpt_separator:  <!--more-->
 tags: Craftsmanship
+canonical_url: 'https://sunjiangong.com/What-are-most-used-abbreviations-by-C#-developers/'
 ---
 
 Here are most used abbreviations used by C# developers.

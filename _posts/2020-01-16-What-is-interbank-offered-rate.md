@@ -3,6 +3,7 @@ layout: post
 title: What is Inter-Bank Offered Rate 
 excerpt_separator:  <!--more-->
 tags: Finance IBOR
+canonical_url: 'https://sunjiangong.com/What-is-Inter-Bank-Offered-Rate/'
 ---
 
 IBOR means: Inter-Bank Offered Rate.

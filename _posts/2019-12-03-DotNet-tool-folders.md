@@ -4,6 +4,7 @@ title: .Net framework utility folders
 description: DotNet Framework, Microsoft SDK, Visual studio utility folder
 excerpt_separator:  <!--more-->
 tags: .NET Utility
+canonical_url: 'https://sunjiangong.com/What-are-.Net-framework-utility-folders/'
 ---
 
 As a .NET developer, there are some utility folders you might need to use in your development, build, debugging, test, and deployment, etc.

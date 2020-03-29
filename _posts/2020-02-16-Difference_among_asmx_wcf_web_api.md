@@ -3,6 +3,7 @@ layout: post
 title: What is the difference between ASMX, WCF, and ASP.NET Web API?
 excerpt_separator:  <!--more-->
 tags: .NET ASMX WCF WebApi REST SOAP
+canonical_url: 'https://sunjiangong.com/What-is-the-difference-between-ASMX-WCF-and-ASP.NET-Web-API/'
 ---
 
 Application architecture has evolved from monolithic architecture to SOA architecture in order to make better separation, then to more refined microservice architecture today.
