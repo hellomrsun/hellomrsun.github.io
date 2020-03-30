@@ -2,7 +2,7 @@
 layout: post
 title: SqlLocalDb Versions - Windows API call RegGetValueW returned error code
 excerpt_separator:  <!--more-->
-tags: Entity-Framework
+tags: Entity-Framework SqlLocalDb
 canonical_url: 'https://sunjiangong.com/Windows-API-call-RegGetValueW-returned-error-code/'
 ---
 
