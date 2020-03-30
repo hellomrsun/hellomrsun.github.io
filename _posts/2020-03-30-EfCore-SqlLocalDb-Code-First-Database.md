@@ -124,7 +124,7 @@ CodeFirstUpdateConnectionString retrieves the value from configuration file: **a
 ```json
 {
   "ConnectionStrings": {
-    "WineDbConnection": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog={{AbsoluteFolderPath}}\\WINEDB.MDF;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+    "WineDbConnection": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=[AbsoluteFolderPath]\\WINEDB.MDF;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
   }
 }
 ```
