@@ -211,6 +211,20 @@ Update-Database -Migration 20200330171646_Init
 
 ![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/006_update_database_with_specific_migration.PNG)
 
+
+<br/>
+
+To debug your code, in case of error, when you execute the commands in Package Manager Console, you can use the following code:
+
+```csharp
+#if DEBUG
+    if (System.Diagnostics.Debugger.IsAttached == false)
+    {
+        System.Diagnostics.Debugger.Launch();
+    }
+#endif
+```
+
 <br/>
 
 ## 5. Check database
