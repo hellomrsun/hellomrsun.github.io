@@ -10,15 +10,21 @@ canonical_url: 'https://sunjiangong.com/Entity-Framework-Core-Code-First-Databas
 If you have used Entity Framework, you have probably known that there are 3 possible approaches to work with the database:
 
 * **Database First**
+
 Database First is the most common practice when working an existing database.
+
 In this case, an **.EDMX** (**E**ntity **D**ata **M**odel **X**ML) file will be generated when you map the database in your project. And it contains all the data models.
 
 * **Model First**
+
 With Model First approach, you start by creating .EDMX file with models in the designer, then you generate the database from the .EDMX file.
 
 * **Code First**
+
 With Code First approach, you create the data models firstly, and then generate or update the database with incremental migrations.
+
 You have refined control on the details of data models, like the column constraints(max/min length), relationships etc.
+
 And with the migration history, you can easily move forward or rollback your database version while ensuring the data model consistency.
 
 <!--more-->
@@ -52,8 +58,11 @@ Once the database is created, two files are created:
 ## 2. Create data model classes
 
 Create data model class "Grape" first with some basic properties like Id, Name and Description.
+
 Id is primary key and auto incremented.
+
 You can also see the its table name and schema name. 
+
 **Note** that the table name in the database could be different from the class model name.
 
 ```csharp
@@ -140,8 +149,11 @@ Add-Migration Init
 
 
 The generated class is the following.
+
 You can see there are 2 methods: **Up** and **Down**.
+
 **Up** contains the code will be executed when you run this migration against the database.
+
 And **Down** contains the code will be executed when you rollback this migration.
 
 ```csharp
