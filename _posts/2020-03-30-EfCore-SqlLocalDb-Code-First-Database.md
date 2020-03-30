@@ -242,3 +242,5 @@ You can see here are two tables:
 <br/>
 
 Now we've seen the code first approach with EF core and SQL LocalDb.
+
+You can see the source project: [HERE](https://github.com/hellomrsun/DotNetCoreAngularSignalRDemo/tree/master/SignalrDotnetCoreApi/SignalrDotnetCoreApi)
