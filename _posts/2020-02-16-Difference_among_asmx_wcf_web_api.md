@@ -3,7 +3,7 @@ layout: post
 title: What is the difference between ASMX, WCF, and ASP.NET Web API?
 excerpt_separator:  <!--more-->
 tags: .NET ASMX WCF WebApi REST SOAP
-canonical_url: 'https://sunjiangong.com/What-is-the-difference-between-ASMX-WCF-and-ASP.NET-Web-API/'
+canonical_url: 'https://sunjiangong.com/what-is-the-difference-between-asmx-wcf-and-asp-net-web-api/'
 ---
 
 Application architecture has evolved from monolithic architecture to SOA architecture in order to make better separation, then to more refined microservice architecture today.
@@ -16,44 +16,44 @@ Let's explore them together today.
 
 <!-- TOC -->
 
-- [1. ASMX](#1-asmx)
-  - [1.1. SOAP message](#11-soap-message)
-  - [1.2. ASMX web service code sample](#12-asmx-web-service-code-sample)
-  - [1.3. WSDL](#13-wsdl)
-    - [1.3.1. WSDL structure](#131-wsdl-structure)
-    - [1.3.2. PrintService's WSDL detail](#132-printservices-wsdl-detail)
-    - [1.3.3. PrintService's WSDL code](#133-printservices-wsdl-code)
-    - [1.3.4. SOAP vs WSDL vs UDDI](#134-soap-vs-wsdl-vs-uddi)
-  - [1.4. ASMX service consumption](#14-asmx-service-consumption)
-    - [1.4.1. Consume ASMX service in Web browser](#141-consume-asmx-service-in-web-browser)
-    - [1.4.2. Consume ASMX service in SoapUI](#142-consume-asmx-service-in-soapui)
-  - [1.5. ASMX project source project](#15-asmx-project-source-project)
-- [2. WCF](#2-wcf)
-  - [2.1. WCF Architecture](#21-wcf-architecture)
-  - [2.2. WCF communication binding](#22-wcf-communication-binding)
-  - [2.3. SOAP WCF service sample code](#23-soap-wcf-service-sample-code)
-  - [2.4. SOAP WCF WSDL](#24-soap-wcf-wsdl)
-    - [2.4.1. SOAP WCF WSDL detail](#241-soap-wcf-wsdl-detail)
-    - [2.4.2. SOAP WCF WSDL code](#242-soap-wcf-wsdl-code)
-  - [2.5. SOAP WCF service consumption](#25-soap-wcf-service-consumption)
-  - [2.6. WCF service bindings](#26-wcf-service-bindings)
-  - [2.7. REST WCF service sample code](#27-rest-wcf-service-sample-code)
-  - [2.8. REST WCF WADL](#28-rest-wcf-wadl)
-    - [2.8.1. REST WCF WADL structure](#281-rest-wcf-wadl-structure)
-    - [2.8.2. REST WCF WADL code](#282-rest-wcf-wadl-code)
-  - [2.9. REST WCF service consumption](#29-rest-wcf-service-consumption)
-  - [2.10. SOAP and REST WCF services source projects](#210-soap-and-rest-wcf-services-source-projects)
-- [3. ASP.NET Web API](#3-aspnet-web-api)
-  - [3.1. REST](#31-rest)
-  - [3.2. Web API sample code](#32-web-api-sample-code)
-  - [3.3. Web API consumption](#33-web-api-consumption)
-  - [3.4. Web API source project](#34-web-api-source-project)
+- [ASMX](#asmx)
+  - [SOAP message](#soap-message)
+  - [ASMX web service code sample](#asmx-web-service-code-sample)
+  - [WSDL](#wsdl)
+    - [WSDL structure](#wsdl-structure)
+    - [PrintService's WSDL detail](#printservices-wsdl-detail)
+    - [PrintService's WSDL code](#printservices-wsdl-code)
+    - [SOAP vs WSDL vs UDDI](#soap-vs-wsdl-vs-uddi)
+  - [ASMX service consumption](#asmx-service-consumption)
+    - [Consume ASMX service in Web browser](#consume-asmx-service-in-web-browser)
+    - [Consume ASMX service in SoapUI](#consume-asmx-service-in-soapui)
+  - [ASMX project source project](#asmx-project-source-project)
+- [WCF](#wcf)
+  - [WCF Architecture](#wcf-architecture)
+  - [WCF communication binding](#wcf-communication-binding)
+  - [SOAP WCF service sample code](#soap-wcf-service-sample-code)
+  - [SOAP WCF WSDL](#soap-wcf-wsdl)
+    - [SOAP WCF WSDL detail](#soap-wcf-wsdl-detail)
+    - [SOAP WCF WSDL code](#soap-wcf-wsdl-code)
+  - [SOAP WCF service consumption](#soap-wcf-service-consumption)
+  - [WCF service bindings](#wcf-service-bindings)
+  - [REST WCF service sample code](#rest-wcf-service-sample-code)
+  - [REST WCF WADL](#rest-wcf-wadl)
+    - [REST WCF WADL structure](#rest-wcf-wadl-structure)
+    - [REST WCF WADL code](#rest-wcf-wadl-code)
+  - [REST WCF service consumption](#rest-wcf-service-consumption)
+  - [SOAP and REST WCF services source projects](#soap-and-rest-wcf-services-source-projects)
+- [ASP.NET Web API](#aspnet-web-api)
+  - [REST](#rest)
+  - [Web API sample code](#web-api-sample-code)
+  - [Web API consumption](#web-api-consumption)
+  - [Web API source project](#web-api-source-project)
 
 <!-- /TOC -->
 
 <br/>
 
-# 1. ASMX
+# ASMX
 
 <br/>
 
@@ -61,7 +61,7 @@ Let's explore them together today.
 
 ASMX provides the ability to build web services that send **SOAP** (Simple Object Access Protocol) messages over **HTTP** protocol.
 
-## 1.1. SOAP message
+## SOAP message
 
 SOAP message is in **XML** format.
 
@@ -81,7 +81,7 @@ SOAP message request sample:
 </soapenv:Envelope>
 ```
 
-## 1.2. ASMX web service code sample
+## ASMX web service code sample
 
 ```csharp
 using System.Web.Services;
@@ -104,7 +104,7 @@ namespace AsmxWebService
 <br/>
 
 
-## 1.3. WSDL
+## WSDL
 
 **WSDL** (Web Service Description Language) is a language to describe the service.
 
@@ -112,7 +112,7 @@ namespace AsmxWebService
 
 <br/>
 
-### 1.3.1. WSDL structure
+### WSDL structure
 
 | **WSDL Section** | **Description**                                                              |
 | ------------ | ------------------------------------------------------------------------ |
@@ -123,11 +123,11 @@ namespace AsmxWebService
 
 <br/>
 
-### 1.3.2. PrintService's WSDL detail
+### PrintService's WSDL detail
 
 ![](./../../../assets/images/AsmxWcfWebApi/Asmx_soapui_wsdl_structure.PNG)
 
-### 1.3.3. PrintService's WSDL code
+### PrintService's WSDL code
 
 ```xml
 <wsdl:definitions targetNamespace="http://tempuri.org/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
@@ -201,17 +201,17 @@ See more information about WSDL: [W3C WSDL Specification](https://www.w3.org/TR/
 
 <br/>
 
-### 1.3.4. SOAP vs WSDL vs UDDI
+### SOAP vs WSDL vs UDDI
 
 ![](./../../../assets/images/AsmxWcfWebApi/Wcf_wsdl_soap_uddi.gif)
 
 <br/>
 
-## 1.4. ASMX service consumption
+## ASMX service consumption
 
 To consume the ASMX service, you can use any web browser or SoapUI.
 
-### 1.4.1. Consume ASMX service in Web browser
+### Consume ASMX service in Web browser
 
 **Call:**
 
@@ -221,7 +221,7 @@ To consume the ASMX service, you can use any web browser or SoapUI.
 
 ![](./../../../assets/images/AsmxWcfWebApi/Asmx_browser_response.PNG)
 
-### 1.4.2. Consume ASMX service in SoapUI
+### Consume ASMX service in SoapUI
 
 To consume the WCF service in SoapUI, you must enter a .WSDL suffix after .asmx.
 
@@ -231,33 +231,33 @@ Call and result:
 
 <br/>
 
-## 1.5. ASMX project source project
+## ASMX project source project
 
 Download [SOAP ASMX service sample project](https://github.com/hellomrsun/BlogCodeSource/tree/master/src/2020-02-16_ASMX_WCF_WebApi/01_ASMX/AsmxWebService)
 
 <br/><br/>
 
-# 2. WCF
+# WCF
 
 <br/>
 
 **WCF** (Windows Communication Foundation) is a framework for building service-oriented applications.
 WCF  is introduced since .NET 3.0.
 
-## 2.1. WCF Architecture
+## WCF Architecture
 
 ![](./../../../assets/images/AsmxWcfWebApi/Wcf_architecture.gif)
 Source: Microsoft
 
 <br/>
 
-## 2.2. WCF communication binding
+## WCF communication binding
 ![](./../../../assets/images/AsmxWcfWebApi/Wcf_binding.gif)
 Source: Microsoft
 
 <br/>
 
-## 2.3. SOAP WCF service sample code
+## SOAP WCF service sample code
 
 WCF can transfer **SOAP** messages over **HTTP** protocol by default, just like **ASMX** service.
 
@@ -287,19 +287,19 @@ public class PrintService : IPrintService
 <br/>
 
 
-## 2.4. SOAP WCF WSDL
+## SOAP WCF WSDL
 
 **SOAP WCF WSDL**
 ![](./../../../assets/images/AsmxWcfWebApi/Wcf_soap_soapui_wsdl.PNG)
 
 <br/>
 
-### 2.4.1. SOAP WCF WSDL detail
+### SOAP WCF WSDL detail
 ![](./../../../assets/images/AsmxWcfWebApi/Wcf_soap_soapui_wsdl_structure.PNG)
 
 <br/>
 
-### 2.4.2. SOAP WCF WSDL code
+### SOAP WCF WSDL code
 
 ```xml
 <wsdl:definitions name="PrintService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tns="http://tempuri.org/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata">
@@ -344,7 +344,7 @@ public class PrintService : IPrintService
 
 <br/>
 
-## 2.5. SOAP WCF service consumption
+## SOAP WCF service consumption
 
 **Add WSDL in SoapUI:**
 
@@ -358,7 +358,7 @@ PrintService.svc's **.svc** means Service.
 
 <br/>
 
-## 2.6. WCF service bindings
+## WCF service bindings
 
 In addition, WCF provides much more features to build secure, complex WCF services.
 WCF can work with other protocols like **TCP**, **HTTPS**, and **UDP**.
@@ -390,7 +390,7 @@ Here are all the WCF Bindings:
 
 <br/>
 
-## 2.7. REST WCF service sample code
+## REST WCF service sample code
 
 WCF also can act as **RESTful** service with WebHttpBinding.
 
@@ -431,7 +431,7 @@ public class RestPrintService : IRestPrintService
 
 <br/>
 
-## 2.8. REST WCF WADL
+## REST WCF WADL
 
 **WADL** (Web Application Description Language) is a machine-readable XML description of HTTP-based web services.
 
@@ -439,13 +439,13 @@ public class RestPrintService : IRestPrintService
 
 <br/>
 
-### 2.8.1. REST WCF WADL structure
+### REST WCF WADL structure
 
 ![](./../../../assets/images/AsmxWcfWebApi/Wcf_rest_wadl_structure.PNG)
 
 <br/>
 
-### 2.8.2. REST WCF WADL code
+### REST WCF WADL code
 
 ```xml
 <application xmlns="http://wadl.dev.java.net/2009/02">
@@ -481,25 +481,25 @@ public class RestPrintService : IRestPrintService
 
 <br/>
 
-## 2.9. REST WCF service consumption
+## REST WCF service consumption
 
 ![](./../../../assets/images/AsmxWcfWebApi/Wcf_rest_soapui_call.PNG)
 
 <br/>
 
-## 2.10. SOAP and REST WCF services source projects
+## SOAP and REST WCF services source projects
 
 Download [SOAP and REST WCF service sample project](https://github.com/hellomrsun/BlogCodeSource/tree/master/src/2020-02-16_ASMX_WCF_WebApi/02_WCF/WcfWebService)
 
 <br/>
 
-# 3. ASP.NET Web API
+# ASP.NET Web API
 
 ASP.NET Web API pass messages over HTTP or HTTPS protocol.
 
 Modern ASP.NET Web APIs are RESTful.
 
-## 3.1. REST
+## REST
 
 **REST** (RepreSentational State Transfer)
 
@@ -536,7 +536,7 @@ The four constraints for this uniform interface are:
 
 <br/>
 
-## 3.2. Web API sample code
+## Web API sample code
 
 ```csharp
 [HttpGet]
@@ -552,12 +552,12 @@ public HttpResponseMessage Get(int id)
 
 <br/>
 
-## 3.3. Web API consumption
+## Web API consumption
 
 ![](./../../../assets/images/AsmxWcfWebApi/Api_browser_call.PNG)
 
 <br/>
 
-## 3.4. Web API source project
+## Web API source project
 
 Download [ASP.NET Web API sample project](https://github.com/hellomrsun/BlogCodeSource/tree/master/src/2020-02-16_ASMX_WCF_WebApi/03_WebApi/AspNetWebApi)

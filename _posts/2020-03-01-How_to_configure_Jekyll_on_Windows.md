@@ -3,6 +3,7 @@ layout: post
 title: How to configure Jekyll on Windows?
 excerpt_separator:  <!--more-->
 tags: Jekyll
+canonical_url: 'https://sunjiangong.com/how-to-configure-jekyll-on-windows/'
 ---
 
 Let's see how to configure Jekyll on Windows.
