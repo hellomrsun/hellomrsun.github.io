@@ -51,9 +51,7 @@ Once the database is created, two files are created:
 
 ![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/002_db_files.PNG)
 
-
 <br/>
-
 
 ## 2. Create data model classes
 
@@ -61,25 +59,11 @@ Create data model class "Grape" first with some basic properties like Id, Name a
 
 Id is primary key and auto incremented.
 
-You can also see the its table name and schema name. 
+You can also see the its table name and schema name.
 
 **Note** that the table name in the database could be different from the class model name.
 
-```csharp
-[Table("Grape", Schema ="dbo")]
-public class Grape
-{
-    [Key]
-    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-    public int Id { get; set; }
-
-    [MaxLength(100)]
-    public string Name { get; set; }
-
-    [MaxLength(255)]
-    public string Description { get; set; }
-}
-```
+![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/011_grape_class.PNG)
 
 Once the model is created, we should create the DbContext, which is the mapping of the database.
 
@@ -94,30 +78,9 @@ public class WineDbContext : DbContext, IDbContext
 
 But it's not finished about the WineDbContext, I need to initialize the connection to the database.
 
-```csharp
-public class WineDbContext : DbContext, IDbContext
-{
-    public DbSet<Grape> Grapes { get; set; }
+![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/010_dbcontext.PNG)
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseSqlServer(CodeFirstUpdateConnectionString);
-    }
-
-    private static string CodeFirstUpdateConnectionString
-    {
-        get
-        {
-            var config = new ConfigurationBuilder()
-                .AddJsonFile(Path.Combine(Environment.CurrentDirectory, "appsettings.json"))
-                .Build();
-            var result = config.GetSection("ConnectionStrings")["WineDbConnection"];
-
-            return result;
-        }
-    }
-}
-```
+<br/>
 
 CodeFirstUpdateConnectionString retrieves the value from configuration file: **appsettings.json**
 
@@ -135,9 +98,7 @@ CodeFirstUpdateConnectionString retrieves the value from configuration file: **a
 
 You need to install nuget package **Microsoft.EntityFrameworkCore.Tools** in the database project.
 
-
 ![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/003_install_efcore_tools_package.PNG)
-
 
 Go to "**Package Manager Console**", and choose the database project as "**Default project**", and create the migration with "**Add-Migration**" command.
 
@@ -147,6 +108,7 @@ Add-Migration Init
 
 ![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/004_create_first_migration.PNG)
 
+<br/>
 
 The generated class is the following.
 
@@ -156,38 +118,7 @@ You can see there are 2 methods: **Up** and **Down**.
 
 And **Down** contains the code will be executed when you rollback this migration.
 
-```csharp
-public partial class Init : Migration
-{
-    protected override void Up(MigrationBuilder migrationBuilder)
-    {
-        migrationBuilder.EnsureSchema(
-            name: "dbo");
-
-        migrationBuilder.CreateTable(
-            name: "Grape",
-            schema: "dbo",
-            columns: table => new
-            {
-                Id = table.Column<int>(nullable: false)
-                    .Annotation("SqlServer:Identity", "1, 1"),
-                Name = table.Column<string>(maxLength: 100, nullable: true),
-                Description = table.Column<string>(maxLength: 255, nullable: true)
-            },
-            constraints: table =>
-            {
-                table.PrimaryKey("PK_Grape", x => x.Id);
-            });
-    }
-
-    protected override void Down(MigrationBuilder migrationBuilder)
-    {
-        migrationBuilder.DropTable(
-            name: "Grape",
-            schema: "dbo");
-    }
-}
-```
+![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/012_migration.PNG)
 
 <br/>
 
@@ -216,14 +147,8 @@ Update-Database -Migration 20200330171646_Init
 
 To debug your code, in case of error, when you execute the commands in Package Manager Console, you can use the following code:
 
-```csharp
-#if DEBUG
-    if (System.Diagnostics.Debugger.IsAttached == false)
-    {
-        System.Diagnostics.Debugger.Launch();
-    }
-#endif
-```
+![](./../../../assets/images/EfCoreCodeFirstSqlLocalDb/013_debug_nuget_command.PNG)
+
 
 <br/>
 
