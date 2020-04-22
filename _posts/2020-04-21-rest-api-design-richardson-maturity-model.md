@@ -66,6 +66,10 @@ It means the clients with previous little or no knowledge of the API, should be 
 
 And HATEOAS make it possible in providing navigational links, relevant actions to describe the use cases of different resources in the API.
 
+Here is a comparison between an API without HATEOAS and another API with HATEOAS.
+
+With HATEOAS, you can see the **href**s and **method**s to be used to achieve the purpose of different **rel**s.
+
 ![](./../../../assets/images/RichardsonMaturityModel/rest_vs_hateoas_rest.png)
 
 <br/>
