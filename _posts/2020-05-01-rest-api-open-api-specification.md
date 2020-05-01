@@ -117,13 +117,13 @@ You can find the API title, description, terms of server, contact name, url, ema
 
 ![](./../../../assets/images/OpenApi/02_open_api_info.PNG)
 
-### 5.3 servers section (API servers)
+### 5.2 servers section (API servers)
 
 You can find the API urls, ports, versions etc hosted on different servers.
 
 ![](./../../../assets/images/OpenApi/03_open_api_servers.PNG)
 
-### 5.4 paths section (API routes/operations)
+### 5.3 paths section (API routes/operations)
 
 Here you can find all the operations available in the API.
 
@@ -144,7 +144,7 @@ Delete a grape with id with DELETE action:
 ![](./../../../assets/images/OpenApi/06_open_api_paths_delete.PNG)
 
 
-### 5.5 components
+### 5.4 components
 
 Components contain all the API request and response models.
 
