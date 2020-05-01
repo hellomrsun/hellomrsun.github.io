@@ -173,7 +173,7 @@ You can explore more in the last OpenAPI Specification in the [references](#refe
 | 3.0.0       | **2017-07-26**   | **Release of the OpenAPI Specification 3.0.0**        |
 | 3.0.1       | 2017-12-06       | Patch release of the OpenAPI Specification 3.0.1      |
 | 3.0.2       | 2018-10-08       | Patch release of the OpenAPI Specification 3.0.2      |
-| 3.0.3       | 2014-09-08       | Patch release of the OpenAPI Specification 3.0.3      |
+| 3.0.3       | 2020-02-20       | Patch release of the OpenAPI Specification 3.0.3      |
 
 <br/>
 
