@@ -17,6 +17,7 @@ I would like to share some useful tips in developing web applications with Angul
   - [Debugger for Chrome](#debugger-for-chrome)
   - [ESLint or TSLint](#eslint-or-tslint)
   - [Angular Essentials (Version 9)](#angular-essentials-version-9)
+- [Part 3. Coding](#part-3-coding)
 
 <!-- /TOC -->
 
@@ -125,3 +126,8 @@ For more details, check [Angular CLI Debug](https://github.com/microsoft/vscode-
 
 ![](./../../../assets/images/AngularStarter/AngularEssentials.PNG)
 
+<br/>
+
+### Part 3. Coding
+
+[Angular Coding style guide](https://angular.io/guide/styleguide)

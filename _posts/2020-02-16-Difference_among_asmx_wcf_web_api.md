@@ -8,7 +8,7 @@ canonical_url: 'https://sunjiangong.com/what-is-the-difference-between-asmx-wcf-
 
 Application architecture has evolved from monolithic architecture to SOA architecture in order to make better separation, then to more refined microservice architecture today.
 
-Applications need to communicate among themselves, and to achieve this purpose, Microsoft has developped technologies like ASMX, WCF, and ASP.NET Web API.
+Applications need to communicate among themselves, and to achieve this purpose, Microsoft has developed technologies like ASMX, WCF, and ASP.NET Web API.
 
 Let's explore them together today.
 
