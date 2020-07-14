@@ -1,0 +1,16 @@
+.archive {
+  font-size: 12px;
+
+  .month {
+    font-size: 15px;
+  }
+
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+
+  details summary {
+      margin-top: 5px;
+  }
+
+}
