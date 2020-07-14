@@ -5,4 +5,3 @@ gemspec
 gem 'jekyll'
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'
-gem 'html-proofer'
