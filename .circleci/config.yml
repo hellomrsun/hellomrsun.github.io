@@ -13,7 +13,7 @@ jobs:
       - restore_cache:
           keys:
             - hellomrsun.github.io-{{ checksum "Gemfile.lock" }}
-            - hellomrsun.github.io-fallback
+            - hellomrsun.github.io-
       - run:
           name: Bundle Install
           command: bundle check || bundle install
