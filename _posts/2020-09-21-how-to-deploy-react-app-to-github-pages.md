@@ -31,7 +31,7 @@ Here are some steps you need to follow:
 - Add a homepage url:
 
 ```javascript
-"homepage": "https://{github_user_name}.github.io/react-playground",
+"homepage": "https://{github_user_name}.github.io/{repository_name}",
 ```
 
 ![](./../../../assets/images/DeployReactAppGithubPages/01_homepage.png)
