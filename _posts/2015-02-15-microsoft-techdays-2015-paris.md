@@ -12,6 +12,8 @@ It’s the third year I’ve participated the Microsoft Techdays at Paris. There
 
 It’s always a good experience to find out there are so many peers working on Microsoft technologies. Since Microsoft are making its frameworks and libraries open source, there will surely be more people embracing Microsoft technologies.
 
+<!--more-->
+
 ![](./../../../assets/images/Techdays2015Paris/01.png)
 
 
