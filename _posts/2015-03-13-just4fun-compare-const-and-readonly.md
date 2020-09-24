@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Just4Fun - const and readonly comparison in C#
-description: Just4Fun - const and readonly comparison in C#
+title: Just4Fun - compare const and readonly in C#
+description: Just4Fun - compare const and readonly in C#
 excerpt_separator:  <!--more-->
-tags: Csharp
-canonical_url: 'https://sunjiangong.com/just-for-fun-const-and-readonly-comparison-in-csharp/'
+tags: Just4Fun
+canonical_url: 'https://sunjiangong.com/just-for-fun-compare-const-and-readonly-in-csharp/'
 ---
 
 Today let us talk about const and readonly.
