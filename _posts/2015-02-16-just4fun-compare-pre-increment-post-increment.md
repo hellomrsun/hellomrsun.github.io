@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just4Fun - play with PreIncrement and PostIncrement in csharp
+title: Just4Fun - play with PreIncrement and PostIncrement in C#
 description: Just4Fun - play with PreIncrement and PostIncrement in csharp
 excerpt_separator:  <!--more-->
 tags: Just4Fun
