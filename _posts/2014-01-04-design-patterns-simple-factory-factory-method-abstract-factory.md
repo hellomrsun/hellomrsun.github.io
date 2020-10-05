@@ -3,13 +3,12 @@ layout: post
 title: Design Patterns VI - Simple Factory, Factory Method, Abstract Factory
 description: Introduction to Design Patterns - Simple Factory, Factory Method, Abstract Factory
 excerpt_separator:  <!--more-->
-tags: Visual-Studio
+tags: Design-Patterns
 canonical_url: 'https://sunjiangong.com/design-patterns-factory-patterns-simple-factory-factory-method-abstract-factory/'
 ---
 
 
 I want to introduce the factory patterns here, including Simple Factory, Factory Method and Abstract Factory.
-
 
 As the name simple factory implies, you have a factory class to create different objects depending on your requirement. All your logic will be included in the factory class.
 
