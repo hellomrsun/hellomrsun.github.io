@@ -15,6 +15,8 @@ You can add a hard reference of the WCF service's .svc file in a temporary proje
 
 If you have the source code of WCF service, you can get them directly from the source code.
 
+<!--more-->
+
 Then, paste the ServiceContract and DataContract classes in your client project.
 
 ```csharp        
