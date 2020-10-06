@@ -7,7 +7,7 @@ tags: Excel
 canonical_url: 'https://sunjiangong.com/compare-excel-generation-library-openxmlsdk-and-closedxml-in-csharp/'
 ---
 
-I need to generate Excel files in my recent work. The file is not huge and it's about around 5000 lines.
+I need to generate Excel files in my recent work. The file is not huge and it's around 5000 lines.
 
 I have tried two open source libraries to generate them. 
 
@@ -24,7 +24,7 @@ So here, I just compare the OpenXmlSdk and ClosedXml.
 
 ### 1. OpenXmlSdk
 
-OpenXmlSdk is a SDK developed by microsoft [SDK](https://github.com/OfficeDev/Open-XML-SDK){:target="_blank"} to operate on different types of Microsoft Office tools.
+OpenXmlSdk is a SDK developed by Microsoft [SDK](https://github.com/OfficeDev/Open-XML-SDK){:target="_blank"} to manipulate different types of file like Excel, PowerPoint etc.
 
 You can download its nuget package: [DocumentFormat.OpenXml](https://www.nuget.org/packages/DocumentFormat.OpenXml/){:target="_blank"}
 
@@ -40,7 +40,7 @@ The Open XML SDK provides tools for working with Office Word, Excel, and PowerPo
 - Document modification, such as adding, updating, and removing content and metadata.
 ```
 
-You can create a Excel document with the following sample code:
+You can create an Excel document with the following sample code:
 
 ```csharp
 public static void CreateSpreadsheetWorkbook(string filepath)
@@ -143,7 +143,7 @@ cell2.CellValue = new CellValue(number.ToString());
 cell2.DataType = new EnumValue<CellValues>(CellValues.Number);
 ```
 
-But when you write data in this way, you have to manage create all cells before. It's quite time consuming and you could create wrong cells which cause Format error.
+But when you write data in this way, you have to create all cells before. It's quite time consuming and you could create wrong types of cells which could cause Format error.
 
 I would say I've met some problems in my try of this library, and the integration process was not smooth. There are not so much documentation and sample code about this library.
 
