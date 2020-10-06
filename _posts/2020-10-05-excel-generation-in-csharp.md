@@ -15,6 +15,8 @@ They are:
 - **OpenXmlSdk**
 - **ClosedXml**
 
+<!--more-->
+
 There is very good library **EPPlus** which is very popular. It has become a commercial product since the version 5, so a license is required for commercial use. I work for a French bank, and I prefer to use an open source library because of the long purchase procedure in the bank and the cost.
 
 So here, I just compare the OpenXmlSdk and ClosedXml.
