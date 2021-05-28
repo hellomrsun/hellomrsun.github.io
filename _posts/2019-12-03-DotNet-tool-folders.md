@@ -22,6 +22,7 @@ So, here I summarize the most frequently used utility folders in .NET developmen
 - [1. DotNet Framework folder](#1-dotnet-framework-folder)
 - [2. Microsoft SDK folder](#2-microsoft-sdk-folder)
 - [3. Visual Studio folder](#3-visual-studio-folder)
+- [4. .NET Core SDK Folder](#4-net-core-sdk-folder)
 
 <br/>
 
@@ -200,4 +201,15 @@ Folder structure:
         * <b>WcfSvcHost.exe</b>: Windows Communication Foundation (WCF) Service Host (WcfSvcHost.exe) allows you to launch the Visual Studio debugger (F5) to automatically host and test a service you have implemented. You can then test the service using WCF Test Client (WcfTestClient.exe), or your own client, to find and fix any potential errors. See more: [WcfSvcHost.exe](https://docs.microsoft.com/en-us/dotnet/framework/wcf/wcf-service-host-wcfsvchost-exe)
         * <b>WcfTestClient.exe</b>: Windows Communication Foundation (WCF) Test Client (WcfTestClient.exe) is a GUI tool that enables users to input test parameters, submit that input to the service, and view the response that the service sends back. It provides a seamless service testing experience when combined with WCF Service Host. See more: [WcfTestClient.exe](https://docs.microsoft.com/en-us/dotnet/framework/wcf/wcf-test-client-wcftestclient-exe)
         * <b>XDesProc.exe</b>
+
+
+#### 4. .NET Core SDK Folder ####
+
+
+```cmd
+C:\Users\xxx>dotnet --list-sdks
+2.1.811 [C:\Program Files\dotnet\sdk]
+3.1.404 [C:\Program Files\dotnet\sdk]
+5.0.101 [C:\Program Files\dotnet\sdk]
+```
 
