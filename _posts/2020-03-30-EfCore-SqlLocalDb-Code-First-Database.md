@@ -2,7 +2,7 @@
 layout: post
 title: How to do Code-First approach with Entity Framework Core and SQL LocalDB
 excerpt_separator:  <!--more-->
-tags: Entity-Framework Entity-Framework-Core Code-First SqlLocalDb
+tags: Entity-Framework | Entity-Framework-Core | Code-First SqlLocalDb
 canonical_url: 'https://sunjiangong.com/entity-framework-core-code-first-database-with-sql-localdb/'
 ---
 

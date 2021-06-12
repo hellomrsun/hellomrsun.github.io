@@ -2,7 +2,7 @@
 layout: post
 title: REST API Design - What is OpenAPI-compliant API?
 excerpt_separator:  <!--more-->
-tags: REST Web-Api
+tags: REST | Web-Api
 canonical_url: 'https://sunjiangong.com/rest-api-design-openapi-specification-oas-openapi-initiative-oai/'
 ---
 

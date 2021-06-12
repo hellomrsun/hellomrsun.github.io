@@ -2,7 +2,7 @@
 layout: post
 title: How to transform web config or app config by environment in visual studio
 excerpt_separator:  <!--more-->
-tags: DevOps MsBuild VisualStudio ConfigurationTransform
+tags: DevOps | MsBuild | VisualStudio | ConfigurationTransform
 canonical_url: 'https://sunjiangong.com/how-to-transform-web-config-app-config-by-environment-visual-studio/'
 ---
 
