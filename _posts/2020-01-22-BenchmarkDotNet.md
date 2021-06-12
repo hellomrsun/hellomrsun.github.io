@@ -2,7 +2,7 @@
 layout: post
 title: How to make benchmark with BenchmarkDotNet?
 excerpt_separator:  <!--more-->
-tags: DotNet, Profiler, Benchmark
+tags: DotNet Profiler Benchmark
 canonical_url: 'https://sunjiangong.com/how-to-make-benchmark-with-benchmarkdotnet/'
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: How to deploy react app to GitHub pages
 excerpt_separator:  <!--more-->
-tags: React, Github-Pages
+tags: React Github-Pages
 canonical_url: 'https://sunjiangong.com/how-to-deploy-react-app-to-github-pages/'
 ---
 

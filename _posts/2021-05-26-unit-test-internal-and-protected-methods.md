@@ -3,7 +3,7 @@ layout: post
 title: How to create unit tests on internal methods and protected methods in .net core?
 description: How to create unit tests on internal methods and protected methods in dotnet core?
 excerpt_separator:  <!--more-->
-tags: DotNet-Core, DotNet, Unit-Test
+tags: DotNet-Core DotNet Unit-Test
 canonical_url: 'https://sunjiangong.com/how-to-unit-test-internal-methods-and-protected-methods-in-dotnet-core/'
 ---
 

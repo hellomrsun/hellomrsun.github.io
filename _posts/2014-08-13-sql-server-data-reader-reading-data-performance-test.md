@@ -3,7 +3,7 @@ layout: post
 title: SQL Server data reader reading data performance test
 description: SQL Server data reader reading data performance test
 excerpt_separator:  <!--more-->
-tags: Performance, SQL-Server
+tags: Performance SQL-Server
 canonical_url: 'https://sunjiangong.com/sql-server-data-reader-reading-data-performance-test/'
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: What is the difference between PE (Portable Executable) and CIL (Common Intermediate Language)?
 excerpt_separator:  <!--more-->
-tags: PE, CIL
+tags: PE CIL
 canonical_url: 'https://sunjiangong.com/what-is-the-difference-between-pe-(portable-executable)-and-cil-(common-intermediate-language)/'
 ---
 

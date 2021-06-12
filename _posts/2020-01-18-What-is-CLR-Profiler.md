@@ -2,7 +2,7 @@
 layout: post
 title: What is CLR profiler?
 excerpt_separator:  <!--more-->
-tags: Profiler, CLR
+tags: Profiler CLR
 canonical_url: 'https://sunjiangong.com/what-is-clr-profiler/'
 ---
 
