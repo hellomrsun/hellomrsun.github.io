@@ -2,7 +2,7 @@
 layout: post
 title: How to change ASP NET MVC Web API output to camelCase
 excerpt_separator:  <!--more-->
-tags: WebApi
+tags: Web-Api
 canonical_url: 'https://sunjiangong.com/how-to-change-aspnet-mvc-webapi-output-to-camel-case/'
 ---
 

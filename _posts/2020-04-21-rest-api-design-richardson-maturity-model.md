@@ -2,7 +2,7 @@
 layout: post
 title: REST API Design - Richardson Maturity Model
 excerpt_separator:  <!--more-->
-tags: REST API
+tags: REST, Web-Api
 canonical_url: 'https://sunjiangong.com/rest-api-design-richardson-maturity-model/'
 ---
 

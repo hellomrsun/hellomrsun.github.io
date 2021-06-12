@@ -2,7 +2,7 @@
 layout: post
 title: What is the difference between ASMX, WCF, and ASP.NET Web API?
 excerpt_separator:  <!--more-->
-tags: .NET ASMX WCF WebApi REST SOAP
+tags: DotNet, Web-Service, Web-Api
 canonical_url: 'https://sunjiangong.com/what-is-the-difference-between-asmx-wcf-and-asp-net-web-api/'
 ---
 

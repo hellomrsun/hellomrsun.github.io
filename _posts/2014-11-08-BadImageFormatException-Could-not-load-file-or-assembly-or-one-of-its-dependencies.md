@@ -3,7 +3,7 @@ layout: post
 title: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
 description: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
 excerpt_separator:  <!--more-->
-tags: Visaul-Studio
+tags: Visual-Studio
 canonical_url: 'https://sunjiangong.com/badimageformatexception-could-not-load-file-or-assembly-or-one-of-its-dependencies-in-Visual-Studio/'
 ---
 

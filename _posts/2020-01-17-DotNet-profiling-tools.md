@@ -2,7 +2,7 @@
 layout: post
 title: .NET Profiling tools 
 excerpt_separator:  <!--more-->
-tags: .NET Profiler
+tags: DotNet-Profiler
 canonical_url: 'https://sunjiangong.com/dotnet-profiling-tools/'
 ---
 

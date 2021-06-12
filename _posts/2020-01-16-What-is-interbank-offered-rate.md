@@ -2,7 +2,7 @@
 layout: post
 title: What is Inter-Bank Offered Rate 
 excerpt_separator:  <!--more-->
-tags: Finance IBOR
+tags: Finance, IBOR
 canonical_url: 'https://sunjiangong.com/what-is-inter-bank-offered-rate-bor/'
 ---
 

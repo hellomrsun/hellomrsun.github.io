@@ -3,7 +3,7 @@ layout: post
 title: .Net framework utility folders
 description: DotNet Framework, Microsoft SDK, Visual studio utility folder
 excerpt_separator:  <!--more-->
-tags: .NET Utility
+tags: DotNet-Utility
 canonical_url: 'https://sunjiangong.com/what-are-dotnet-framework-utility-folders/'
 ---
 
