@@ -3,7 +3,7 @@ layout: post
 title: SQL server full-text index and its stop words
 description: SQL server full-text index and its stop words
 excerpt_separator:  <!--more-->
-tags: SQL-Server, 
+tags: SQL-Server
 canonical_url: 'https://sunjiangong.com/sql-server-full-text-index-stop-words-stop-list/'
 ---
 
@@ -56,18 +56,7 @@ The full-text search then pulls the converted data from the word lists, processe
 **Full-text index creation:**
 
 
-1. Create full-text catelog 
-
-A full-text catalog is a logical concept that refers to a group of full-text indexes. Catalogs makes it easier for maintaining full text indexes.
-
-- SQL Server 2005: A full-text catalog is a physical structure that must reside on the local hard drive associated with the SQL Server instance. Each catalog is part of a specific filegroup. If no filegroup is specified when the catalog is created, the default filegroup is used.
-- SQL Server 2008: A full-text catalog is a logical concept that refers to a group of full-text indexes. The catalog is not associated with a filegroup.
-
-```sql
-CREATE FULLTEXT CATALOG [FT_CATALOG_Client] WITH ACCENT_SENSITIVITY = OFF
-```
-
-2. Create full-text index
+1. Create a working table
 
 Let's firstly create a client table.
 
@@ -83,7 +72,7 @@ CREATE TABLE dbo.Client (
 ```
 <br/>
 
-Insert mock data:
+2. Insert fake data:
 
 ```sql
 INSERT INTO dbo.Client (FirstName, LastName, EmailAddress, CreationDate)
@@ -95,9 +84,21 @@ CROSS JOIN Client c2
 GO 50000 --repeat 50000 times
 ```
 
+
+3. Create full-text catelog 
+
+A full-text catalog is a logical concept that refers to a group of full-text indexes. Catalogs makes it easier for maintaining full text indexes.
+
+- SQL Server 2005: A full-text catalog is a physical structure that must reside on the local hard drive associated with the SQL Server instance. Each catalog is part of a specific filegroup. If no filegroup is specified when the catalog is created, the default filegroup is used.
+- SQL Server 2008: A full-text catalog is a logical concept that refers to a group of full-text indexes. The catalog is not associated with a filegroup.
+
+```sql
+CREATE FULLTEXT CATALOG [FT_CATALOG_Client] WITH ACCENT_SENSITIVITY = OFF
+```
+
 <br/>
 
-Create full-text index:
+4. Create full-text index:
 
 ```sql
 CREATE FULLTEXT INDEX ON dbo.Client(
