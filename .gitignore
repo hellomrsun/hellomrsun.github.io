@@ -43,7 +43,7 @@ node_modules
 
 # Dev stuff
 Makefile
-Gemfile.lock
+#Gemfile.lock
 _config.dev.yml
 .vscode
 *.gem
