@@ -9,7 +9,7 @@ canonical_url: 'https://sunjiangong.com/sql-server-full-text-index-stop-words-st
 
 Full-text index is different from clustered and non-clustered index in SQL Server.
 
-**Clustered and non-clustered index use a B-tree structure.**
+# Clustered and non-clustered index use a B-tree structure.
 
 One table can have only one clustered index. And table data is physically ordered and stored into pages based on the clustered index. Page is the fundamental unit of data storage in SQL Server.
 
@@ -17,7 +17,7 @@ The table data is organized with root node (type: INDEX_PAGE), intermediate node
 
 <br/>
 
-**Clustered index structure**:
+## Clustered index structure:
 
 ![](./../../../assets/images/20210612-Fulltext-stoplist/1-clustered-index-structure.jpg)
 
@@ -28,7 +28,7 @@ instead of DATA_PAGEs, as table data can only be physcially ordered by clustered
 
 <br/>
 
-**Clustered index vs non-clustered index**:
+## Clustered index vs non-clustered index:
 
 ![](./../../../assets/images/20210612-Fulltext-stoplist/2-clustered-index-vs-non-clustered-index.PNG)
 
@@ -40,7 +40,7 @@ It's based on individual **tokens** from the text being indexed, built and maint
 
 <br/>
 
-**Full-text search architecture:**
+# Full-text search architecture:
 
 ![](./../../../assets/images/20210612-Fulltext-stoplist/3-fulltext-index-architecture.gif)
 
@@ -58,10 +58,10 @@ Inverted index flow:
 
 <br/>
 
-**Full-text index creation:**
+## Full-text index creation:
 
 
-1. Create a working table
+### Create a working table
 
 Let's firstly create a client table.
 
@@ -77,7 +77,7 @@ CREATE TABLE dbo.Client (
 ```
 <br/>
 
-2. Insert fake data:
+### Insert fake data:
 
 You can generate fake data with mockaroo.com, and then insert them into the table.
 
@@ -96,7 +96,7 @@ GO 50000 --repeat 50000 times
 ```
 
 
-3. Create full-text catelog 
+### Create full-text catelog 
 
 A full-text catalog is a logical concept that refers to a group of full-text indexes. Catalogs makes it easier for maintaining full text indexes.
 
@@ -109,7 +109,7 @@ CREATE FULLTEXT CATALOG [FT_CATALOG_Client] WITH ACCENT_SENSITIVITY = OFF
 
 <br/>
 
-4. Create full-text index:
+### Create full-text index:
 
 ```sql
 CREATE FULLTEXT INDEX ON dbo.Client(
@@ -154,7 +154,9 @@ You can check the stopwords on US English in SQL Server with its language_id wit
 select * from sys.fulltext_system_stopwords where language_id = 1033
 ```
 
-There are 154 words in the result list: 
+<br/>
+There are 154 words in the result list:
+
 $,0,1,2,3,4,5,6,7,8,9,
 A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,
 about,after,all,also,an,and,another,any,are,as,at,be,
@@ -188,6 +190,9 @@ Then the search will work.
 
 ![](./../../../assets/images/20210612-Fulltext-stoplist/8-fulltext-search-stoplist-disabled.PNG)
 
+
+<br/>
+<br/>
 
 **References:**
 - https://sqlhints.com/tag/clustered-index-b-tree-structure/
