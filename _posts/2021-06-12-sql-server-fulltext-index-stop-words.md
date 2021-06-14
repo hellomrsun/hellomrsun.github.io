@@ -52,6 +52,11 @@ The host filters and word breaks the data and converts the converted data into i
 
 The full-text search then pulls the converted data from the word lists, processes the data to remove stopwords, and persists the word lists for a batch into one or more inverted indexes.
 
+Inverted index flow:
+
+![](./../../../assets/images/20210612-Fulltext-stoplist/9-inverted-index.jpg)
+
+<br/>
 
 **Full-text index creation:**
 
@@ -73,6 +78,12 @@ CREATE TABLE dbo.Client (
 <br/>
 
 2. Insert fake data:
+
+You can generate fake data with mockaroo.com, and then insert them into the table.
+
+![](./../../../assets/images/20210612-Fulltext-stoplist/10-mockaroo.PNG)
+
+Then, create more fake data with **CROSS JOIN**.
 
 ```sql
 INSERT INTO dbo.Client (FirstName, LastName, EmailAddress, CreationDate)
@@ -182,3 +193,4 @@ Then the search will work.
 - https://sqlhints.com/tag/clustered-index-b-tree-structure/
 - https://www.mssqltips.com/sqlservertutorial/9133/sql-server-nonclustered-indexes/
 - https://docs.microsoft.com/en-us/sql/relational-databases/search/full-text-search?view=sql-server-ver15
+- https://community.hitachivantara.com/s/article/search-the-inverted-index
