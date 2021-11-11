@@ -23,6 +23,8 @@ Here is an example that may inspire you in your development.
 </button>
 ```
 
+<!--more-->
+
 Define a file object to use in file download and upload.
 
 ```typescript
