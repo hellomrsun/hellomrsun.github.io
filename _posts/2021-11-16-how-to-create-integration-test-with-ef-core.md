@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to create integration tests in ef core?
-description: How to create integration tests in ef core (entity framework core)
+title: How to create integration tests with Entity Framework (EF) core?
+description: How to create integration tests with ef core (Entity Framework Core)
 excerpt_separator:  <!--more-->
 tags: C#, Entity-Framework-Core, Entity-Framework
-canonical_url: 'https://sunjiangong.com/how-to-create-integration-test-in-entity-framework-core/'
+canonical_url: 'https://sunjiangong.com/how-to-create-integration-test-with-entity-framework-core/'
 ---
 
 It's not easy to create integration test with database, no matter whether you create queries directly against entity framework's DbContext or you create your queries with repositary pattern which operate on your DbSets.
