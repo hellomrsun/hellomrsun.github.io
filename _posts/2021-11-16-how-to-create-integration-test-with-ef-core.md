@@ -64,7 +64,7 @@ Then, you just need to create your test with the prepared data and test if the c
 
 ```csharp
 [Test]
-public async Task Should_get_broker_associated_courtage_cto_return_all_ctos_when_no_broker_mapping_found()
+public async Task Shouw_get_users_ok()
 {
     //Arrange
     var users = new List<User>{
