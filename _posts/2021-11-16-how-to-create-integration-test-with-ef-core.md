@@ -3,7 +3,7 @@ layout: post
 title: How to create integration tests in ef core?
 description: How to create integration tests in ef core (entity framework core)
 excerpt_separator:  <!--more-->
-tags: C#, Entity-Framework
+tags: C#, Entity-Framework-Core, Entity-Framework
 canonical_url: 'https://sunjiangong.com/how-to-create-integration-test-in-entity-framework-core/'
 ---
 
@@ -17,7 +17,7 @@ The good news is you can use the EF core's in-memory database provider to tackle
 
 Firstly, install the nuget package "Microsoft.EntityFrameworkCore.InMemory".
 
-```npm
+```cmd
 Install-Package Microsoft.EntityFrameworkCore.InMemory -Version 6.0.0
 ```
 
