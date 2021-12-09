@@ -1,5 +1,5 @@
 ---
-layout: post
+<layout: post
 title: An optimized version of function sys.fn_cdc_is_bit_set
 description: An optimized version of function sys.fn_cdc_is_bit_set, Change Data Capture Table, update_mask
 excerpt_separator:  <!--more-->
@@ -12,6 +12,8 @@ Change Data Capture (CDC) table uses __$update_mask to track the modifications o
 __$update_mask's type is varbinary(128)
 
 The function **sys.fn_cdc_is_bit_set** is provided within Microsoft SQL Server. It is used to calculate if the value of a column is modified, based on the column's position and the __$update_mask.
+
+<br />
 
 Its signature is:
 
