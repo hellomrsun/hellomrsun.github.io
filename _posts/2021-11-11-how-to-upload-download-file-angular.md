@@ -3,7 +3,7 @@ layout: post
 title: How to upload and download file in Angular 5+ and .net core
 description: How to upload and download file in Angular 5+ and .net core
 excerpt_separator:  <!--more-->
-tags: Angular, CSharp
+tags: Angular | CSharp
 canonical_url: 'https://sunjiangong.com/how-to-upload-and-download-file-in-angular-and-dotnet-core/'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: How to create integration tests with Entity Framework (EF) core?
 description: How to create integration tests with ef core (Entity Framework Core)
 excerpt_separator:  <!--more-->
-tags: CSharp, Entity-Framework-Core, Entity-Framework
+tags: CSharp | Entity-Framework-Core | Entity-Framework
 canonical_url: 'https://sunjiangong.com/how-to-create-integration-test-with-entity-framework-core/'
 ---
 

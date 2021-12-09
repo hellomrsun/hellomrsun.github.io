@@ -3,7 +3,7 @@ layout: post
 title: Microsoft .NET challenge France 2020 final
 description: Microsoft .NET challenge France 2020 final, A Csharp Dotnet Azure Algorithm competition organized by Softfluent, Microsoft, EditX
 excerpt_separator:  <!--more-->
-tags: DotNET, CSharp, Tech-Events
+tags: DotNET | CSharp | Tech-Events
 canonical_url: 'https://sunjiangong.com/microsoft-dotnet-challenge-france-2020-final/'
 ---
 
