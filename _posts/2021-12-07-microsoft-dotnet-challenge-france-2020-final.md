@@ -7,7 +7,7 @@ tags: DotNET, CSharp, Tech-Events
 canonical_url: 'https://sunjiangong.com/microsoft-dotnet-challenge-france-2020-final/'
 ---
 
-I've participated in the third Microsoft .NET challenge France 2020, eventually one year later. ;)
+I've participated in the Microsoft .NET challenge France 2020 final, eventually one year later. ;)
 
 The Microsoft .NET challenge France is co-organized by several companies:
 
