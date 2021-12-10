@@ -13,6 +13,7 @@ __$update_mask's type is varbinary(128)
 
 The function **sys.fn_cdc_is_bit_set** is provided within Microsoft SQL Server. It is used to calculate if the value of a column is modified, based on the column's position and the __$update_mask.
 
+<!--more-->
 <br />
 
 Its signature is:
