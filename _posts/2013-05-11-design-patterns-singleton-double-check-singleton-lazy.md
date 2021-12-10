@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Design patterns - Singleton, Double-Check Locking Singleton and Lazy initialization
+description: C#, CSharp, Design patterns, Singleton, Double-Check Locking Singleton and Lazy initialization
 excerpt_separator:  <!--more-->
 tags: Design-Patterns
 canonical_url: 'https://sunjiangong.com/design-patterns-singleton-double-check-locking-singleton-lazy-initialization/'
