@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to change an existing column to auto-increment column in SQL Server
-description: How to change an existing column to auto-increment column in SQL Server
+description: How to change an existing column to auto-increment column in SQL Server, MS SQL Server
 excerpt_separator:  <!--more-->
 tags: SQL
 canonical_url: 'https://sunjiangong.com/how-to-change-an-existing-column-to-auto-increment-column-in-sql-server/'

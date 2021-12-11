@@ -3,7 +3,7 @@ layout: post
 title: Conditional binding with trigger in WPF
 description: Conditional binding with trigger in WPF
 excerpt_separator:  <!--more-->
-tags: Profiler
+tags: WPF
 canonical_url: 'https://sunjiangong.com/conditional-binding-with-trigger-in-wpf/'
 ---
 
