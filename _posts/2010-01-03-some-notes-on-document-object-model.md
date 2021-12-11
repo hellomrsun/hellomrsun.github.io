@@ -35,13 +35,8 @@ The window object represents the window itself. It is created automatically with
 Assignment Description
 
 Create a Web page with functionality for displaying the different properties of the window, window.screen, window.navigator window.location, window.history and window.document objects.
- 
 
-Original Address:  http://www.webpelican.com/internet-programming-3/dom-properties/
 
-dom Structure see:  http://www.howtocreate.co.uk/tutorials/javascript/domstructure
-
- 
 Basic object model for all modern browsers:
 
 
@@ -68,3 +63,33 @@ I have done a testing code about all the objects in DOM, it concerns all the pro
 
 Here is the code:
 
+```html
+<html>
+<head>
+<title>All the DOM objects</title>
+<script type="text/javascript">
+function showBrowserType() {
+document.getElementById("readout").innerHTML = navigator.userAgent+"! "+navigator.appName+"! "+navigator.appCodeName+"! "+navigator.appVersion+"! "+ navigator.cookieEnabled+"! "+navigator.platform+"!";
+
+document.getElementById("window").innerHTML = window.name+"! "+window.defaultStatus+"! "+window.status+"! "+window.opener+"! "+window.parent+"! "+window.top+"! "+window.closed+"! ";
+
+//等价于
+document.getElementById("window").innerHTML = name+"! "+status+"! "+opener+"!"+parent+"! "+top+"!"+closed+"! "+defaultStatus+"! ";
+document.getElementById("screen").innerHTML = screen.width+"! "+screen.height+"! "+screen.colorDepth+"! "+screen.availableWidth+"! "+screen.availableHeight+"! ";
+document.getElementById("location").innerHTML = location.href+"! "+location.protocol+"! "+location.hostname+"! "+location.host+"! "+location.port+"! "+location.pathname+"! "+location.hash+"! "+location.search+"! ";
+document.getElementById("history").innerHTML = history.length+"! ";
+document.getElementById("document").innerHTML = document.cookie+"! "+document.referer+"! "+document.domain+"! "+document.lastModified+"! ";
+}
+window.onload = showBrowserType;
+</script>
+</head>
+<body>
+<div id="readout" style="background-color:green"></div><br/><br/>
+<div id="window" style="background-color:blue"></div><br/><br/>
+<div id="screen" style="background-color:yellow"></div><br/><br/>
+<div id="location" style="background-color:red"></div><br/><br/>
+<div id="history" style="background-color:orange"></div><br/><br/>
+<div id="document" style="background-color:clay"></div><br/>
+</body>
+</html>
+```
