@@ -1,10 +1,14 @@
 ---
 layout: post
-title: IIS configuration with support of multiple domain urls
+read_time: true
+show_date: true
+title:  IIS configuration with support of multiple domain urls
+date:   2011-11-08 08:00:00 +0100
 description: IIS configuration with support of multiple domain urls
-excerpt_separator:  <!--more-->
-tags: IIS
-canonical_url: 'https://sunjiangong.com/IIS-configuration-with-support-of-multiple-domain-urls/'
+img: posts/uncategorized/iis.png
+tags: [IIS]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 Today I have encountered a problem, I spent 3 hours and a half for figuring it out. I need to make the application compatible with muiltiple domain urls. 
@@ -25,8 +29,6 @@ if (Request.Url.Host.IndexOf('.') == 2 || Request.Url.Host.IndexOf('.') == 6)
 	Culture cult = GetCulture(l).FirstOrDefault();
 }
 ```
-
-<!--more-->
 
 I have two test cases in my recette envrionment, on called Contrib, the other call Front. They hold the same codes and same configurations. But in fact it works in one case and not the other one.
 

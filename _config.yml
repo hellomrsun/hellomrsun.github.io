@@ -1,41 +1,79 @@
-# Dependencies
-markdown: kramdown
-highlighter: rouge
-
-# Setup
+# Site settings
 title: SUN Jiangong
-tagline: "A Senior .NET engineer, Software Craftsman"
-description: "A Senior .NET engineer, Software Craftsman"
-url: https://sunjiangong.com
-baseurl:
-  ""
-  # the optional subpath of your site, e.g. "/blog"
-  # NB: This applies to all pages in your Jekyll site.
-  # If you want to move just the blog index pages but keep
-  # other pages at root, see the paginate_path and
-  # sidebar_blog_link below.
+description: 'A senior .NET engineer, software craftsman. Passionate about new technologies.' # this means to ignore newlines until "baseurl:"
+permalink: ':title:output_ext'
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://sunjiangong.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/img/banner-white.PNG"
+logo-icon: "/assets/img/favicon.png"
+logo-icon-SEO: "/assets/img/favicon.png" # must be a non SVG file
+
+# Night/Dark mode
+# Default mode is "auto", "auto" is for auto nightshift
+# (19:00 - 07:00), "manual" is for manual toggle, and
+# "on/off" is for default on/off.
+#
+# Whatever the user's choice is, it will supersede the
+# default setting of the site and be kept during the
+# visit (session). Only the dark mode setting is "manual",
+# it will be always kept on every visit (i.e. no matter
+# the browser is closed or not)
+night_mode: "auto"
+
+logo-dark: "/assets/img/banner-black.PNG"
+highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
+
+# Author settings
+author: SUN Jiangong # add your name
+author-pic: profile.jpg
+about-author: A senior .NET engineer, software craftsman. Passionate about new technologies.
+
+# Contact links
+# email:  # Add your Email address
+phone: # Add your Phone number
+website: https://sunjiangong.com # Add your website
+linkedin: sundylan # Add your Linkedin handle
+github: hellomrsun # Add your Github handle
+stackoverflow: 198728 # Add your stackoverflow id
+
+# Newsletter
+mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
+
+# Disqus
+discus_identifier: sun-jiangong-com # Add your discus identifier
+comments_curtain: yes # leave empty to show the disqus embed directly
+
+# Tracker
 google_analytics: true
 
-tags_page: true
-
-author:
-  name: SUN Jiangong
-  url: https://sunjiangong.com
-
+# Paginate
 paginate: 10
-# paginate_path:    '/page:num'
-# Or '/blog/page:num' if you want to move your index pages
+paginate_path: 'page:num'
+words_per_minute: 120
+
+# Build settings
+markdown: kramdown
+mathjax: true
+highlighter: rouge
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+
+# Outputting
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+sass:
+  style: compressed
 
 plugins:
-  - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
+  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-seo-tag
 
-# Sidebar link settings
-sidebar_home_link: true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-# page. If you change your paginate_path,
-# set this to the root of the paginate_path
-# to enable a separate blog link.
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]

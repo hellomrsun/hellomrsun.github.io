@@ -1,17 +1,19 @@
 ---
 layout: post
-title: How to unshelve a shelveset into another branch with TFS?
-description: How to unshelve a shelveset into another branch with TFS?
-excerpt_separator:  <!--more-->
-tags: TFS
-canonical_url: 'https://sunjiangong.com/how-to-unshelve-a-shelveset-into-another-branch-with-tfs/'
+read_time: true
+show_date: true
+title:  How to unshelve a shelveset into another branch with TFS?
+date:   2014-05-21 08:00:00 +0100
+description: How to unshelve a shelveset into another branch with TFS? Team Foundation Server, DevOps
+img: posts/uncategorized/tfs.png
+tags: [TFS]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 If you have made a shelve in one branch, and want to unshelve it to another branch. 
 
 This article will be helpful for you.
-
-<!--more-->
 
 There are some steps to follow:
 

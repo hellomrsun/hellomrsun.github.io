@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Software craftsmanship - code kata
+read_time: true
+show_date: true
+title:  Software craftsmanship - code Kata
+date:   2013-01-25 08:00:00 +0100
 description: Software craftsmanship, code kata, best practice, .NET, Dotnet, C#, Csharp, Agile, Paris Software Craftsmanship
-excerpt_separator:  <!--more-->
-tags: Craftsmanship
-canonical_url: 'https://sunjiangong.com/design-patterns-singleton-double-check-locking-singleton-lazy-initialization/'
+img: posts/uncategorized/craftsman.PNG 
+tags: [Craftsmanship]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 I have participated in a session organized by **Paris Software Craftsmanship Community** yesterday on 24 January 2013; I was among 20 passionate developers who like to optimize and accelerate their project development and sharpen their expertise. 
@@ -17,9 +21,7 @@ Thanks for the organizers **Jean Laurent de Morlhon** and **Cyrille Martraire** 
 
 *Kata is a Japanese word (型 or 形) meaning “form”. It refers to a detailed choreographed pattern of martial arts movements made to be practiced alone. It can also be reviewed within groups and in unison when training. It is practiced in Japanese martial arts as a way to memorize and perfect the movements being executed.*
 
-<!--more-->
-
-![](./../../../assets/images/2013-01-25-code-kata/code-kata.jpg)
+![](./../../../assets/img/posts/2013-01-25-code-kata/code-kata.jpg)
 
 <br />
 

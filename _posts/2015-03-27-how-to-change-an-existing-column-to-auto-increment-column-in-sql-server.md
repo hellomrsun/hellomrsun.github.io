@@ -1,10 +1,14 @@
 ---
 layout: post
-title: How to change an existing column to auto-increment column in SQL Server
-description: How to change an existing column to auto-increment column in SQL Server, MS SQL Server
-excerpt_separator:  <!--more-->
-tags: SQL
-canonical_url: 'https://sunjiangong.com/how-to-change-an-existing-column-to-auto-increment-column-in-sql-server/'
+read_time: true
+show_date: true
+title:  How to change an existing column to auto-increment column in SQL Server?
+date:   2015-03-27 08:00:00 +0100
+description: How to change an existing column to auto-increment column in SQL Server?
+img: posts/uncategorized/sqlserver.PNG
+tags: [SQLServer]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 
@@ -16,8 +20,6 @@ The following code is not working:
 ALTER TABLE [dwh].[ExchangeRate]
 ALTER COLUMN [ExchangeRateId] Int Identity(1, 1)
 ```
-
-<!--more-->
 
 What you could do is :
 - Create a new column with auto-increment

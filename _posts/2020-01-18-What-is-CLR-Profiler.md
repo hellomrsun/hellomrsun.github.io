@@ -1,20 +1,23 @@
 ---
 layout: post
-title: What is CLR profiler?
-excerpt_separator:  <!--more-->
-tags: Profiler | CLR
-canonical_url: 'https://sunjiangong.com/what-is-clr-profiler/'
+read_time: true
+show_date: true
+title:  What is CLR profiler?
+date:   2020-01-18 08:00:00 +0100
+description: What is CLR profiler? 
+img: posts/2020-01-18-ClrProfiler/StringBenchmark.png
+tags: [Profiler]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 CLR Profiler is a .NET tool, developed by Microsoft, to evaluate the C# applications (.exe) performances.
-
-<!--more-->
 
 You could CLR profiler to view statistics like Heap statistics, Garbage Collection statistics, GC Handle Statistics etc.
 
 <b>CLR Profiler interface:</b>
 
-![](./../../../assets/images/ClrProfiler/CLR_Profiler.PNG)
+![](./../../../assets/img/posts/2020-01-18-ClrProfiler/CLR_Profiler.PNG)
 
 
 <br/>
@@ -41,7 +44,7 @@ public class StringBenchmark
 
 Result:
 
-![](./../../../assets/images/ClrProfiler/StringBenchmark.PNG)
+![](./../../../assets/img/posts/2020-01-18-ClrProfiler/StringBenchmark.PNG)
 
 
 <br/>
@@ -64,7 +67,7 @@ public class StringBuilderBenchmark
 
 Result:
 
-![](./../../../assets/images/ClrProfiler/StringBuilderBenchmark.PNG)
+![](./../../../assets/img/posts/2020-01-18-ClrProfiler/StringBuilderBenchmark.PNG)
 
 
 You can compare the differences in the two reports.

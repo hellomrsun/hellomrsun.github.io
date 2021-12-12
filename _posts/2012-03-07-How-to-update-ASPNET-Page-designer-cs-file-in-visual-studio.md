@@ -1,10 +1,14 @@
 ---
 layout: post
-title: How to update ASP.NET Page's .designer.cs file in visual studio
+read_time: true
+show_date: true
+title:  How to update ASP.NET Page's .designer.cs file in visual studio
+date:   2012-03-07 08:00:00 +0100
 description: .NET, Dotnet, C#, Csharp, ASP.NET, designer.cs, ASP-NET, Visual Studio
-excerpt_separator:  <!--more-->
-tags: ASPNET | Visual-Studio
-canonical_url: 'https://sunjiangong.com/How-to-update-ASPNET-Page-designer-cs-file-in-visual-studio/'
+img: posts/uncategorized/Visual-Studio.png
+tags: [ASPNET, Visual-Studio]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 I want to add repeater, litteral or register user control in ASP.NET pages. Sometimes the page's ".designer.cs" file doesn't update immediately.
@@ -12,8 +16,6 @@ I want to add repeater, litteral or register user control in ASP.NET pages. Some
 I've tried to close the solution, delete project temporary files in "C:\Windows\Microsoft.NET\Framework\v2.0.50727\Temporary ASP.NET Files", and then reopen the solution.
 
 While it doesn't work at most of the time. It's quite frustrating.
-
-<!--more-->
 
 <br />
 

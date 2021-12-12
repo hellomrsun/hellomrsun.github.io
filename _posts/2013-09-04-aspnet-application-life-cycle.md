@@ -1,10 +1,14 @@
 ---
 layout: post
-title: ASP.NET page lifecycle in IIS
+read_time: true
+show_date: true
+title:  ASP.NET page lifecycle in IIS
+date:   2013-09-04 08:00:00 +0100
 description: ASP.NET page lifecycle in IIS
-excerpt_separator:  <!--more-->
-tags: IIS
-canonical_url: 'https://sunjiangong.com/aspnet-page-lifecycle-in-iis/'
+img: posts/uncategorized/iis.png
+tags: [IIS]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 
@@ -12,8 +16,6 @@ Today, I want to share the knowledge about IIS, Application Life Cycle, request 
 
 
 ASP.NET web sites are developed with Web Forms, MVC, Web Pages and hosted in Internet Information Server (IIS). 
-
-<!--more-->
 
 When  there is a page request, for example: http://www.example.com/index.aspx, IIS will use its Internet Server Application Programming Interface(ISAPI)
 
@@ -29,14 +31,14 @@ ASP.NET Web Forms Page lifecycle is different from ASP.NET MVC.
 
 In Web Forms, page lifecycle model is the following:
 
-![](./../../../assets/images/AspNetPageLifeCycle/webforms_lifecycle.png)
+![](./../../../assets/img/posts/2013-09-04-AspNetPageLifeCycle/webforms_lifecycle.png)
 
 ViewState and PostBack data are loaded in Page_PreLoad event. And Validate and Event are after Page_Load event.
 
 
 Whereas in ASP.NET MVC it is:
 
-![](./../../../assets/images/AspNetPageLifeCycle/mvc_lifecycle.png)
+![](./../../../assets/img/posts/2013-09-04-AspNetPageLifeCycle/mvc_lifecycle.png)
 
 There is not any code behind for pages in MVC. So, the page life cycle is totoally different.
 

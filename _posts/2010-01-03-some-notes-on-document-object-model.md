@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Some notes about DOM (Document Object Model)
+read_time: true
+show_date: true
+title:  Some notes about DOM (Document Object Model)
+date:   2010-01-03 13:32:20 +0100
 description: Some notes about DOM (Document Object Model)
-excerpt_separator:  <!--more-->
-tags: HTML | DOM
-canonical_url: 'https://sunjiangong.com/IIS-configuration-with-support-of-multiple-domain-urls/'
+img: posts/2021-01-03-DOM/window-dom.PNG 
+tags: [DOM]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 
@@ -40,7 +44,7 @@ Create a Web page with functionality for displaying the different properties of 
 Basic object model for all modern browsers:
 
 
-![](./../../../assets/images/2021-01-03-DOM/window-dom.PNG)
+![](./../../../assets/img/posts/2021-01-03-DOM/window-dom.PNG)
 
  
 

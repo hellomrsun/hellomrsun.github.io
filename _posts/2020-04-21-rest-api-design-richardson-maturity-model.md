@@ -1,18 +1,20 @@
 ---
 layout: post
-title: REST API Design - Richardson Maturity Model
-excerpt_separator:  <!--more-->
-tags: REST | Web-Api
-canonical_url: 'https://sunjiangong.com/rest-api-design-richardson-maturity-model/'
+read_time: true
+show_date: true
+title:  REST API Design - Richardson Maturity Model
+date:   2020-04-21 08:00:00 +0100
+description: REST API Design - Richardson Maturity Model, WEB API
+img: posts/uncategorized/open-api.png
+tags: [REST, WebApi]
+author: SUN Jiangong
 ---
 
 Leonard Richardson has defined a Model to determine an REST API maturity, called **Richardson Maturity Model**.
 
 There are 4 levels of maturity.
 
-![](./../../../assets/images/RichardsonMaturityModel/richardson_maturity_model.png)
-
-<!--more-->
+![](./../../../assets/img/posts/2020-04-21-RichardsonMaturityModel/richardson_maturity_model.png)
 
 <br/>
 
@@ -70,6 +72,6 @@ Here is a comparison between an API without HATEOAS and another API with HATEOAS
 
 With HATEOAS, you can see the **href**s and **method**s to be used to achieve the purpose of different **rel**s.
 
-![](./../../../assets/images/RichardsonMaturityModel/rest_vs_hateoas_rest.png)
+![](./../../../assets/img/posts/2020-04-21-RichardsonMaturityModel/rest_vs_hateoas_rest.png)
 
 <br/>

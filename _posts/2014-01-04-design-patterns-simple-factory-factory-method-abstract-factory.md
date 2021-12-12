@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Design Patterns VI - Simple Factory, Factory Method, Abstract Factory
-description: Introduction to Design Patterns - Simple Factory, Factory Method, Abstract Factory
-excerpt_separator:  <!--more-->
-tags: Design-Patterns
-canonical_url: 'https://sunjiangong.com/design-patterns-factory-patterns-simple-factory-factory-method-abstract-factory/'
+read_time: true
+show_date: true
+title:  Design Patterns VI Simple Factory, Factory Method, Abstract Factory
+date:   2014-01-04 08:00:00 +0100
+description: Introduction to Design Patterns Simple Factory, Factory Method, Abstract Factory
+img: posts/uncategorized/design-patterns.PNG
+tags: [DesignPatterns]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 
@@ -13,8 +17,6 @@ I want to introduce the factory patterns here, including Simple Factory, Factory
 As the name simple factory implies, you have a factory class to create different objects depending on your requirement. All your logic will be included in the factory class.
 
 So if you have new types of objects to create in your code, you have to modify your factory class to extend it.
-
-<!--more-->
 
 Here is an example :
 

@@ -1,16 +1,18 @@
 ---
 layout: post
-title: How to deploy react app to GitHub pages
-excerpt_separator:  <!--more-->
-tags: React | Github-Pages
-canonical_url: 'https://sunjiangong.com/how-to-deploy-react-app-to-github-pages/'
+read_time: true
+show_date: true
+title:  How to deploy react app to GitHub pages
+date:   2020-09-21 08:00:00 +0100
+description: How to deploy react app to GitHub pages
+img: posts/2020-09-21-DeployReactAppGithubPages/03_set_source_to_gh-pages.PNG
+tags: [React, GithubPages]
+author: SUN Jiangong
 ---
 
 Github-pages is very practical to host static websites, not only Jekyll based websites, but also Angular, React based static websites etc.
 
 You don't need to purchase a space for the websites hosting. It's totally free! All you need is just a GitHub account. :)
-
-<!--more-->
 
 Here are some steps you need to follow:
 
@@ -34,7 +36,7 @@ Here are some steps you need to follow:
 "homepage": "https://{github_user_name}.github.io/{repository_name}",
 ```
 
-![](./../../../assets/images/DeployReactAppGithubPages/01_homepage.png)
+![](./../../../assets/img/posts/2020-09-21-DeployReactAppGithubPages/01_homepage.png)
 
 - Add **predeploy** and **deploy** steps
 
@@ -50,11 +52,11 @@ Here are some steps you need to follow:
 
 #### 4. Create gh-pages branch in GitHub repository
 
-![](./../../../assets/images/DeployReactAppGithubPages/02_create_gh-pages_branch.PNG)
+![](./../../../assets/img/posts/2020-09-21-DeployReactAppGithubPages/02_create_gh-pages_branch.PNG)
 
 Go to the **Settings** tab in the repository, and set the **gh-pages** branch as source.
 
-![](./../../../assets/images/DeployReactAppGithubPages/03_set_source_to_gh-pages.PNG)
+![](./../../../assets/img/posts/2020-09-21-DeployReactAppGithubPages/03_set_source_to_gh-pages.PNG)
 
 <br />
 

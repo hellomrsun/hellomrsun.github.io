@@ -1,10 +1,14 @@
 ---
 layout: post
-title: How to create proxy to consume WCF service ?
+read_time: true
+show_date: true
+title:  How to create proxy to consume WCF service ?
+date:   2013-10-10 08:00:00 +0100
 description: How to create proxy to consume WCF service ?
-excerpt_separator:  <!--more-->
-tags: WCF
-canonical_url: 'https://sunjiangong.com/create-proxy-to-consume-wcf-service/'
+img: posts/uncategorized/wcf.PNG
+tags: [WCF]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 You want to consume a WCF service, but don't want to Add hard reference of the service's .svc file.
@@ -14,8 +18,6 @@ You can do it by this way.
 You can add a hard reference of the WCF service's .svc file in a temporary project, and get its ServiceContract and DataContract classes.
 
 If you have the source code of WCF service, you can get them directly from the source code.
-
-<!--more-->
 
 Then, paste the ServiceContract and DataContract classes in your client project.
 
@@ -58,9 +60,6 @@ Then you can consume the service without any .svc file reference.
             Console.WriteLine(message);
         }
 ```
-
-
-
 
 
 Enjoy coding! 

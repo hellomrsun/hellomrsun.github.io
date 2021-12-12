@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Design patterns - Singleton, Double-Check Locking Singleton and Lazy initialization
-description: C#, CSharp, Design patterns, Singleton, Double-Check Locking Singleton and Lazy initialization
-excerpt_separator:  <!--more-->
-tags: Design-Patterns
-canonical_url: 'https://sunjiangong.com/design-patterns-singleton-double-check-locking-singleton-lazy-initialization/'
+read_time: true
+show_date: true
+title:  Design patterns - Singleton, Double-Check Locking Singleton and Lazy initialization
+date:   2013-05-11 08:00:00 +0100
+description: Design patterns - Singleton, Double-Check Locking Singleton and Lazy initialization
+img: posts/uncategorized/design-patterns.PNG
+tags: [DesignPatterns]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 Design patterns are a collection of software development best practices in solving commonly occurring problems.
@@ -35,7 +39,7 @@ Singleton is a design pattern used to limit one class to have just **only 1 inst
 **Basic Singleton** example:
 
 
-![](./../../../assets/images/Singleton/basic_singleton.png)
+![](./../../../assets/img/posts/2013-05-11-Singleton/basic_singleton.png)
 
 
 <br/>
@@ -44,7 +48,7 @@ Singleton is a design pattern used to limit one class to have just **only 1 inst
 
 volatile: ensures that one thread retrieves the most up-to-date value written by another thread.
 
-![](./../../../assets/images/Singleton/double_check_locking_singleton.png)
+![](./../../../assets/img/posts/2013-05-11-Singleton/double_check_locking_singleton.png)
 
 
 <br/>
@@ -52,14 +56,14 @@ volatile: ensures that one thread retrieves the most up-to-date value written by
 **Lazy initialization singleton** example:
 
 
-![](./../../../assets/images/Singleton/lazy_initialization_singleton.png)
+![](./../../../assets/img/posts/2013-05-11-Singleton/lazy_initialization_singleton.png)
 
 
 <br/>
 
 Call the methods inside the singleton classes.
 
-![](./../../../assets/images/Singleton/call.png)
+![](./../../../assets/img/posts/2013-05-11-Singleton/call.png)
 
 <br/>
 

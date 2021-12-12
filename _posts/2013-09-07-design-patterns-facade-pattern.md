@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Design patterns V - Facade Pattern
+read_time: true
+show_date: true
+title:  Design patterns V - Facade Pattern
+date:   2013-09-07 06:00:00 +0100
 description: Design patterns V - Facade Pattern
-excerpt_separator:  <!--more-->
-tags: Design-Patterns
-canonical_url: 'https://sunjiangong.com/design-patterns-facade-pattern/'
+img: posts/uncategorized/design-patterns.PNG
+tags: [DesignPatterns]
+author: SUN Jiangong
+mathjax: yes
 ---
 
 Facade Pattern provides a unique interface to a set of methods of different subsystems in an application. It's widely used in application development.
 
 It's a structural design pattern.
-
-<!--more-->
 
 Now let's see the implementation in C#.
 
