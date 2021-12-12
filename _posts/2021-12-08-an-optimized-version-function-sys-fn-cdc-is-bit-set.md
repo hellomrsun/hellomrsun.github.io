@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: An optimized version of function sys.fn_cdc_is_bit_set
-# description: An optimized version of function sys.fn_cdc_is_bit_set, Change Data Capture Table, update_mask
-# excerpt_separator:  <!--more-->
-# tags: SQL | SQL-Server
-# canonical_url: 'https://sunjiangong.com/an-optimized-version-function-sys-fn-cdc-is-bit-set/'
 read_time: true
 show_date: true
 title:  An optimized version of function sys.fn_cdc_is_bit_set
@@ -13,8 +8,6 @@ description: An optimized version of function sys.fn_cdc_is_bit_set, Change Data
 img: posts/2021-12-08-cdc-is-bit-set/cdc.jpg 
 tags: [SQLServer, SQL]
 author: SUN Jiangong
-# github:  hellomrsun
-# mathjax: yes
 ---
 
 Change Data Capture (CDC) table uses __$update_mask to track the modifications of ordinal columns.
@@ -25,8 +18,6 @@ The function **sys.fn_cdc_is_bit_set** is provided within Microsoft SQL Server. 
 
 ![](./../../../assets/img/posts/2021-12-08-cdc-is-bit-set/cdc.jpg)
 
-
-<!--more-->
 <br />
 
 Its signature is:

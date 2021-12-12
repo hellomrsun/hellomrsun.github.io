@@ -1,18 +1,13 @@
 ---
 layout: post
-# title: SqlLocalDb Versions - Windows API call RegGetValueW returned error code
-# excerpt_separator:  <!--more-->
-# tags: Entity-Framework | SqlLocalDb
-# canonical_url: 'https://sunjiangong.com/windows-api-call-reggetvaluew-returned-error-code/'
 read_time: true
 show_date: true
 title:  SqlLocalDb Versions - Windows API call RegGetValueW returned error code
 date:   2020-03-28 08:00:00 +0100
 description: SqlLocalDb Versions - Windows API call RegGetValueW returned error code
 img: posts/2020-03-28-SqlLocalDb/InstalledVersion.PNG
-tags: [EntityFramework, SqlLocalDb]
+tags: [EntityFramework, SQLServer]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -25,8 +20,6 @@ I've met this error when I check the version of SQL Server LocalDb in my machine
 Error:
 
 ![](./../../../assets/img/posts/2020-03-28-SqlLocalDb/SqlLocalDb_version_windows_api_error.PNG)
-
-<!--more-->
 
 When I check the registry.
 

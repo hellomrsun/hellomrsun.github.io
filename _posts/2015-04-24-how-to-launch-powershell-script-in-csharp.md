@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to launch powershell script in csharp
-# description: How to launch powershell script in csharp
-# excerpt_separator:  <!--more-->
-# tags: Powershell
-# canonical_url: 'https://sunjiangong.com/how-to-launch-powershell-script-in-csharp/'
 read_time: true
 show_date: true
 title:  How to launch Powershell script in CSharp?
@@ -13,7 +8,6 @@ description:  How to launch Powershell script in CSharp? C# PS
 img: posts/uncategorized/powershell.png
 tags: [Powershell]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -28,7 +22,6 @@ Variable "script" is the full path of the powershell script
 
 Variable "parameters" is an instance of type of IDictionary, which contains a bunch of parameter key/values.
 
-<!--more-->
 
 ```csharp
 using (var powerShellInstance = PowerShell.Create())

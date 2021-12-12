@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to create unit tests on internal methods and protected methods in .net core?
-# description: How to create unit tests on internal methods and protected methods in dotnet core?
-# excerpt_separator:  <!--more-->
-# tags: DotNet-Core | DotNet | Unit-Test
-# canonical_url: 'https://sunjiangong.com/how-to-unit-test-internal-methods-and-protected-methods-in-dotnet-core/'
 read_time: true
 show_date: true
 title:  How to create unit tests on internal methods and protected methods in .net core?
@@ -13,15 +8,11 @@ description: How to create unit tests on internal methods and protected methods 
 img: posts/2021-05-26-InternalProtectedMethodsUnitTest/1_set_internal_visible_in_class.PNG 
 tags: [DotNetCore, DotNet, UnitTest]
 author: SUN Jiangong
-# github:  hellomrsun
-mathjax: yes
 ---
 
 You'll inevitablly write unit tests or integration tests for internal methods and protected methods in your .net project.
 
 Here are some techniques you can use.
-
-<!--more-->
 
 To test internal methods in projects developed in .NET Framework, you need add the following code in the AssemblyInfo.cs of the target target, then all its internal methods are visible to the tests project.
 

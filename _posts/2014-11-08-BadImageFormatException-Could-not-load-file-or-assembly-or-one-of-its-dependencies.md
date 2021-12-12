@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
-# description: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
-# excerpt_separator:  <!--more-->
-# tags: Visual-Studio
-# canonical_url: 'https://sunjiangong.com/badimageformatexception-could-not-load-file-or-assembly-or-one-of-its-dependencies-in-Visual-Studio/'
 read_time: true
 show_date: true
 title:  BadImageFormatException 'Could not load file or assembly or one of its dependencies' in Visual Studio
@@ -13,7 +8,6 @@ description: BadImageFormatException Could not load file or assembly or one of i
 img: posts/uncategorized/windows.jpg
 tags: [VisualStudio]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -22,8 +16,6 @@ If you have met this exception:
 ```batch
 Could not load file or assembly '{Library_Name}, Version=0.0.0.0, Culture=neutral, PublicKeyToken={Token}' or one of its dependencies. Tentative de chargement d’un programme de format incorrect. 
 ```
-
-<!--more-->
 
 It means the dll that you have referenced is not compatible with your project's build configuration likePlatform, or Platform target. 
 

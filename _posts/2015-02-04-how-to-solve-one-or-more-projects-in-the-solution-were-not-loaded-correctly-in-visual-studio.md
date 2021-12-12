@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to "solve one or more projects in the solution were not loaded correctly" error in visual studio?
-# description: How to "solve one or more projects in the solution were not loaded correctly" error in visual studio?
-# excerpt_separator:  <!--more-->
-# tags: Visual-Studio
-# canonical_url: 'https://sunjiangong.com/how-to-solve-one-or-more-projects-in-the-solution-were-not-loaded-correctly-error-in-visual-studio/'
 read_time: true
 show_date: true
 title:  How to solve one or more projects in the solution were not loaded correctly error in visual studio?
@@ -13,7 +8,6 @@ description: How to solve one or more projects in the solution were not loaded c
 img: posts/uncategorized/Visual-Studio.png
 tags: [VisualStudio]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -22,8 +16,6 @@ When building an enterprise application, there could have a lot of projects in o
 
 Some inconsistency problem may occur in your solution file during the developing & refactoring process.
  
-<!--more-->
-
 The has happened in my project solution, which contains more than 100 projects (Tools, Web Services, Windows Services, Common Libraries, Integration tests, Unit tests). While this solution needs to be splited to be more readble. This is another history.
 
 So every time I open the product solution, I have a warning : 

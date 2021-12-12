@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: How to make benchmark with BenchmarkDotNet?
-# excerpt_separator:  <!--more-->
-# tags: DotNet | Profiler | Benchmark
-# canonical_url: 'https://sunjiangong.com/how-to-make-benchmark-with-benchmarkdotnet/'
 read_time: true
 show_date: true
 title:  How to make benchmark with BenchmarkDotNet?
@@ -12,13 +8,10 @@ description: How to make benchmark with BenchmarkDotNet? Microsoft, CLR Profiler
 img: posts/2020-01-22-BenchmarkDotNet/nuget.PNG
 tags: [DotNet, Profiler, Benchmark]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
 BenchmarkDotNet is a .NET benchmark tool, developed by Microsoft.
-
-<!--more-->
 
 You can install BenchmarkDotNet Nuget package in your project.
 

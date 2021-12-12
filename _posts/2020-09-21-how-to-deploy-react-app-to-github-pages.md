@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: How to deploy react app to GitHub pages
-# excerpt_separator:  <!--more-->
-# tags: React | Github-Pages
-# canonical_url: 'https://sunjiangong.com/how-to-deploy-react-app-to-github-pages/'
 read_time: true
 show_date: true
 title:  How to deploy react app to GitHub pages
@@ -12,15 +8,11 @@ description: How to deploy react app to GitHub pages
 img: posts/2020-09-21-DeployReactAppGithubPages/03_set_source_to_gh-pages.PNG
 tags: [React, GithubPages]
 author: SUN Jiangong
-# github:  hellomrsun
-mathjax: yes
 ---
 
 Github-pages is very practical to host static websites, not only Jekyll based websites, but also Angular, React based static websites etc.
 
 You don't need to purchase a space for the websites hosting. It's totally free! All you need is just a GitHub account. :)
-
-<!--more-->
 
 Here are some steps you need to follow:
 

@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to backup and restore database in SQL Server
-# description: How to backup and restore database in SQL Server
-# excerpt_separator:  <!--more-->
-# tags: SQL
-# canonical_url: 'https://sunjiangong.com/how-to-backup-and-restore-database-in-sql-server/'
 read_time: true
 show_date: true
 title:  How to backup and restore database in MS SQL Server?
@@ -13,7 +8,6 @@ description: How to backup and restore database in MS SQL Server, Microsoft
 img: posts/uncategorized/sqlserver.PNG
 tags: [SQLServer]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -34,8 +28,6 @@ backup database DatabaseName to disk ='\\SharedFolder\backup_database\DatabaseBa
 ```
 
 <br/>
-
-<!--more-->
 
 ### 3. Restore your database
 

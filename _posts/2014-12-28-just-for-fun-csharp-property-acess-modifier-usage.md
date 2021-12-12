@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Just4Fun - C# property access modifier usage
-# description: Just4Fun - C# property access modifier usage
-# excerpt_separator:  <!--more-->
-# tags: Just4Fun
-# canonical_url: 'https://sunjiangong.com/just-for-fun-csharp-property-access-modifier-usage/'
 read_time: true
 show_date: true
 title:  Just4Fun CSharp - property access modifier usage
@@ -13,7 +8,6 @@ description: Just4Fun C# property access modifier usage
 img: posts/uncategorized/csharp.jpg
 tags: [CSharp]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -27,9 +21,6 @@ I've found some points to pay attention when revising the access modifiers for p
 #### 3. A property's getter and setter can both have access modifier at the same time.
 
 #### 4. A private property's getter and setter can't have a access modifier.
-
-
-<!--more-->
 
 <br />
 

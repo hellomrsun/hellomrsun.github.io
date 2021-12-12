@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: How to configure Jekyll on Windows?
-# excerpt_separator:  <!--more-->
-# tags: Jekyll
-# canonical_url: 'https://sunjiangong.com/how-to-configure-jekyll-on-windows/'
 read_time: true
 show_date: true
 title:  How to configure Jekyll on Windows?
@@ -12,13 +8,10 @@ description: How to configure Jekyll on Windows?
 img: posts/2020-03-01-Jekyll/Ridk.PNG
 tags: [Jekyll]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
 Let's see how to configure Jekyll on Windows.
-
-<!--more-->
 
 ### 1. Install RubyInstaller on Windows
 

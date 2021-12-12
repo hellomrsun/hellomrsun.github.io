@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Move project in TFS without losing changesets
-# description: Move project in TFS without losing changesets
-# excerpt_separator:  <!--more-->
-# tags: TFS
-# canonical_url: 'https://sunjiangong.com/move-project-in-tfs-without-losing-changesets/'
 read_time: true
 show_date: true
 title:  Move project in TFS without losing changesets
@@ -13,15 +8,12 @@ description: Move project in TFS without losing changesets
 img: posts/uncategorized/tfs.png
 tags: [TFS]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
 There are something you need to pay attention to when you make a project move refactoring.
 
 You could NEVER delete a project in the TFS and re-add it into the place you want. In this way, you will lose all the changesets about this project.
-
-<!--more-->
 
 What you should do is move the project to another place with TFS.
 

@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Local SQL Server database deployment problems and fixtures
-# description: Local SQL Server database deployment problems and fixtures
-# excerpt_separator:  <!--more-->
-# tags: SQL-Server
-# canonical_url: 'https://sunjiangong.com/local-sql-server-database-deployment-problems-and-fixtures/'
 read_time: true
 show_date: true
 title:  Local SQL Server database deployment problems and fixtures
@@ -13,7 +8,6 @@ description: Local SQL Server database deployment problems and fixtures
 img: posts/uncategorized/sqlserver.PNG
 tags: [SQLServer]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -22,9 +16,6 @@ After encountering some problems in deploying databases to local server, here ar
 
 
 When you deploy your databases. You can monitor the progress in "Data Tools Operations" view.
-
-
-<!--more-->
 
 The deployment can have all the following steps:
 

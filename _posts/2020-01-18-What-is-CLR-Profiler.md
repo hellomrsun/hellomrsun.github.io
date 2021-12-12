@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: What is CLR profiler?
-# excerpt_separator:  <!--more-->
-# tags: Profiler | CLR
-# canonical_url: 'https://sunjiangong.com/what-is-clr-profiler/'
 read_time: true
 show_date: true
 title:  What is CLR profiler?
@@ -12,13 +8,10 @@ description: What is CLR profiler?
 img: posts/2020-01-18-ClrProfiler/StringBenchmark.png
 tags: [Profiler]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
 CLR Profiler is a .NET tool, developed by Microsoft, to evaluate the C# applications (.exe) performances.
-
-<!--more-->
 
 You could CLR profiler to view statistics like Heap statistics, Garbage Collection statistics, GC Handle Statistics etc.
 

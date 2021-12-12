@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: WCF service failed to start due to IIS server configuration
-# description: WCF service failed to start due to IIS server configuration
-# excerpt_separator:  <!--more-->
-# tags: IIS
-# canonical_url: 'https://sunjiangong.com/wcf-service-failed-to-start-due-to-iis-server-configuration/'read_time: true
 read_time: true
 show_date: true
 title:  WCF service failed to start due to IIS server configuration
@@ -13,7 +8,6 @@ description: WCF service failed to start due to IIS server configuration
 img: posts/uncategorized/iis.png
 tags: [IIS, WCF]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 
 ---
@@ -27,8 +21,6 @@ Here is a error message:
 ```batch
 System.ServiceModel.ServiceActivationException: The service cannot be activated due to an exception during compilation. 
 ```
-
-<!--more-->
 
 The exception message is: 
 

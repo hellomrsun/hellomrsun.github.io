@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Memory leaks problem detection and solution in C#
-# description: Memory leaks problem detection and solution in C#
-# excerpt_separator:  <!--more-->
-# tags: Profiler
-# canonical_url: 'https://sunjiangong.com/csharp-memory-leaks-problem-detection-and-solution/'
 read_time: true
 show_date: true
 title:  Memory leaks problem detection and solution in C#
@@ -13,7 +8,6 @@ description: Memory leaks problem detection and solution in C#
 img: posts/2015-03-05-MemoryLeaks/02.png
 tags: [Profiler]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -23,8 +17,6 @@ Out of memory exception happens when server doesn’t have enough memory to run 
 This often happens when you are dealing with external resources, such as consuming Interop libraries, treating files, streams, etc.
 
 Memory is a limited resource, it’s easy to be run out of. So, you should be careful when you are working with external resources in your application development.
-
-<!--more-->
 
 There are some good memory profilers in the market.
 

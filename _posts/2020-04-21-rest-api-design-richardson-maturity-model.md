@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: REST API Design - Richardson Maturity Model
-# excerpt_separator:  <!--more-->
-# tags: REST | Web-Api
-# canonical_url: 'https://sunjiangong.com/rest-api-design-richardson-maturity-model/'
 read_time: true
 show_date: true
 title:  REST API Design - Richardson Maturity Model
@@ -12,8 +8,6 @@ description: REST API Design - Richardson Maturity Model, WEB API
 img: posts/uncategorized/open-api.png
 tags: [REST, WebApi]
 author: SUN Jiangong
-# github:  hellomrsun
-mathjax: yes
 ---
 
 Leonard Richardson has defined a Model to determine an REST API maturity, called **Richardson Maturity Model**.
@@ -21,8 +15,6 @@ Leonard Richardson has defined a Model to determine an REST API maturity, called
 There are 4 levels of maturity.
 
 ![](./../../../assets/img/posts/2020-04-21-RichardsonMaturityModel/richardson_maturity_model.png)
-
-<!--more-->
 
 <br/>
 

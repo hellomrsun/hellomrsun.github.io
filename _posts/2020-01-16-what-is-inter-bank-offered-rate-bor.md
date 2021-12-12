@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: What is Inter-Bank Offered Rate 
-# excerpt_separator:  <!--more-->
-# tags: Finance | IBOR
-# canonical_url: 'https://sunjiangong.com/what-is-inter-bank-offered-rate-bor/'
 read_time: true
 show_date: true
 title:  What is Inter-Bank Offered Rate 
@@ -12,16 +8,12 @@ description: What is Inter-Bank Offered Rate
 img: posts/2020-01-16-IBOR/ICE_LIBOR_Panel_banks.png 
 tags: [Finance, IBOR]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
 IBOR means: Inter-Bank Offered Rate.
 
 The most important IBORs are : <b>Libor</b>, <b>Euribor</b>, and <b>Hibor</b>
-
- <!--more-->
-
 
 ##### 1. ICE LIBOR #####
 

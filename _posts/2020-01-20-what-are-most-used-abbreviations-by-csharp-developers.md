@@ -1,24 +1,17 @@
 ---
 layout: post
-# title: What are most used abbreviations by C# developers 
-# excerpt_separator:  <!--more-->
-# tags: Craftsmanship
-# canonical_url: 'https://sunjiangong.com/what-are-most-used-abbreviations-by-csharp-developers/'
 read_time: true
 show_date: true
 title: What are most used abbreviations by CSharp developers?
 date: 2020-01-20 08:00:00 +0100
-description: What are most used abbreviations by CSharp developers?
-img: posts/2020-01-20-csharp-dev-abbrv/craftsman.PNG
+description: What are most used abbreviations by CSharp developers? C#
+img: posts/uncategorized/craftsman.PNG
 tags: [Craftsmanship]
 author: SUN Jiangong
-# github:  hellomrsun
-# mathjax: yes
 ---
 
 Here are most used abbreviations used by C# developers.
 
-<!--more-->
 
 #### 1. Architecture
 

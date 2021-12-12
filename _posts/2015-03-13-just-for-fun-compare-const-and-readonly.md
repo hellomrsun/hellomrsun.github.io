@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Just4Fun - compare const and readonly in C#
-# description: Just4Fun - compare const and readonly in C#
-# excerpt_separator:  <!--more-->
-# tags: Just4Fun
-# canonical_url: 'https://sunjiangong.com/just-for-fun-compare-const-and-readonly-in-csharp/'
 read_time: true
 show_date: true
 title:  Just4Fun - compare const and readonly in C#
@@ -13,7 +8,6 @@ description: Just4Fun - compare const and readonly in C#, CSharp
 img: posts/uncategorized/csharp.jpg
 tags: [CSharp]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -24,8 +18,6 @@ const is considered as compile-time constant.
 readonly is considered as runtime constant.
 
 I will demonstrate some example code to clarify their usages and differences.
-
-<!--more-->
 
 ### I. Const usages
 

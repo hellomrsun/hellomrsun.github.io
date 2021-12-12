@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: Some useful resources in developing websites with Angular
-# excerpt_separator:  <!--more-->
-# tags: Angular
-# canonical_url: 'https://sunjiangong.com/some-useful-resources-in-developing-websites-with-angular/'
 read_time: true
 show_date: true
 title:  Some useful resources in developing websites with Angular
@@ -12,7 +8,6 @@ description: Some useful resources in developing websites with Angular
 img: posts/2020-03-19-AngularStarter/AngularUIFrameworks.png
 tags: [Angular]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 

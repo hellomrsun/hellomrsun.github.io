@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Design patterns - Introduction to configuration wrapper
-# description: Design patterns - Introduction to configuration wrapper
-# excerpt_separator:  <!--more-->
-# tags: Design-Patterns
-# canonical_url: 'https://sunjiangong.com/design-patterns-introduction-to-configuration-wrapper/'
 read_time: true
 show_date: true
 title:  Design patterns Introduction to configuration wrapper
@@ -13,7 +8,6 @@ description: Design patterns Introduction to configuration wrapper
 img: posts/uncategorized/design-patterns.PNG
 tags: [DesignPatterns]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -22,8 +16,6 @@ In your applications, you are certainly using the configuration sections like ap
 To make your application more flexible for unit testing, you could use a configuration wrapper to control the access to the configuration file.
 
 You can create an interface to expose some methods to access different configurations.
-
-<!--more-->
 
 This is two methods to retrieve the appSettings and connectionStrings by the configuration key.
 

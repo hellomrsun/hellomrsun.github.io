@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: SQL Server data reader reading data performance test
-# description: SQL Server data reader reading data performance test
-# excerpt_separator:  <!--more-->
-# tags: Performance | SQL-Server
-# canonical_url: 'https://sunjiangong.com/sql-server-data-reader-reading-data-performance-test/'
 read_time: true
 show_date: true
 title:  SQL Server data reader reading data performance test
@@ -13,7 +8,6 @@ description: SQL Server data reader reading data performance test
 img: posts/uncategorized/sqlserver.PNG
 tags: [Performance, SQLServer]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -21,8 +15,6 @@ mathjax: yes
 As I've manipulated a lot of data using SQL data reader in recent project. And people says it's not good to access the data by column name.
 
 So I've made an performance test in reading data from SQL data reader.
-
-<!--more-->
 
 
 Firstly, I've created a table with different data types, like int, varchar, date time etc.

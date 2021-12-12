@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Microsoft Techdays 2015 - Etat de lieux JavaScript
-# description: Microsoft Techdays 2015 Paris - Etat de lieux JavaScript
-# excerpt_separator:  <!--more-->
-# tags: Tech-Events
-# canonical_url: 'https://sunjiangong.com/microsoft-techdays-2015-etat-de-lieux-javascript/'
 read_time: true
 show_date: true
 title:  Microsoft Techdays 2015 - Etat de lieux JavaScript
@@ -13,7 +8,6 @@ description: Microsoft Techdays 2015 - Etat de lieux JavaScript
 img: posts/2015-02-16-TechdaysEtatDeLieuxJavascript/01.png
 tags: [Craftsmanship]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -24,8 +18,6 @@ Each library is presented in three parts:
 - History
 - Usage
 - Demo
-
-<!--more-->
 
 Firstly, it’s the leading library jQuery which makes javascript modern and easy-to-use. This library has changed a lot of people’s view about JavaScript.
 

@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: REST API Design - What is OpenAPI-compliant API?
-# excerpt_separator:  <!--more-->
-# tags: REST | Web-Api
-# canonical_url: 'https://sunjiangong.com/rest-api-design-openapi-specification-oas-openapi-initiative-oai/'
 read_time: true
 show_date: true
 title:  REST API Design - What is OpenAPI-compliant API?
@@ -12,8 +8,6 @@ description: REST API Design - What is OpenAPI-compliant API? Web API
 img: posts/uncategorized/open-api.png
 tags: [REST, WebApi]
 author: SUN Jiangong
-# github:  hellomrsun
-mathjax: yes
 ---
 
 The OpenAPI Initiative (**OAI**) was created in order to standardize the API design.The OpenAPI Specification (**OAS**) was originally based on the Swagger Specification, donated by SmartBear Software.

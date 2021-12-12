@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Just4Fun - play with PreIncrement and PostIncrement in C#
-# description: Just4Fun - play with PreIncrement and PostIncrement in csharp
-# excerpt_separator:  <!--more-->
-# tags: Just4Fun
-# canonical_url: 'https://sunjiangong.com/just-for-fun-play-with-pre-increment-and-post-increment-in-csharp/'
 read_time: true
 show_date: true
 title:  Just4Fun - play with PreIncrement and PostIncrement in C#
@@ -13,15 +8,12 @@ description: Just4Fun - play with PreIncrement and PostIncrement in csharp, c#
 img: posts/uncategorized/csharp.jpg
 tags: [CSharp]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
 Pre-Increment and Post-Increment are used frequently in conditions for loops.
 
 Here we are playing a calculation game with Post-Increment and Pre-Increment.
-
-<!--more-->
 
 Example 1:
 

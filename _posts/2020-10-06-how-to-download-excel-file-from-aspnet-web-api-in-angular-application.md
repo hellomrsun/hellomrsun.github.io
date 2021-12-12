@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to download an Excel file from ASP.NET Web API in Angular application?
-# description: How to download an Excel file from ASP.NET Web API in Angular application?
-# excerpt_separator:  <!--more-->
-# tags: Angular
-# canonical_url: 'https://sunjiangong.com/how-to-download-excel-file-from-aspnet-web-api-in-angular-application/'
 read_time: true
 show_date: true
 title:  How to download an Excel file from ASP.NET Web API in Angular application?
@@ -13,15 +8,11 @@ description: How to download an Excel file from ASP.NET Web API in Angular appli
 img: posts/2020-10-06-angular-download/angular.png
 tags: [Angular, ASPNET]
 author: SUN Jiangong
-# github:  hellomrsun
-# mathjax: yes
 ---
 
 I've looked for some complete solution to download an EXCEL file from an ASP.NET Web API in Angular 9 application, but I didn't find it.
 
 As I've done it recently, I would like to share my implementation with you if it helps.
-
-<!--more-->
 
 Firstly, expose an interface in the Web API to download the Excel file.
 

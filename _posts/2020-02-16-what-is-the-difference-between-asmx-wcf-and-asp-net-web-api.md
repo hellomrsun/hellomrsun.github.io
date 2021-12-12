@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: What is the difference between ASMX, WCF, and ASP.NET Web API?
-# excerpt_separator:  <!--more-->
-# tags: DotNet | Web-Service | Web-Api
-# canonical_url: 'https://sunjiangong.com/what-is-the-difference-between-asmx-wcf-and-asp-net-web-api/'
 read_time: true
 show_date: true
 title:  What is the difference between ASMX, WCF, and ASP.NET Web API?
@@ -12,7 +8,6 @@ description: What is the difference between ASMX, WCF, and ASP.NET Web API? Wind
 img: posts/2020-02-16-AsmxWcfWebApi/asmx-wcf-webapi.png
 tags: [DotNet, WebService, WebApi, WCF]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -21,8 +16,6 @@ Application architecture has evolved from monolithic architecture to SOA archite
 Applications need to communicate among themselves, and to achieve this purpose, Microsoft has developed technologies like ASMX, WCF, and ASP.NET Web API.
 
 Let's explore them together today.
-
-<!--more-->
 
 <!-- TOC -->
 

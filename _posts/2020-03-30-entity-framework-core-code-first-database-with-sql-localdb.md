@@ -1,16 +1,12 @@
 ---
 layout: post
-# title: How to do Code-First approach with Entity Framework Core and SQL LocalDB
-# excerpt_separator:  <!--more-->
-# tags: Entity-Framework | Entity-Framework-Core | Code-First | SqlLocalDb
-# canonical_url: 'https://sunjiangong.com/entity-framework-core-code-first-database-with-sql-localdb/'
 read_time: true
 show_date: true
 title:  How to do Code-First approach with Entity Framework Core and SQL LocalDB
 date:   2020-03-30 08:00:00 +0100
 description: How to do Code-First approach with Entity Framework Core and SQL LocalDB
 img: posts/2020-03-30-EfCoreCodeFirstSqlLocalDb/010_dbcontext.png 
-tags: [EntityFramework, EntityFrameworkCore, SqlLocalDb]
+tags: [EntityFramework, EntityFrameworkCore, SQLServer]
 author: SUN Jiangong
 # github:  hellomrsun
 mathjax: yes

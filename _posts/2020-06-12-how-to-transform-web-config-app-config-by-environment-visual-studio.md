@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: How to transform web config or app config by environment in visual studio
-# excerpt_separator:  <!--more-->
-# tags: DevOps | MsBuild | VisualStudio | ConfigurationTransform
-# canonical_url: 'https://sunjiangong.com/how-to-transform-web-config-app-config-by-environment-visual-studio/'
 read_time: true
 show_date: true
 title:  How to transform web config or app config by environment in visual studio
@@ -12,7 +8,6 @@ description: How to transform web config or app config by environment in visual 
 img: posts/2020-06-12-NetFrameworkConfigTransform/00_download.PNG
 tags: [DevOps, MsBuild, VisualStudio, ConfigurationTransform]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -23,8 +18,6 @@ There will be integration (INT), user acceptance testing (UAT) in a more complet
 It could be frustrating when managing all those environments because a small error in the deployment could generate an incident, or disaster!
 
 Fortunately there is a cool tool to facilitate the environment management and software deployment in visual studio.
-
-<!--more-->
 
 It is a visual studio extension: **Configuration Transform**
 

@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: Microsoft .NET challenge France 2020 final
-# description: Microsoft .NET challenge France 2020 final, A Csharp Dotnet Azure Algorithm competition organized by Softfluent, Microsoft, EditX
-# excerpt_separator:  <!--more-->
-# tags: DotNET | CSharp | Tech-Events
-# canonical_url: 'https://sunjiangong.com/microsoft-dotnet-challenge-france-2020-final/'
 read_time: true
 show_date: true
 title:  Microsoft .NET challenge France 2020 final
@@ -13,8 +8,6 @@ description: Microsoft .NET challenge France 2020 final, A Csharp Dotnet Azure A
 img: posts/2021-12-07-dotnet-challenge-final-2020/challenge-all.jpg 
 tags: [DotNET, CSharp, TechEvents]
 author: SUN Jiangong
-# github:  hellomrsun
-# mathjax: yes
 ---
 
 I've participated in the Microsoft .NET challenge France 2020 final, eventually one year later. ;)
@@ -24,8 +17,6 @@ The Microsoft .NET challenge France is co-organized by several companies:
 - [SoftFluent](https://www.softfluent.fr){:target="_blank"}, an IT consulting company specialized in the Microsoft ecosystem with C#, .NET, Azure, SQL Server etc
 - [EditX](https://editx.eu){:target="_blank"}, a company host a lot of online tests. 
 - [Microsoft](https://www.microsoft.com/){:target="_blank"}. No need for introduction. :)
-
-<!--more-->
 
 ![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/dotnet-challenge-france-2020.jpg)
 

@@ -1,9 +1,5 @@
 ---
 layout: post
-# title: How to change ASP NET MVC Web API output to camelCase
-# excerpt_separator:  <!--more-->
-# tags: Web-Api
-# canonical_url: 'https://sunjiangong.com/how-to-change-aspnet-mvc-webapi-output-to-camel-case/'
 read_time: true
 show_date: true
 title:  How to change ASP NET MVC Web API output to camelCase
@@ -12,7 +8,6 @@ description: How to change ASP NET MVC Web API output to camelCase
 img: posts/2020-06-08-aspnet-webapi/webapi.png
 tags: [WebApi]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -31,8 +26,6 @@ PascalCase example:
 FirstName
 LastName
 ```
-
-<!--more-->
 
 So you may encounter the difference when you convert your API from ASP.NET MVC Web API to ASP.NET CORE Web API or vice versa.
 

@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: .Net framework utility folders
-# description: DotNet Framework, Microsoft SDK, Visual studio utility folder
-# excerpt_separator:  <!--more-->
-# tags: DotNet-Utility
-# canonical_url: 'https://sunjiangong.com/what-are-dotnet-framework-utility-folders/'
 read_time: true
 show_date: true
 title:  .Net framework utility folders
@@ -13,7 +8,6 @@ description: .Net framework utility folders, DotNet Framework, Microsoft SDK, Vi
 img: posts/2019-dotnet-framework/dotnet.jpg
 tags: [DotNet]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -24,8 +18,6 @@ For example, I can use WcfTestClient.exe to test a WCF service endpoint.
 But I always forget its folder, and end up by searching it on Google or StackOverFlow.
 So, here I summarize the most frequently used utility folders in .NET development.
 
-
-<!--more-->
 
 <br/>
 

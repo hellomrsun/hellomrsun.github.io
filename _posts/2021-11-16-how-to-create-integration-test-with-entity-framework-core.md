@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to create integration tests with Entity Framework (EF) core?
-# description: How to create integration tests with ef core (Entity Framework Core)
-# excerpt_separator:  <!--more-->
-# tags: CSharp | Entity-Framework-Core | Entity-Framework
-# canonical_url: 'https://sunjiangong.com/how-to-create-integration-test-with-entity-framework-core/'
 read_time: true
 show_date: true
 title:  How to create integration tests with Entity Framework (EF) core?
@@ -13,8 +8,6 @@ description: How to create integration tests with EF core (Entity Framework Core
 img: posts/2021-11-16-ef-core-integration-test/ef.png
 tags: [CSharp, EntityFrameworkCore, EntityFramework]
 author: SUN Jiangong
-# github:  hellomrsun
-mathjax: yes
 ---
 
 It's not easy to create integration test with database, no matter whether you create queries directly against entity framework's DbContext or you create your queries with repositary pattern which operate on your DbSets.
@@ -22,8 +15,6 @@ It's not easy to create integration test with database, no matter whether you cr
 You need to always connect to your database to test your use cases with the real data or fake data you have prepared.
 
 The good news is you can use the EF core's in-memory database provider to tackle it easily.
-
-<!--more-->
 
 Firstly, install the nuget package "Microsoft.EntityFrameworkCore.InMemory".
 

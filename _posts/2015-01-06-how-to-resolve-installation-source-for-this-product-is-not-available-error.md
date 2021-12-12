@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to solve "The installation source for this product is not available" error?
-# description: How to solve "The installation source for this product is not available" error?
-# excerpt_separator:  <!--more-->
-# tags: TFS
-# canonical_url: 'https://sunjiangong.com/how-to-solve-installation-source-for-this-product-is-not-available/'
 read_time: true
 show_date: true
 title:  How to solve 'The installation source for this product is not available' error?
@@ -13,7 +8,6 @@ description: How to solve - The installation source for this product is not avai
 img: posts/uncategorized/windows.jpg
 tags: [Windows]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -23,8 +17,6 @@ When you develop your enterprise application and deploy your application as a wi
 ```batch
 The installation source for this product is not available. Verify that the source exists and that you can access it.
 ```
-
-<!--more-->
 
 In this case, you can not install a new version of windows service because the installed service is corrupted and exists in the system.
 

@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: SQL server full-text index and its stop words
-# description: SQL server full-text index and its stop words
-# excerpt_separator:  <!--more-->
-# tags: SQL-Server
-# canonical_url: 'https://sunjiangong.com/sql-server-full-text-index-stop-words-stop-list/'
 read_time: true
 show_date: true
 title:  MS SQL server full-text index and its stop words
@@ -13,8 +8,6 @@ description: MS SQL server full-text index and its stop words, fulltext index, M
 img: posts/20210612-Fulltext-stoplist/3-fulltext-index-architecture.gif
 tags: [SQLServer, FullText, Index]
 author: SUN Jiangong
-# github:  hellomrsun
-mathjax: yes
 ---
 
 Full-text index is different from clustered and non-clustered index in SQL Server.
@@ -30,8 +23,6 @@ The table data is organized with root node (type: INDEX_PAGE), intermediate node
 ## Clustered index structure:
 
 ![](./../../../assets/img/posts/20210612-Fulltext-stoplist/1-clustered-index-structure.jpg)
-
-<!--more-->
 
 Non-clustered index's leaf nodes are INDEX_PAGEs, 
 instead of DATA_PAGEs, as table data can only be physcially ordered by clustered index. Non-clustered index's leaf nodes point to the clustered index's leaf nodes (DATA_PAGE).

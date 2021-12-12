@@ -1,10 +1,5 @@
 ---
 layout: post
-# title: How to solve "You have been logged on with a temporary profile" error in Windows
-# description: How to solve "You have been logged on with a temporary profile" error in Windows
-# excerpt_separator:  <!--more-->
-# tags: Windows
-# canonical_url: 'https://sunjiangong.com/how-to-solve-you-have-been-logged-on-with-a-temporary-profile-error-in-windows/'
 read_time: true
 show_date: true
 title:  How to solve 'You have been logged on with a temporary profile error' in Windows?
@@ -13,7 +8,6 @@ description: How to solve You have been logged on with a temporary profile error
 img: posts/uncategorized/windows.jpg 
 tags: [Windows]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
 ---
 
@@ -26,8 +20,6 @@ Here is the error message:
 ```batch
 You have been logged on with a temporary profile. You cannot access your files and files created in this profile will be deleted when you log off. To fix this, log off and try logging on later. Please see the event log for details or contact your system administrator.
 ```
-
-<!--more-->
 
 You can check the registry to see if the account have a or several temporary profiles with the following path.
 
