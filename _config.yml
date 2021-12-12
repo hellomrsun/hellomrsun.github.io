@@ -3,7 +3,7 @@ title: SUN Jiangong
 description: 'A senior .NET engineer, software craftsman. Passionate about new technologies.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://sunjiangong.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.sunjiangong.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/banner-white.PNG"
 logo-icon: "/assets/img/favicon.png"
 logo-icon-SEO: "/assets/img/favicon.png" # must be a non SVG file
@@ -31,7 +31,7 @@ about-author: A senior .NET engineer, software craftsman. Passionate about new t
 # Contact links
 # email:  # Add your Email address
 phone: # Add your Phone number
-website: https://sunjiangong.com # Add your website
+website: https://www.sunjiangong.com # Add your website
 linkedin: sundylan # Add your Linkedin handle
 github: hellomrsun # Add your Github handle
 stackoverflow: 198728 # Add your stackoverflow id
