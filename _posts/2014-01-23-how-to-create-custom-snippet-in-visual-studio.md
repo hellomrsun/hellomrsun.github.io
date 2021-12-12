@@ -1,10 +1,20 @@
 ---
 layout: post
-title: How to create custom snippet in Visual Studio
-description: How to create custom snippet in Visual Studio
-excerpt_separator:  <!--more-->
-tags: Visual-Studio
-canonical_url: 'https://sunjiangong.com/how-to-create-custom-snippet-in-visual-studio/'
+# title: How to create custom snippet in Visual Studio
+# description: How to create custom snippet in Visual Studio
+# excerpt_separator:  <!--more-->
+# tags: Visual-Studio
+# canonical_url: 'https://sunjiangong.com/how-to-create-custom-snippet-in-visual-studio/'
+read_time: true
+show_date: true
+title:  How to create custom snippet in Visual Studio?
+date:   2014-01-23 08:00:00 +0100
+description: How to create custom snippet in Visual Studio? CSharp, C#
+img: posts/uncategorized/Visual-Studio.png
+tags: [VisualStudio]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 
@@ -40,13 +50,13 @@ Firstly create a snippet file for copyright.
       </Declarations>
       <Code Language="csharp">
         <![CDATA[// --------------------------------------------------------------------------
-// <copyright file="$classname$.cs" company="My company">
-//   2013
-// </copyright>
-// <summary>
-//   The $classname$ class.
-// </summary>
-// -----------------------------------------------------------------------------------
+                // <copyright file="$classname$.cs" company="My company">
+                //   2013
+                // </copyright>
+                // <summary>
+                //   The $classname$ class.
+                // </summary>
+                // -----------------------------------------------------------------------------------
       ]]>
       </Code>
     </Snippet>

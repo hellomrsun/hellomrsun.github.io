@@ -1,0 +1,41 @@
+---
+layout: menu-page
+title: About
+permalink: about:output_ext
+---
+{% include calculate_relative_base.html %}
+{% include escape-404.html %}
+
+<div class="small-wrapper">
+  <div class="about-container">
+    <section class="about-header">
+      <div class="author-image-container">
+        <a href='{{ site.website }}'><img
+            src="{{ relativebase }}/assets/img/{% if site.author-pic %}{{site.author-pic}}{% endif %}"
+            alt="{{site.author}}"></a>
+      </div>
+      <h3>{{site.author}}</h3>
+      {% include self-introduction.html %}
+    </section>
+    <section class="about-body">
+      <ul class="contact-list">
+        {% if site.linkedin %}
+        <li class="linkedin"><a class="linkedin" href="https://in.linkedin.com/in/{{site.linkedin}}" target="_blank">
+          <i class="fa fa-linkedin"></i></a></li>
+        {% endif %}
+        {% if site.github %}
+        <li class="github"><a class="github" href="https://github.com/{{site.github}}" target="_blank">
+          <i class="fa fa-github"></i></a></li>
+        {% endif %}
+        <li class="stackoverflow"><a class="stackoverflow" href="https://stackoverflow.com/users/{{site.stackoverflow}}" target="_blank">
+          <i class="fa fa-stack-overflow" aria-hidden="true"></i></a></li>
+        {% if site.stackoverflow %}
+        {% endif %}
+        {% if site.email %}
+        <li class="email"><a class="email" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+        {% endif %}
+        <!--TODO: review-->
+      </ul>
+    </section> <!-- End About Body-->
+  </div> <!-- End About Container -->
+</div> <!-- End Small Wrapper -->

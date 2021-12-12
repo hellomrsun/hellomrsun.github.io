@@ -1,9 +1,19 @@
 ---
 layout: post
-title: .NET Profiling tools 
-excerpt_separator:  <!--more-->
-tags: DotNet | Profiler
-canonical_url: 'https://sunjiangong.com/dotnet-profiling-tools/'
+# title: .NET Profiling tools 
+# excerpt_separator:  <!--more-->
+# tags: DotNet | Profiler
+# canonical_url: 'https://sunjiangong.com/dotnet-profiling-tools/'
+read_time: true
+show_date: true
+title:  .NET Profiling tools
+date:   2020-01-17 08:00:00 +0100
+description: .NET Profiling tools
+# img: posts/20210125/Perceptron.jpg 
+tags: [DotNet, Profiler]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 There are some .NET profiling tools which are quite helpful to make code benchmarks and guide you to fix the application's performance problems.

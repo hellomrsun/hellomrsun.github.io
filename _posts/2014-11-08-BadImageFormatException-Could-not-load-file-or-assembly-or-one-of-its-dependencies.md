@@ -1,10 +1,20 @@
 ---
 layout: post
-title: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
-description: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
-excerpt_separator:  <!--more-->
-tags: Visual-Studio
-canonical_url: 'https://sunjiangong.com/badimageformatexception-could-not-load-file-or-assembly-or-one-of-its-dependencies-in-Visual-Studio/'
+# title: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
+# description: BadImageFormatException - Could not load file or assembly or one of its dependencies in Visual Studio
+# excerpt_separator:  <!--more-->
+# tags: Visual-Studio
+# canonical_url: 'https://sunjiangong.com/badimageformatexception-could-not-load-file-or-assembly-or-one-of-its-dependencies-in-Visual-Studio/'
+read_time: true
+show_date: true
+title:  BadImageFormatException 'Could not load file or assembly or one of its dependencies' in Visual Studio
+date:   2014-11-08 08:00:00 +0100
+description: BadImageFormatException Could not load file or assembly or one of its dependencies in Visual Studio
+img: posts/uncategorized/windows.jpg
+tags: [VisualStudio]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 If you have met this exception:

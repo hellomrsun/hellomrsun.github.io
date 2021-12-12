@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Microsoft Techdays 2015 Paris
+# title: Microsoft Techdays 2015 Paris
+# description: Microsoft Techdays 2015 Paris
+# excerpt_separator:  <!--more-->
+# tags: Tech-Events
+# canonical_url: 'https://sunjiangong.com/microsoft-techdays-2015-paris/'
+read_time: true
+show_date: true
+title:  Microsoft Techdays 2015 Paris
+date:   2015-02-15 08:00:00 +0100
 description: Microsoft Techdays 2015 Paris
-excerpt_separator:  <!--more-->
-tags: Tech-Events
-canonical_url: 'https://sunjiangong.com/microsoft-techdays-2015-paris/'
+img: posts/2015-02-15-Techdays2015Paris/03.png 
+tags: [TechEvents]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 
@@ -14,16 +24,16 @@ It’s always a good experience to find out there are so many peers working on M
 
 <!--more-->
 
-![](./../../../assets/images/Techdays2015Paris/01.png)
+![](./../../../assets/img/posts/2015-02-15-Techdays2015Paris/01.png)
 
 
-![](./../../../assets/images/Techdays2015Paris/02.png)
+![](./../../../assets/img/posts/2015-02-15-Techdays2015Paris/02.png)
 
 I’ve attended the following sessions this year:
 
 2015 MS Techdays keynotes
 
-![](./../../../assets/images/Techdays2015Paris/03.png)
+![](./../../../assets/img/posts/2015-02-15-Techdays2015Paris/03.png)
 
 - Etat de lieux javascript
 - SQL server performance

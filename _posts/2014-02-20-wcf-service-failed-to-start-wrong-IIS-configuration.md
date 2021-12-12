@@ -1,10 +1,21 @@
 ---
 layout: post
-title: WCF service failed to start due to IIS server configuration
+# title: WCF service failed to start due to IIS server configuration
+# description: WCF service failed to start due to IIS server configuration
+# excerpt_separator:  <!--more-->
+# tags: IIS
+# canonical_url: 'https://sunjiangong.com/wcf-service-failed-to-start-due-to-iis-server-configuration/'read_time: true
+read_time: true
+show_date: true
+title:  WCF service failed to start due to IIS server configuration
+date:   2014-02-20 08:00:00 +0100
 description: WCF service failed to start due to IIS server configuration
-excerpt_separator:  <!--more-->
-tags: IIS
-canonical_url: 'https://sunjiangong.com/wcf-service-failed-to-start-due-to-iis-server-configuration/'
+img: posts/uncategorized/iis.png
+tags: [IIS, WCF]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
+
 ---
 
 

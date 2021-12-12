@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Just4Fun - C# property access modifier usage
-description: Just4Fun - C# property access modifier usage
-excerpt_separator:  <!--more-->
-tags: Just4Fun
-canonical_url: 'https://sunjiangong.com/just-for-fun-csharp-property-access-modifier-usage/'
+# title: Just4Fun - C# property access modifier usage
+# description: Just4Fun - C# property access modifier usage
+# excerpt_separator:  <!--more-->
+# tags: Just4Fun
+# canonical_url: 'https://sunjiangong.com/just-for-fun-csharp-property-access-modifier-usage/'
+read_time: true
+show_date: true
+title:  Just4Fun CSharp - property access modifier usage
+date:   2014-12-28 08:00:00 +0100
+description: Just4Fun C# property access modifier usage
+img: posts/uncategorized/csharp.jpg
+tags: [CSharp]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 
@@ -25,16 +35,16 @@ I've found some points to pay attention when revising the access modifiers for p
 
 Here are some correct access modifier usages:
 
-![](./../../../assets/images/CsharpAccessModifier/01.png)
+![](./../../../assets/img/posts/2014-12-28-CsharpAccessModifier/01.png)
 
 
-![](./../../../assets/images/CsharpAccessModifier/02.png)
+![](./../../../assets/img/posts/2014-12-28-CsharpAccessModifier/02.png)
 
 <br />
 
 Here are some wrong access modifier usages:
 
-![](./../../../assets/images/CsharpAccessModifier/03.png)
+![](./../../../assets/img/posts/2014-12-28-CsharpAccessModifier/03.png)
 
 <br />
 

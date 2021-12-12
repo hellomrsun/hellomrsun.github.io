@@ -1,12 +1,21 @@
 ---
 layout: post
-title: Multi-layer project architecture
-description: Multi-layer project architecture in software development
-excerpt_separator:  <!--more-->
-tags: Architecture
-canonical_url: 'https://sunjiangong.com/multi-layer-project-architecture/'
+# title: Multi-layer project architecture
+# description: Multi-layer project architecture in software development
+# excerpt_separator:  <!--more-->
+# tags: Architecture
+# canonical_url: 'https://sunjiangong.com/multi-layer-project-architecture/'
+read_time: true
+show_date: true
+title:  Multi_layer project architecture
+date:   2015-02-08 08:00:00 +0100
+description: Multilayer project architecture
+img: posts/uncategorized/architecture.png
+tags: [Architecture]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
-
 
 
 I’ve been worked recently on the project structure refactoring. A good project structure could give you a good visibility and a clear understanding even you are brandly new in a project, and make your further development much easy.

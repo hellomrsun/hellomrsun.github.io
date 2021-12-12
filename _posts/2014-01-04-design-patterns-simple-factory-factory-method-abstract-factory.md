@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Design Patterns VI - Simple Factory, Factory Method, Abstract Factory
-description: Introduction to Design Patterns - Simple Factory, Factory Method, Abstract Factory
-excerpt_separator:  <!--more-->
-tags: Design-Patterns
-canonical_url: 'https://sunjiangong.com/design-patterns-factory-patterns-simple-factory-factory-method-abstract-factory/'
+# title: Design Patterns VI - Simple Factory, Factory Method, Abstract Factory
+# description: Introduction to Design Patterns - Simple Factory, Factory Method, Abstract Factory
+# excerpt_separator:  <!--more-->
+# tags: Design-Patterns
+# canonical_url: 'https://sunjiangong.com/design-patterns-factory-patterns-simple-factory-factory-method-abstract-factory/'
+read_time: true
+show_date: true
+title:  Design Patterns VI Simple Factory, Factory Method, Abstract Factory
+date:   2014-01-04 08:00:00 +0100
+description: Introduction to Design Patterns Simple Factory, Factory Method, Abstract Factory
+img: posts/uncategorized/design-patterns.PNG
+tags: [DesignPatterns]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 

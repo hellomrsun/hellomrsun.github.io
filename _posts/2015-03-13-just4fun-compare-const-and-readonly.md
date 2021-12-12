@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Just4Fun - compare const and readonly in C#
-description: Just4Fun - compare const and readonly in C#
-excerpt_separator:  <!--more-->
-tags: Just4Fun
-canonical_url: 'https://sunjiangong.com/just-for-fun-compare-const-and-readonly-in-csharp/'
+# title: Just4Fun - compare const and readonly in C#
+# description: Just4Fun - compare const and readonly in C#
+# excerpt_separator:  <!--more-->
+# tags: Just4Fun
+# canonical_url: 'https://sunjiangong.com/just-for-fun-compare-const-and-readonly-in-csharp/'
+read_time: true
+show_date: true
+title:  Just4Fun - compare const and readonly in C#
+date:   2015-03-13 08:00:00 +0100
+description: Just4Fun - compare const and readonly in C#, CSharp
+img: posts/uncategorized/csharp.jpg
+tags: [CSharp]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 Today let us talk about const and readonly.

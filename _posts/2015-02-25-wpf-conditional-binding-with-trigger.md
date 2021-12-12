@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Conditional binding with trigger in WPF
-description: Conditional binding with trigger in WPF
-excerpt_separator:  <!--more-->
-tags: WPF
-canonical_url: 'https://sunjiangong.com/conditional-binding-with-trigger-in-wpf/'
+# title: Conditional binding with trigger in WPF
+# description: Conditional binding with trigger in WPF
+# excerpt_separator:  <!--more-->
+# tags: WPF
+# canonical_url: 'https://sunjiangong.com/conditional-binding-with-trigger-in-wpf/'
+read_time: true
+show_date: true
+title:  Conditional binding with trigger in WPF
+date:   2015-02-25 08:00:00 +0100
+description: Conditional binding with trigger in WPF, Windows Presentation Framework, CSharp, C#
+img: posts/2015-02-25-wpf/wpf.PNG
+tags: [WPF]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 WPF conditional binding enables the application to have different behaviors based on a pre-defined condition.

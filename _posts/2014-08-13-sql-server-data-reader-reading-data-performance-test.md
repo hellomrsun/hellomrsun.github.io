@@ -1,10 +1,20 @@
 ---
 layout: post
-title: SQL Server data reader reading data performance test
+# title: SQL Server data reader reading data performance test
+# description: SQL Server data reader reading data performance test
+# excerpt_separator:  <!--more-->
+# tags: Performance | SQL-Server
+# canonical_url: 'https://sunjiangong.com/sql-server-data-reader-reading-data-performance-test/'
+read_time: true
+show_date: true
+title:  SQL Server data reader reading data performance test
+date:   2014-08-13 08:00:00 +0100
 description: SQL Server data reader reading data performance test
-excerpt_separator:  <!--more-->
-tags: Performance | SQL-Server
-canonical_url: 'https://sunjiangong.com/sql-server-data-reader-reading-data-performance-test/'
+img: posts/uncategorized/sqlserver.PNG
+tags: [Performance, SQLServer]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 
@@ -142,7 +152,7 @@ public void DataReaderGetColumnIndexByColumnNameThenGetData()
 When I run the program to get the execution time:
 
 
-![](./../../../assets/images/SqlReaderPerformance/01.png)
+![](./../../../assets/img/posts/2014-08-13-SqlReaderPerformance/01.png)
 
 
 You can see that Method1 and Method3 has almost the same result, and Method2 are about 3 times longer.

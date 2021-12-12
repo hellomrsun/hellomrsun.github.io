@@ -1,10 +1,20 @@
 ---
 layout: post
-title: Microsoft .NET challenge France 2020 final
+# title: Microsoft .NET challenge France 2020 final
+# description: Microsoft .NET challenge France 2020 final, A Csharp Dotnet Azure Algorithm competition organized by Softfluent, Microsoft, EditX
+# excerpt_separator:  <!--more-->
+# tags: DotNET | CSharp | Tech-Events
+# canonical_url: 'https://sunjiangong.com/microsoft-dotnet-challenge-france-2020-final/'
+read_time: true
+show_date: true
+title:  Microsoft .NET challenge France 2020 final
+date:   2021-12-07 08:00:00 +0100
 description: Microsoft .NET challenge France 2020 final, A Csharp Dotnet Azure Algorithm competition organized by Softfluent, Microsoft, EditX
-excerpt_separator:  <!--more-->
-tags: DotNET | CSharp | Tech-Events
-canonical_url: 'https://sunjiangong.com/microsoft-dotnet-challenge-france-2020-final/'
+img: posts/2021-12-07-dotnet-challenge-final-2020/challenge-all.jpg 
+tags: [DotNET, CSharp, TechEvents]
+author: SUN Jiangong
+# github:  hellomrsun
+# mathjax: yes
 ---
 
 I've participated in the Microsoft .NET challenge France 2020 final, eventually one year later. ;)
@@ -17,7 +27,7 @@ The Microsoft .NET challenge France is co-organized by several companies:
 
 <!--more-->
 
-![](./../../../assets/images/2021-12-07-dotnet-challenge-final-2020/dotnet-challenge-france-2020.jpg)
+![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/dotnet-challenge-france-2020.jpg)
 
 <br/>
 
@@ -41,7 +51,7 @@ There are two rounds.
 
 <br/>
 
-![](./../../../assets/images/2021-12-07-dotnet-challenge-final-2020/escape-game.jpg)
+![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/escape-game.jpg)
 
 All the 10 finalists are divided into 3 teams, each team with 4 or 3 members. Then we went to different rooms to play an escape game.
 
@@ -55,7 +65,7 @@ Unfortunately, my team did not finish it first. :(
 
 ##### The second round is a buzzer game
 
-![](./../../../assets/images/2021-12-07-dotnet-challenge-final-2020/buzzer.jpg)
+![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/buzzer.jpg)
 
 There are 10 questions displayed in a screen. The first person who press the buzzer will be able to answer the question. If his/her answer is correct, he/she will gain the point. The one who get the most points win the prize.
 
@@ -67,7 +77,7 @@ Finally, the winner gets a Microsoft Surface Go and a Surface Headphones. And ev
 
 The prizes were provided by Microsoft. 
 
-![](./../../../assets/images/2021-12-07-dotnet-challenge-final-2020/headphones.jpg)
+![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/headphones.jpg)
 
 <br/>
 
@@ -75,13 +85,13 @@ The prizes were provided by Microsoft.
 
 <br/>
 
-![](./../../../assets/images/2021-12-07-dotnet-challenge-final-2020/challenge-all.jpg)
+![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/challenge-all.jpg)
 
 <br/>
 
 A Pizza party was held in the yard of EPITECH after the final.
 
-![](./../../../assets/images/2021-12-07-dotnet-challenge-final-2020/pizza-party.jpg)
+![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/pizza-party.jpg)
 
 <br/>
 

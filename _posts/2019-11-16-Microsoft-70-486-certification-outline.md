@@ -1,8 +1,18 @@
 ---
 layout: post
-title: Microsoft 70-486 Certification
-excerpt_separator:  <!--more-->
-tags: DotNet-Certification
+# title: Microsoft 70-486 Certification
+# excerpt_separator:  <!--more-->
+# tags: DotNet-Certification
+read_time: true
+show_date: true
+title:  Microsoft 70-486 Certification
+date:   2019-11-26 08:00:00 +0100
+description: Microsoft 70-486 Certification
+img: posts/2019-11-16-mcsa/MCSA-Web_Applications.png
+tags: [Certification]
+author: SUN Jiangong
+# github:  hellomrsun
+mathjax: yes
 ---
 
 
@@ -15,7 +25,7 @@ So as a fullstack .NET developer, the next certification would be [**70-486:Deve
 <!--more-->
 
 MCSA badge:
-![MCSA](./../../../assets/images/MCSA-Web_Applications.png)
+![MCSA](./../../../assets/img/posts/2019-11-16-mcsa/MCSA-Web_Applications.png)
 
 
 
