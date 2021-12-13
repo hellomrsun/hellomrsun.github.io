@@ -18,6 +18,7 @@ The purpose of this assignment was to learn how to use JavaScript with the DOM(D
 
 The description and my solution of the DOM Properties-assignment can be viewed at the bottom of this page.
 
+<!--more-->
 
 ##### What is DOM
 

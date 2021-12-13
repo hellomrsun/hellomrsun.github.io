@@ -18,6 +18,8 @@ As I've started this new technical blog, why not to continue the certification p
 
 So as a fullstack .NET developer, the next certification would be [**70-486:Developing ASP.NET MVC Web Applications**](https://www.microsoft.com/en-us/learning/exam-70-486.aspx) to become a [**MCSA**](https://www.microsoft.com/en-us/learning/mcsa-web-applications-certification.aspx) (Microsoft Certified Solutions Associate) on Web Applications.
 
+<!--more-->
+
 MCSA badge:
 ![MCSA](./../../../assets/img/posts/2019-11-16-mcsa/MCSA-Web_Applications.png)
 

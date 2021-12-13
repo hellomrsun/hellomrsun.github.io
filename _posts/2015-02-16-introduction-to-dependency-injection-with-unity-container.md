@@ -20,6 +20,8 @@ As you know, dependency injection is a design pattern to prevent the code coupli
 
 For example, you access class CA’s method MA in several places in your application. If one day you need to use class CB instead of class CA. You need to replace all the code referencing class CA with class CB.
 
+<!--more-->
+
 But if you use dependency injection, you just need to register the interface and its implementation class once. You can resolve the interface when you need to access method CA.
 
 Here is an sample usage of unityContainer:

@@ -20,6 +20,8 @@ Here are some advice:
 
 Separate each test with 3 sections: Arrange, Action, Assert.
 
+<!--more-->
+
 #### 2. Keep test small. 
 
 By extracting the common code, you can make a large part of your test reusable.

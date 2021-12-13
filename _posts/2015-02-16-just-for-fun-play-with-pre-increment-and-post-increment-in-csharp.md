@@ -23,6 +23,8 @@ Console.WriteLine(i++); //=> 10
 Console.WriteLine(i); //=> 11
 ```
 
+<!--more-->
+
 Example 2:
 
 ```csharp

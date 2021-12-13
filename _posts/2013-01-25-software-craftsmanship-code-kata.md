@@ -15,6 +15,7 @@ I have participated in a session organized by **Paris Software Craftsmanship Com
 
 Thanks for the organizers **Jean Laurent de Morlhon** and **Cyrille Martraire** and the other active members of this group. I have practiced "code kata" method, refactored and tested a program. 
 
+<!--more-->
 <br />
 
 ##### What is kata?

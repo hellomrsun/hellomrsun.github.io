@@ -21,6 +21,8 @@ ALTER TABLE [dwh].[ExchangeRate]
 ALTER COLUMN [ExchangeRateId] Int Identity(1, 1)
 ```
 
+<!--more-->
+
 What you could do is :
 - Create a new column with auto-increment
 - Delete existing column constraint

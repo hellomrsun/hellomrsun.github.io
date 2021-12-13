@@ -17,6 +17,7 @@ There are 4 levels of maturity.
 ![](./../../../assets/img/posts/2020-04-21-RichardsonMaturityModel/richardson_maturity_model.png)
 
 <br/>
+<!--more-->
 
 # LEVEL 0: THE SWAMP OF POX
 

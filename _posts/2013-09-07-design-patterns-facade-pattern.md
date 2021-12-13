@@ -17,6 +17,8 @@ It's a structural design pattern.
 
 Now let's see the implementation in C#.
 
+<!--more-->
+
 Firstly, create subsystems and their methods.
 
 ```csharp

@@ -19,6 +19,7 @@ Could not load file or assembly '{Library_Name}, Version=0.0.0.0, Culture=neutra
 
 It means the dll that you have referenced is not compatible with your project's build configuration likePlatform, or Platform target. 
 
+<!--more-->
 
 If your the reference library is 32 bit, you need to make sure your platform and platform target is **x86**.
 

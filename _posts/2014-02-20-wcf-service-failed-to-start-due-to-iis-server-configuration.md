@@ -22,6 +22,8 @@ Here is a error message:
 System.ServiceModel.ServiceActivationException: The service cannot be activated due to an exception during compilation. 
 ```
 
+<!--more-->
+
 The exception message is: 
 
 ```batch

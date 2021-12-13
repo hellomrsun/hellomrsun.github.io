@@ -36,6 +36,9 @@ linkedin: sundylan # Add your Linkedin handle
 github: hellomrsun # Add your Github handle
 stackoverflow: 198728 # Add your stackoverflow id
 
+# global excerpt separator for the blog posts
+excerpt_separator: "<!--more-->"
+
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
 

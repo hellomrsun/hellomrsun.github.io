@@ -22,6 +22,7 @@ Variable "script" is the full path of the powershell script
 
 Variable "parameters" is an instance of type of IDictionary, which contains a bunch of parameter key/values.
 
+<!--more-->
 
 ```csharp
 using (var powerShellInstance = PowerShell.Create())

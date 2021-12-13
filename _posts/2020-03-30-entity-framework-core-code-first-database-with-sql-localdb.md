@@ -21,6 +21,8 @@ Database First is the most common practice when working an existing database.
 
 In this case, an **.EDMX** (**E**ntity **D**ata **M**odel **X**ML) file will be generated when you map the database in your project. And it contains all the data models.
 
+<!--more-->
+
 * **Model First**
 
 With Model First approach, you start by creating .EDMX file with models in the designer, then you generate the database from the .EDMX file.

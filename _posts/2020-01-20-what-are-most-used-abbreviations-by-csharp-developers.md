@@ -26,6 +26,7 @@ Here are most used abbreviations used by C# developers.
 | MVVM | Model View View Model |
 | CQRS | Command Query Responsibility Segregation |
 
+<!--more-->
 <br/>
 
 #### 2. Methodology

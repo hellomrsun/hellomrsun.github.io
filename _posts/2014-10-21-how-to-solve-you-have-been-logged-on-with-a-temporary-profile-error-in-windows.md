@@ -21,6 +21,8 @@ Here is the error message:
 You have been logged on with a temporary profile. You cannot access your files and files created in this profile will be deleted when you log off. To fix this, log off and try logging on later. Please see the event log for details or contact your system administrator.
 ```
 
+<!--more-->
+
 You can check the registry to see if the account have a or several temporary profiles with the following path.
 
 **HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList**

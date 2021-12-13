@@ -18,6 +18,8 @@ It's mainly used with anonymous types and LINQ when you manipulate different typ
 
 If you have to treat some data which is used only once, and in a local scope, you don't have to create a new type for it. You can just use anonymous type. In case of modification, you just need to modify your data directly.
 
+<!--more-->
+
 For example:
 
 ```csharp

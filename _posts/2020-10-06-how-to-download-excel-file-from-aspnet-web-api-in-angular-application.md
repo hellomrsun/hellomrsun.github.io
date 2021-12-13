@@ -16,6 +16,8 @@ As I've done it recently, I would like to share my implementation with you if it
 
 Firstly, expose an interface in the Web API to download the Excel file.
 
+<!--more-->
+
 ```csharp
 [HttpGet]
 [Route("api/v1/excel")]

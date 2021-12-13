@@ -20,6 +20,7 @@ The Microsoft .NET challenge France is co-organized by several companies:
 
 ![](./../../../assets/img/posts/2021-12-07-dotnet-challenge-final-2020/dotnet-challenge-france-2020.jpg)
 
+<!--more-->
 <br/>
 
 There were two sessions in total. The first session was held between June and July 2020, and the second was held between October and November 2020. Each session lasts one month.

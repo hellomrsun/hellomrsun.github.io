@@ -19,6 +19,8 @@ readonly is considered as runtime constant.
 
 I will demonstrate some example code to clarify their usages and differences.
 
+<!--more-->
+
 ### I. Const usages
 
 <br/>

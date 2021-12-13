@@ -17,6 +17,7 @@ I've tried to close the solution, delete project temporary files in "C:\Windows\
 
 While it doesn't work at most of the time. It's quite frustrating.
 
+<!--more-->
 <br />
 
 **Solution:**

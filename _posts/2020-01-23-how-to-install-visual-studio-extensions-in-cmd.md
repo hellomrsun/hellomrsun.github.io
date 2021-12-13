@@ -15,6 +15,8 @@ If you have limited user right and you are not able to install some Visual Studi
 
 1. Firstly, you can download the extension in [Visual Studio MarketPlace](https://marketplace.visualstudio.com).
 
+<!--more-->
+
 2. Launch CMD.exe with highest user right profile you have.
 
 3. Then, go to correct Visual Studio IDE folder.

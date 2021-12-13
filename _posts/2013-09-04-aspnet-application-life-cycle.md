@@ -23,6 +23,7 @@ IIS will decide that the request will be treated by aspx(active server pages), a
 
 If you want to treat any custom type of files, you need to create a custom handler and register it to IIS. 
 
+<!--more-->
 
 The request handling process are Request -> IIS -> ISAPI -> Application Domain -> Http Runtime -> HttpContext -> MHPM(HttpModule, HttpHandler, Page life, HttpModule)
 

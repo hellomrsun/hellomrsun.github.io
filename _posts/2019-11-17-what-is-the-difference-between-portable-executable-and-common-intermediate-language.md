@@ -20,6 +20,7 @@ In .NET, C# code is compiled into Common Intermediate Language (**CIL**) by comp
 ![](./../../../assets/img/posts/2019-11-17-PE-CIL/code_lifecycle.png)
 
 <br/>
+<!--more-->
 
 #### 1.1 C# code is human readable code ####
 

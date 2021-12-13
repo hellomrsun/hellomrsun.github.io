@@ -14,6 +14,8 @@ When you implement an ASP.NET CORE Web API, you may want the API to support all 
 
 You need to make the **CORS** (Cross Origin Resource Sharing) configuration in your Web API.
 
+<!--more-->
+
 The configuration would be like this:
 
 ![](./../../../assets/img/posts/2020-05-28-CorsAllowAnyOriginCredentials/wrong.PNG)

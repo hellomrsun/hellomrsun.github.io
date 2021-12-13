@@ -21,6 +21,8 @@ Error:
 
 ![](./../../../assets/img/posts/2020-03-28-SqlLocalDb/SqlLocalDb_version_windows_api_error.PNG)
 
+<!--more-->
+
 When I check the registry.
 
 1. Current version

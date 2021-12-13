@@ -18,6 +18,8 @@ As the name simple factory implies, you have a factory class to create different
 
 So if you have new types of objects to create in your code, you have to modify your factory class to extend it.
 
+<!--more-->
+
 Here is an example :
 
 

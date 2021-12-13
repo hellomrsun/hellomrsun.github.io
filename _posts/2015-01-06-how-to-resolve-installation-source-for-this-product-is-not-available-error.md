@@ -18,6 +18,8 @@ When you develop your enterprise application and deploy your application as a wi
 The installation source for this product is not available. Verify that the source exists and that you can access it.
 ```
 
+<!--more-->
+
 In this case, you can not install a new version of windows service because the installed service is corrupted and exists in the system.
 
 The installed service should be existed in "Administration Tools -> Services" and "Control panel -> Programs" 

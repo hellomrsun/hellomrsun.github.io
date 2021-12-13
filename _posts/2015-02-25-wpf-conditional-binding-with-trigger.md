@@ -15,6 +15,8 @@ WPF conditional binding enables the application to have different behaviors base
 
 For example, you could use conditional binding to change the background color of your WPF application main window.
 
+<!--more-->
+
 Suppose you have the following window declaration in you WPF application.
 
 ```xml

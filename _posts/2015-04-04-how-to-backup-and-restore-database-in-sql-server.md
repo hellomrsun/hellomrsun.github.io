@@ -18,6 +18,7 @@ If you want to backup and restore one database in SQL Server.
 ### 1. Create a shared folder, and add everyone with read/write right.
 
 <br/>
+<!--more-->
 
 ### 2. Backup your database.
 

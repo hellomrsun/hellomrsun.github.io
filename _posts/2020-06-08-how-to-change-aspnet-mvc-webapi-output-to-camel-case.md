@@ -27,6 +27,8 @@ FirstName
 LastName
 ```
 
+<!--more-->
+
 So you may encounter the difference when you convert your API from ASP.NET MVC Web API to ASP.NET CORE Web API or vice versa.
 
 Don't panic!

@@ -16,6 +16,8 @@ To improve the programming productivity, you can your personal snippet in visual
 
 Here I'll introduce to you how to do it. :)
 
+<!--more-->
+
 Firstly create a snippet file for copyright.
 
 ```xml

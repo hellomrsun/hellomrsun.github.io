@@ -23,6 +23,7 @@ LIBOR is a widely-used benchmark for short-term interest rates.
 
 > LIBOR is currently calculated for five currencies (USD, GBP, EUR, CHF and JPY) and for seven tenors in respect of each currency (Overnight/Spot Next, One Week, One Month, Two Months, Three Months, Six Months and 12 Months). This results in the publication of 35 individual rates (one for each currency and tenor combination) every applicable London business day.
 
+<!--more-->
 <br />
 
 <b>Libor Panel Banks:</b>

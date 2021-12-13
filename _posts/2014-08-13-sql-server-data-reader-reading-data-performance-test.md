@@ -16,6 +16,7 @@ As I've manipulated a lot of data using SQL data reader in recent project. And p
 
 So I've made an performance test in reading data from SQL data reader.
 
+<!--more-->
 
 Firstly, I've created a table with different data types, like int, varchar, date time etc.
 

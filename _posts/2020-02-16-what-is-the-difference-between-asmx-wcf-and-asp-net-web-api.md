@@ -17,6 +17,8 @@ Applications need to communicate among themselves, and to achieve this purpose, 
 
 Let's explore them together today.
 
+<!--more-->
+
 <!-- TOC -->
 
 - [ASMX](#asmx)

@@ -17,6 +17,8 @@ Today I have encountered a problem, I spent 3 hours and a half for figuring it o
 I need to get the country information when parsing the two urls: cn.xx.xxx.xxxx.com and web-cn.xx.xxx.xxxx.com
 What i need is simply "cn".
 
+<!--more-->
+
 Here is my code : 
 
 ```csharp

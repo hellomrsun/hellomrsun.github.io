@@ -20,6 +20,8 @@ To test internal methods in projects developed in .NET Framework, you need add t
 [assembly: InternalsVisibleTo("AssemblyName.Test")]
 ```
 
+<!--more-->
+
 <br/>
 
 or with public signed key:

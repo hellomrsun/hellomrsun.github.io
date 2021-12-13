@@ -22,6 +22,8 @@ The error is the following when I bulkcopy the data:
 The locale id '0' of the source column 'EntityId' and the locale id '1033' of thedestination column 'EntityId' do not match.
 ```
 
+<!--more-->
+
 But this is not the source of the error.
 
 

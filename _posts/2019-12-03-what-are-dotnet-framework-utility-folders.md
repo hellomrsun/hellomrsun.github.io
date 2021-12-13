@@ -26,6 +26,7 @@ So, here I summarize the most frequently used utility folders in .NET developmen
 - [3. Visual Studio folder](#3-visual-studio-folder)
 - [4. .NET Core SDK Folder](#4-net-core-sdk-folder)
 
+<!--more-->
 <br/>
 
 #### 1. DotNet Framework folder ####

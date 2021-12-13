@@ -20,6 +20,8 @@ You may meet the TFS response problem.
 
 In this case, you may try to restart visual studio or your system or make some other tries. But it won't work.
 
+<!--more-->
+
 You need to **refresh** your workspace to solve this problem, which means delete the entire workspace and re-make the mapping. 
 
 But you should backup your current modifications in the solution by shelve them.

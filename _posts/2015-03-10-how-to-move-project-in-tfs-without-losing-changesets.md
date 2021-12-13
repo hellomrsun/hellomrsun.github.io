@@ -17,6 +17,8 @@ You could NEVER delete a project in the TFS and re-add it into the place you wan
 
 What you should do is move the project to another place with TFS.
 
+<!--more-->
+
 Firstly, click add button to create a new folder in TFS source control explorer.
 
 ![](./../../../assets/img/posts/2015-03-10-TFSMoveProject/01.png)

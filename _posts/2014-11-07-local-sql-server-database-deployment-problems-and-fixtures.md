@@ -25,7 +25,7 @@ The deployment can have all the following steps:
 - Step 3. Executing publish script on database 'Your database'.
 - Step 4. Publish completed successfully
 
-
+<!--more-->
 
 In my experience, the failure in Step 1 could happen when you generate the database script.
 

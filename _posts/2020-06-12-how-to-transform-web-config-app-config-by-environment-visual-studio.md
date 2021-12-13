@@ -19,6 +19,8 @@ It could be frustrating when managing all those environments because a small err
 
 Fortunately there is a cool tool to facilitate the environment management and software deployment in visual studio.
 
+<!--more-->
+
 It is a visual studio extension: **Configuration Transform**
 
 ![](./../../../assets/img/posts/2020-06-12-NetFrameworkConfigTransform/00_download.PNG)

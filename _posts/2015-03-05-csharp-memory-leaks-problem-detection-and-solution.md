@@ -25,6 +25,7 @@ I’ve listed two profilers I’ve used. They are both very easy to use. You can
 - DotTrace
 - Ants Memory Profiler
 
+<!--more-->
 
 Here are some screenshots of one snapshot in Ants memory profiler.
 

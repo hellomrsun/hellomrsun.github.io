@@ -17,6 +17,8 @@ To make your application more flexible for unit testing, you could use a configu
 
 You can create an interface to expose some methods to access different configurations.
 
+<!--more-->
+
 This is two methods to retrieve the appSettings and connectionStrings by the configuration key.
 
 ```csharp

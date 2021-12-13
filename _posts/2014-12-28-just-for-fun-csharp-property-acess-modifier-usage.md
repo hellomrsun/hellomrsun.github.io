@@ -18,6 +18,8 @@ I've found some points to pay attention when revising the access modifiers for p
 
 #### 2. A property's modifier's hierarchy must be higher than its getter and setter.
 
+<!--more-->
+
 #### 3. A property's getter and setter can both have access modifier at the same time.
 
 #### 4. A private property's getter and setter can't have a access modifier.

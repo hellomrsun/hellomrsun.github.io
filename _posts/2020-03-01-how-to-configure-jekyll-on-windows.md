@@ -19,6 +19,8 @@ It's recommanded to install rubyinstaller-devkit-2.6.5-1-x64.exe for now.
 
 Download [RubyInstaller](https://rubyinstaller.org/downloads)
 
+<!--more-->
+
 **Check Ruby version:**
 
 ```bash

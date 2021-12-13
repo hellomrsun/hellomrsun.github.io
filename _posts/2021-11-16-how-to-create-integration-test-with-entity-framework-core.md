@@ -16,6 +16,8 @@ You need to always connect to your database to test your use cases with the real
 
 The good news is you can use the EF core's in-memory database provider to tackle it easily.
 
+<!--more-->
+
 Firstly, install the nuget package "Microsoft.EntityFrameworkCore.InMemory".
 
 ```cmd

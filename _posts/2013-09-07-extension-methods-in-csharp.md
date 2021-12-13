@@ -20,6 +20,7 @@ The most common extension methods are in LINQ; Linq provides two classes: Enumer
 
 Extension methods are static methods who reside in static utility classes.
 
+<!--more-->
 
 For example:
 

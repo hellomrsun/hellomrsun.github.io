@@ -16,6 +16,8 @@ I’ve been worked recently on the project structure refactoring. A good project
 
 Some practices could be applied to increase the project maintainability and facilitate the development in the team if there are multiple projects and multiple solutions.
 
+<!--more-->
+
 I would like to introduce some advice based on my own experience.
 
 - Manage common package (using Nuget)

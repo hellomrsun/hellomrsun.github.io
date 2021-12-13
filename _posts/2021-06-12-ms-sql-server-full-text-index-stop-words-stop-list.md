@@ -18,6 +18,7 @@ One table can have only one clustered index. And table data is physically ordere
 
 The table data is organized with root node (type: INDEX_PAGE), intermediate nodes (type: INDEX_PAGE) and leaf nodes (type: DATA_PAGE).
 
+<!--more-->
 <br/>
 
 ## Clustered index structure:

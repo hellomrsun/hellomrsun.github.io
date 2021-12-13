@@ -19,7 +19,7 @@ You could CLR profiler to view statistics like Heap statistics, Garbage Collecti
 
 ![](./../../../assets/img/posts/2020-01-18-ClrProfiler/CLR_Profiler.PNG)
 
-
+<!--more-->
 <br/>
 
 For example, I can compare the differences between String concatenation and StringBuilder appending in a console application.

@@ -21,6 +21,8 @@ Each library is presented in three parts:
 
 Firstly, it’s the leading library jQuery which makes javascript modern and easy-to-use. This library has changed a lot of people’s view about JavaScript.
 
+<!--more-->
+
 It was created by John Resig on Janurary 2006. It has improved developer’s productivity a lot and it supports multiple browsers.
 
 You can access the DOM elements with $ and specify the behavior to selected element(s).

@@ -14,6 +14,8 @@ When you develop a web application in Angular for the front-end and C# or Java i
 
 Here is an example that may inspire you in your development.
 
+<!--more-->
+
 ```html
 <!-- Upload file -->
 <input hidden #feeFile type="file" #uploader (change)="uploadFees($event)" accept=".xlsx, .xls" />

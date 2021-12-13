@@ -18,6 +18,8 @@ Some inconsistency problem may occur in your solution file during the developing
  
 The has happened in my project solution, which contains more than 100 projects (Tools, Web Services, Windows Services, Common Libraries, Integration tests, Unit tests). While this solution needs to be splited to be more readble. This is another history.
 
+<!--more-->
+
 So every time I open the product solution, I have a warning : 
 
 ```bash

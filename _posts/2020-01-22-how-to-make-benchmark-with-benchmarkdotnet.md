@@ -17,6 +17,7 @@ You can install BenchmarkDotNet Nuget package in your project.
 
 ![](./../../../assets/img/posts/2020-01-22-BenchmarkDotNet/nuget.PNG)
 
+<!--more-->
 
 Here I will benchmark the same codes in the post [CLR Profiler post](https://hellomrsun.github.io/2020/01/18/What-is-CLR-Profiler.html)
 

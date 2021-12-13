@@ -14,6 +14,8 @@ Github-pages is very practical to host static websites, not only Jekyll based we
 
 You don't need to purchase a space for the websites hosting. It's totally free! All you need is just a GitHub account. :)
 
+<!--more-->
+
 Here are some steps you need to follow:
 
 #### 1. Install Node.js if it's not already done

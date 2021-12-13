@@ -25,6 +25,8 @@ If not, you may get possible errors like:
 - Unable to determine the workspace
 - An item with the same key has already been added
 
+<!--more-->
+
 #### 3. And it's better to delete cache in TFS: C:\Users[USERNAME]\AppData\Local\Microsoft\Team Foundation\4.0\Cache
 
 #### 4. Go to the target branch name
