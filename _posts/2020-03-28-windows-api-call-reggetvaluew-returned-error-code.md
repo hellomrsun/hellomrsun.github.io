@@ -9,6 +9,8 @@ img: posts/2020-03-28-SqlLocalDb/InstalledVersion.PNG
 tags: [EntityFramework, SQLServer]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2020/03/28/SqlLocalDb_version.html
 ---
 
 I've met this error when I check the version of SQL Server LocalDb in my machine.

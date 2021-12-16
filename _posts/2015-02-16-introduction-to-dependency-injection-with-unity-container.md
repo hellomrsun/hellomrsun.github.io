@@ -9,6 +9,8 @@ img: posts/2015-dependency-injection/di.png
 tags: [DesignPatterns]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/02/16/dependency-injection-unity-container.html
 ---
 
 

@@ -9,6 +9,8 @@ img: posts/2020-01-18-ClrProfiler/StringBenchmark.png
 tags: [Profiler]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2020/01/18/What-is-CLR-Profiler.html
 ---
 
 CLR Profiler is a .NET tool, developed by Microsoft, to evaluate the C# applications (.exe) performances.

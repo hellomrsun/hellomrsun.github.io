@@ -9,6 +9,8 @@ img: posts/2021-01-03-DOM/window-dom.PNG
 tags: [DOM]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2010/01/03/some-notes-on-document-object-model.html
 ---
 
 

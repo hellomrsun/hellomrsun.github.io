@@ -8,6 +8,8 @@ description: Which library to generate Excel in C#? OpenXmlSdk or ClosedXml? CSh
 img: posts/2020-10-05-excel-generation/closedxml.png
 tags: [Excel, CSharp]
 author: SUN Jiangong
+redirect_from:
+  - /2020/10/05/excel-generation-in-csharp.html
 ---
 
 I need to generate Excel files in my recent work. The file is not huge and it's around 5000 lines.

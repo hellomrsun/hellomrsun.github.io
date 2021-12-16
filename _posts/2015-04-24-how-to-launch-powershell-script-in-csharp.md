@@ -9,6 +9,8 @@ img: posts/uncategorized/powershell.png
 tags: [Powershell]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/04/24/how-to-launch-powershell-script-csharp.html
 ---
 
 

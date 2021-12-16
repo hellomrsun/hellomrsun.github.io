@@ -9,6 +9,8 @@ img: posts/uncategorized/tfs.png
 tags: [TFS]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/01/16/how-to-solve-slow-tfs-problem.html
 ---
 
 

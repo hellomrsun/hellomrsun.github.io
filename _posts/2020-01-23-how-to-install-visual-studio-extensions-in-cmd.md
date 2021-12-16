@@ -8,6 +8,8 @@ description: How to install Visual Studio Extensions in Command Line Visual Stud
 img: posts/2020-01-22-vs-extension/mp.PNG 
 tags: [VisualStudio]
 author: SUN Jiangong
+redirect_from:
+  - /2020/01/22/Install_Visual_Studio_Extensions_Command_Line.html
 ---
 
 If you have limited user right and you are not able to install some Visual Studio Extensions (.VSIX) directly, you can install them in command line.

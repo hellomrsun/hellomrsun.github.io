@@ -9,6 +9,8 @@ img: posts/uncategorized/windows.jpg
 tags: [Windows]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/01/06/how-to-resolve-installation-source-for-this-product-is-not-available.html
 ---
 
 

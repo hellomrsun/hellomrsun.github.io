@@ -9,6 +9,8 @@ img: posts/uncategorized/Visual-Studio.png
 tags: [VisualStudio]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/02/04/one-or-more-projects-in-the-solution-were-not-loaded.html
 ---
 
 

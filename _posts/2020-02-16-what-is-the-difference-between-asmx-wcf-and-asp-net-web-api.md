@@ -9,6 +9,8 @@ img: posts/2020-02-16-AsmxWcfWebApi/asmx-wcf-webapi.png
 tags: [DotNet, WebService, WebApi, WCF]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2020/02/16/Difference_among_asmx_wcf_web_api.html
 ---
 
 Application architecture has evolved from monolithic architecture to SOA architecture in order to make better separation, then to more refined microservice architecture today.

@@ -9,8 +9,9 @@ img: posts/2015-03-05-MemoryLeaks/02.png
 tags: [Profiler]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/03/05/memory-leaks-problem-detection-and-solution.html
 ---
-
 
 Out of memory exception happens when server doesn’t have enough memory to run the application.
 

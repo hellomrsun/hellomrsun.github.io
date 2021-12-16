@@ -8,6 +8,8 @@ description: How to create unit tests on internal methods and protected methods 
 img: posts/2021-05-26-InternalProtectedMethodsUnitTest/1_set_internal_visible_in_class.PNG 
 tags: [DotNetCore, DotNet, UnitTest]
 author: SUN Jiangong
+redirect_from:
+  - /2021/05/26/unit-test-internal-and-protected-methods.html
 ---
 
 You'll inevitablly write unit tests or integration tests for internal methods and protected methods in your .net project.

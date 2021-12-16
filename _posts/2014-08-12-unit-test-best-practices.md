@@ -9,6 +9,8 @@ img: posts/uncategorized/unit-test.PNG
 tags: [UnitTest]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2014/08/12/some-advice-on-unit-tests.html
 ---
 
 

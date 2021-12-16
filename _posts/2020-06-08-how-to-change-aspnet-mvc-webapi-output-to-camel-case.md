@@ -9,6 +9,8 @@ img: posts/2020-06-08-aspnet-webapi/webapi.png
 tags: [WebApi]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2020/06/08/how-to-change-aspnet-web-api-output-camel-case.html
 ---
 
 Unlike ASP.NET CORE Web API, ASP.NET MVC Web API's will not serialize the output in camelCase.

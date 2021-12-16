@@ -9,6 +9,8 @@ img: posts/uncategorized/tfs.png
 tags: [TFS]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/03/10/project-organization-structure-refactoring-tfs.html
 ---
 
 There are something you need to pay attention to when you make a project move refactoring.

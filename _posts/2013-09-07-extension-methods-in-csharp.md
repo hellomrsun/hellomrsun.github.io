@@ -9,6 +9,8 @@ img: posts/uncategorized/csharp.jpg
 tags: [CSharp]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2013/09/07/extension-methods-csharp.html
 ---
 
 

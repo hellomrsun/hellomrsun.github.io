@@ -9,6 +9,8 @@ img: posts/uncategorized/craftsman.PNG
 tags: [Craftsmanship]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2013/01/25/software-craftsmanship-code-kata.html
 ---
 
 I have participated in a session organized by **Paris Software Craftsmanship Community** yesterday on 24 January 2013; I was among 20 passionate developers who like to optimize and accelerate their project development and sharpen their expertise. 

@@ -8,6 +8,8 @@ description: What are most used abbreviations by CSharp developers? C#
 img: posts/uncategorized/craftsman.PNG
 tags: [Craftsmanship]
 author: SUN Jiangong
+redirect_from:
+  - /2020/01/20/Software-development-abbreviations.html
 ---
 
 Here are most used abbreviations used by C# developers.

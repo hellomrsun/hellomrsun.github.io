@@ -8,6 +8,8 @@ description: MS SQL server full-text index and its stop words, fulltext index, M
 img: posts/20210612-Fulltext-stoplist/3-fulltext-index-architecture.gif
 tags: [SQLServer, FullText, Index]
 author: SUN Jiangong
+redirect_from:
+  - /2021/06/12/sql-server-fulltext-index-stop-words.html
 ---
 
 Full-text index is different from clustered and non-clustered index in SQL Server.

@@ -9,6 +9,8 @@ img: posts/uncategorized/Visual-Studio.png
 tags: [VisualStudio]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2014/01/23/how-to-create-custom-snippet-in-visual-studio.html
 ---
 
 

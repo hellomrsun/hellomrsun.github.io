@@ -9,6 +9,8 @@ img: posts/2020-06-12-NetFrameworkConfigTransform/00_download.PNG
 tags: [DevOps, MsBuild, VisualStudio, ConfigurationTransform]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2020/06/12/how-to-manage-app-config-by-environment.html
 ---
 
 In software development, there are at least several environments to manage: development (DEV), staging (STAG or PRE), and production (PRD). 

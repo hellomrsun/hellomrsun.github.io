@@ -9,6 +9,8 @@ img: posts/uncategorized/sqlserver.PNG
 tags: [SQLServer]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/03/27/how-to-change-an-existing-column-to-auto-increment-column-in-sql-server.html
 ---
 
 

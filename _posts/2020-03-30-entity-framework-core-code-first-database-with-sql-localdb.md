@@ -8,8 +8,9 @@ description: How to do Code-First approach with Entity Framework Core and SQL Lo
 img: posts/2020-03-30-EfCoreCodeFirstSqlLocalDb/010_dbcontext.png 
 tags: [EntityFramework, EntityFrameworkCore, SQLServer]
 author: SUN Jiangong
-# github:  hellomrsun
 mathjax: yes
+redirect_from:
+  - /2020/03/30/EfCore-SqlLocalDb-Code-First-Database.html
 ---
 
 

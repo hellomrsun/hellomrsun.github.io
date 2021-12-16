@@ -9,6 +9,8 @@ img: posts/uncategorized/sqlserver.PNG
 tags: [SQLServer]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2014/03/26/bulkcopy-data-for-a-column-with-different-type.html
 ---
 
 

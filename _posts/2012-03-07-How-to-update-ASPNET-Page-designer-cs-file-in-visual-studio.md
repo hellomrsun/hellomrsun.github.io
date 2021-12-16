@@ -9,6 +9,8 @@ img: posts/uncategorized/Visual-Studio.png
 tags: [ASPNET, Visual-Studio]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2012/03/07/How-to-update-ASPNET-Page-designer-cs-file-in-visual-studio.html
 ---
 
 I want to add repeater, litteral or register user control in ASP.NET pages. Sometimes the page's ".designer.cs" file doesn't update immediately.

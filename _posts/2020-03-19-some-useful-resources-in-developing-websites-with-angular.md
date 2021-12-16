@@ -9,6 +9,8 @@ img: posts/2020-03-19-AngularStarter/AngularUIFrameworks.png
 tags: [Angular]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2020/03/19/Angular_starter_resources.html
 ---
 
 I would like to share some useful tips in developing web applications with Angular.

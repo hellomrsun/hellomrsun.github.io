@@ -9,6 +9,8 @@ img: posts/uncategorized/design-patterns.PNG
 tags: [DesignPatterns]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/02/08/introduction-to-configuration-wrapper.html
 ---
 
 In your applications, you are certainly using the configuration sections like appSettings for custom configurations, connectionStrings for database binding and other sections like WCF bindings, etc.

@@ -9,6 +9,8 @@ img: posts/uncategorized/design-patterns.PNG
 tags: [DesignPatterns]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2013/09/07/design-patterns-facade-pattern.html
 ---
 
 Facade Pattern provides a unique interface to a set of methods of different subsystems in an application. It's widely used in application development.

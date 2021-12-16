@@ -9,6 +9,8 @@ img: posts/uncategorized/sqlserver.PNG
 tags: [SQLServer]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/04/04/backup-and-restore-database-sql-server.html
 ---
 
 

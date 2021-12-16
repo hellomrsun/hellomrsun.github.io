@@ -9,6 +9,8 @@ img: posts/uncategorized/design-patterns.PNG
 tags: [DesignPatterns]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2014/01/04/design-patterns-simple-factory-factory-method-abstract-factory.html
 ---
 
 

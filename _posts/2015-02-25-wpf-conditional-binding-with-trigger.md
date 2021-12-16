@@ -9,6 +9,8 @@ img: posts/2015-02-25-wpf/wpf.PNG
 tags: [WPF]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2015/02/25/wpf-conditional-binding-with-trigger.html
 ---
 
 WPF conditional binding enables the application to have different behaviors based on a pre-defined condition.

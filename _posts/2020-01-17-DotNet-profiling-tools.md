@@ -9,6 +9,8 @@ img: posts/uncategorized/csharp.jpg
 tags: [DotNet, Profiler]
 author: SUN Jiangong
 mathjax: yes
+redirect_from:
+  - /2020/01/17/DotNet-profiling-tools.html
 ---
 
 There are some .NET profiling tools which are quite helpful to make code benchmarks and guide you to fix the application's performance problems.

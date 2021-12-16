@@ -8,6 +8,8 @@ description: How to upload and download file in Angular 5+ and .net core, dotnet
 img: posts/2021-11-11-angular-upload-file/angular.png
 tags: [Angular, CSharp]
 author: SUN Jiangong
+redirect_from:
+  - /2021/11/11/how-to-upload-download-file-angular.html
 ---
 
 When you develop a web application in Angular for the front-end and C# or Java in the back-end, it's frequently that you need to upload and download files.

@@ -9,7 +9,8 @@ img: posts/uncategorized/iis.png
 tags: [IIS, WCF]
 author: SUN Jiangong
 mathjax: yes
-
+redirect_from:
+  - /2014/02/20/wcf-service-failed-to-start-wrong-IIS-configuration.html
 ---
 
 
