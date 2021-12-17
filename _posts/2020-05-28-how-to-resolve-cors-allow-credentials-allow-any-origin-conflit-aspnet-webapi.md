@@ -8,6 +8,7 @@ description: How to resolve CORS AllowAnyOrigin and AllowCredentials conflict in
 img: posts/2020-05-28-CorsAllowAnyOriginCredentials/solution.PNG
 tags: [CORS]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-resolve-cors-allow-credentials-allow-any-origin-conflit-aspnet-webapi.html'
 redirect_from:
   - /2020/05/28/cors-allow-any-origin-and-allow-credentials-conflict.html
 ---

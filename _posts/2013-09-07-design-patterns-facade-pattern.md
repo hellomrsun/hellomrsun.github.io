@@ -8,6 +8,7 @@ description: Design patterns V - Facade Pattern
 img: posts/uncategorized/design-patterns.PNG
 tags: [DesignPatterns]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/design-patterns-facade-pattern.html'
 mathjax: yes
 redirect_from:
   - /2013/09/07/design-patterns-facade-pattern.html

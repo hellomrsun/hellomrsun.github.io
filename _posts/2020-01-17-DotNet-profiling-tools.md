@@ -8,6 +8,7 @@ description: .NET Profiling tools
 img: posts/uncategorized/csharp.jpg
 tags: [DotNet, Profiler]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/DotNet-profiling-tools.html'
 mathjax: yes
 redirect_from:
   - /2020/01/17/DotNet-profiling-tools.html

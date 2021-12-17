@@ -8,6 +8,7 @@ description: How to solve You have been logged on with a temporary profile error
 img: posts/uncategorized/windows.jpg 
 tags: [Windows]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-solve-you-have-been-logged-on-with-a-temporary-profile-error-in-windows.html'
 mathjax: yes
 redirect_from:
   - /2014/10/21/how-to-solve-you-have-been-logged-on-with-a-temporary-profile.html

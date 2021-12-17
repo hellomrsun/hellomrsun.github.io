@@ -8,6 +8,7 @@ description: What is Inter-Bank Offered Rate
 img: posts/2020-01-16-IBOR/ICE_LIBOR_Panel_banks.png 
 tags: [Finance, IBOR]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/what-is-inter-bank-offered-rate-bor.html'
 mathjax: yes
 redirect_from:
   - /2020/01/16/What-is-interbank-offered-rate.html

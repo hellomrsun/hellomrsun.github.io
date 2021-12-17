@@ -8,6 +8,7 @@ description: Design patterns Introduction to configuration wrapper
 img: posts/uncategorized/design-patterns.PNG
 tags: [DesignPatterns]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/design-patterns-introduction-to-configuration-wrapper.html'
 mathjax: yes
 redirect_from:
   - /2015/02/08/introduction-to-configuration-wrapper.html

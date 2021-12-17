@@ -8,6 +8,7 @@ description: REST API Design - Richardson Maturity Model, WEB API
 img: posts/uncategorized/open-api.png
 tags: [REST, WebApi]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/rest-api-design-richardson-maturity-model.html'
 redirect_from:
   - /2020/04/21/rest-api-design-richardson-maturity-model.html
 ---

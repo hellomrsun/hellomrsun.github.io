@@ -8,6 +8,7 @@ description: .Net framework utility folders, DotNet Framework, Microsoft SDK, Vi
 img: posts/2019-dotnet-framework/dotnet.jpg
 tags: [DotNet]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/what-are-dotnet-framework-utility-folders.html'
 mathjax: yes
 redirect_from:
   - /2019/12/03/DotNet-tool-folders.html

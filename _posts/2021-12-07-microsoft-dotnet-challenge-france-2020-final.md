@@ -8,6 +8,7 @@ description: Microsoft .NET challenge France 2020 final, A Csharp Dotnet Azure A
 img: posts/2021-12-07-dotnet-challenge-final-2020/challenge-all.jpg 
 tags: [DotNET, CSharp, TechEvents]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/microsoft-dotnet-challenge-france-2020-final.html'
 redirect_from:
   - /2021/12/07/microsoft-dotnet-challenge-france-2020-final.html
 ---

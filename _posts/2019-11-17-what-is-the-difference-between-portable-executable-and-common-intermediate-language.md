@@ -8,6 +8,7 @@ description: What is the difference between PE (Portable Executable) and CIL (Co
 img: posts/2019-11-17-PE-CIL/code_lifecycle.png
 tags: [DotNet]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/what-is-the-difference-between-portable-executable-and-common-intermediate-language.html'
 mathjax: yes
 redirect_from:
   - /2019/11/17/Difference-between-PE-and_CIL.html

@@ -8,6 +8,7 @@ description: REST API Design - What is OpenAPI-compliant API? Web API
 img: posts/uncategorized/open-api.png
 tags: [REST, WebApi]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/rest-api-design-openapi-specification-oas-openapi-initiative-oai.html'
 redirect_from:
   - /2020/05/01/rest-api-open-api-specification.html
 ---

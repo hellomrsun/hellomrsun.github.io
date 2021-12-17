@@ -9,6 +9,7 @@ img: posts/2020-03-01-Jekyll/Ridk.PNG
 tags: [Jekyll]
 author: SUN Jiangong
 mathjax: yes
+canonical_url: 'https://www.sunjiangong.com/how-to-configure-jekyll-on-windows.html'
 redirect_from:
   - /2020/03/01/How_to_configure_Jekyll_on_Windows.html
 ---

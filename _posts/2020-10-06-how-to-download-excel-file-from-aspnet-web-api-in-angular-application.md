@@ -8,6 +8,7 @@ description: How to download an Excel file from ASP.NET Web API in Angular appli
 img: posts/2020-10-06-angular-download/angular.png
 tags: [Angular, ASPNET]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-download-excel-file-from-aspnet-web-api-in-angular-application.html'
 redirect_from:
   - /2020/10/06/how-to-download-excel-from-web-api-in-angular.html
 ---

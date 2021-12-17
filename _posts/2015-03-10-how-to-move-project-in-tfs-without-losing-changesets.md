@@ -2,12 +2,13 @@
 layout: post
 read_time: true
 show_date: true
-title:  Move project in TFS without losing changesets
+title:  How to move project in TFS without losing changesets
 date:   2015-03-10 08:00:00 +0100
-description: Move project in TFS without losing changesets
+description: How to move project in TFS without losing changesets, Team foundation server
 img: posts/uncategorized/tfs.png
 tags: [TFS]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-move-project-in-tfs-without-losing-changesets.html'
 mathjax: yes
 redirect_from:
   - /2015/03/10/project-organization-structure-refactoring-tfs.html

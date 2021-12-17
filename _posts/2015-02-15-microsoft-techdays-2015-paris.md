@@ -8,6 +8,7 @@ description: Microsoft Techdays 2015 Paris
 img: posts/2015-02-15-Techdays2015Paris/03.png 
 tags: [TechEvents]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/microsoft-techdays-2015-paris.html'
 mathjax: yes
 redirect_from:
   - /2015/02/15/microsoft-techdays-2015-paris.html

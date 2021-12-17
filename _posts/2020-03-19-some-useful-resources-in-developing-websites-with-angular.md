@@ -8,6 +8,7 @@ description: Some useful resources in developing websites with Angular
 img: posts/2020-03-19-AngularStarter/AngularUIFrameworks.png
 tags: [Angular]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/some-useful-resources-in-developing-websites-with-angular.html'
 mathjax: yes
 redirect_from:
   - /2020/03/19/Angular_starter_resources.html
@@ -19,11 +20,11 @@ I would like to share some useful tips in developing web applications with Angul
 
 - [Part 1 : UI Frameworks](#part-1--ui-frameworks)
 - [Part 2: Extensions](#part-2-extensions)
-  - [Angular Follow Selector](#angular-follow-selector)
-  - [Angular Language Service](#angular-language-service)
-  - [Debugger for Chrome](#debugger-for-chrome)
-  - [ESLint or TSLint](#eslint-or-tslint)
-  - [Angular Essentials (Version 9)](#angular-essentials-version-9)
+    - [Angular Follow Selector](#angular-follow-selector)
+    - [Angular Language Service](#angular-language-service)
+    - [Debugger for Chrome](#debugger-for-chrome)
+    - [ESLint or TSLint](#eslint-or-tslint)
+    - [Angular Essentials Version 9](#angular-essentials-version-9)
 - [Part 3. Coding](#part-3-coding)
 
 <!-- /TOC -->

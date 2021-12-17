@@ -8,6 +8,7 @@ description: Software craftsmanship, code kata, best practice, .NET, Dotnet, C#,
 img: posts/uncategorized/craftsman.PNG 
 tags: [Craftsmanship]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/software-craftsmanship-code-kata.html'
 mathjax: yes
 redirect_from:
   - /2013/01/25/software-craftsmanship-code-kata.html

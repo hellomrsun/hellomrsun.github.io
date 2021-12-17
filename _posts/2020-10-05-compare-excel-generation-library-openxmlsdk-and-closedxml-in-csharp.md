@@ -8,6 +8,7 @@ description: Which library to generate Excel in C#? OpenXmlSdk or ClosedXml? CSh
 img: posts/2020-10-05-excel-generation/closedxml.png
 tags: [Excel, CSharp]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/compare-excel-generation-library-openxmlsdk-and-closedxml-in-csharp.html'
 redirect_from:
   - /2020/10/05/excel-generation-in-csharp.html
 ---

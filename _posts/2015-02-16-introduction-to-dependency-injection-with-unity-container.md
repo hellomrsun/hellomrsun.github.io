@@ -8,6 +8,7 @@ description: Introduction to dependency injection with unity container, IOC
 img: posts/2015-dependency-injection/di.png
 tags: [DesignPatterns]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/introduction-to-dependency-injection-with-unity-container.html'
 mathjax: yes
 redirect_from:
   - /2015/02/16/dependency-injection-unity-container.html

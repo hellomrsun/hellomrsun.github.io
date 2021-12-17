@@ -8,6 +8,7 @@ description: How to solve - The installation source for this product is not avai
 img: posts/uncategorized/windows.jpg
 tags: [Windows]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-resolve-installation-source-for-this-product-is-not-available-error.html'
 mathjax: yes
 redirect_from:
   - /2015/01/06/how-to-resolve-installation-source-for-this-product-is-not-available.html

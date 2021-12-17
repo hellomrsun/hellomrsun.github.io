@@ -8,6 +8,7 @@ description: What is CLR profiler?
 img: posts/2020-01-18-ClrProfiler/StringBenchmark.png
 tags: [Profiler]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/What-is-CLR-Profiler.html'
 mathjax: yes
 redirect_from:
   - /2020/01/18/What-is-CLR-Profiler.html

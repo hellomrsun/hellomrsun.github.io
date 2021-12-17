@@ -8,6 +8,7 @@ description: An optimized version of function sys.fn_cdc_is_bit_set, Change Data
 img: posts/2021-12-08-cdc-is-bit-set/cdc.jpg 
 tags: [SQLServer, SQL]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/optimized-version-function-sys-fn-cdc-is-bit-set.html'
 redirect_from:
   - /2021/12/08/optimized-version-function-sys-fn-cdc-is-bit-set.html
 ---

@@ -8,6 +8,7 @@ description: Multi-layer project architecture, N-Tier
 img: posts/uncategorized/architecture.png
 tags: [Architecture]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/multi-layer-project-architecture.html'
 mathjax: yes
 redirect_from:
   - /2015/02/08/multi-layer-project-architecture.html

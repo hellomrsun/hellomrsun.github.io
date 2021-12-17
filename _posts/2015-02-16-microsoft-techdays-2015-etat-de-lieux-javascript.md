@@ -8,6 +8,7 @@ description: Microsoft Techdays 2015 - Etat de lieux JavaScript
 img: posts/2015-02-16-TechdaysEtatDeLieuxJavascript/01.png
 tags: [Craftsmanship]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/microsoft-techdays-2015-etat-de-lieux-javascript.html'
 mathjax: yes
 redirect_from:
   - /2015/02/16/microsoft-techdays-etat-de-lieux-javascript.html

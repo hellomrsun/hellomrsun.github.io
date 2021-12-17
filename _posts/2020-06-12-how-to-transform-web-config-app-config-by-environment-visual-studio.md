@@ -9,6 +9,7 @@ img: posts/2020-06-12-NetFrameworkConfigTransform/00_download.PNG
 tags: [DevOps, MsBuild, VisualStudio, ConfigurationTransform]
 author: SUN Jiangong
 mathjax: yes
+canonical_url: 'https://www.sunjiangong.com/how-to-transform-web-config-app-config-by-environment-visual-studio.html'
 redirect_from:
   - /2020/06/12/how-to-manage-app-config-by-environment.html
 ---

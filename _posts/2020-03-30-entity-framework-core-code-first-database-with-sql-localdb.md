@@ -9,6 +9,7 @@ img: posts/2020-03-30-EfCoreCodeFirstSqlLocalDb/010_dbcontext.png
 tags: [EntityFramework, EntityFrameworkCore, SQLServer]
 author: SUN Jiangong
 mathjax: yes
+canonical_url: 'https://www.sunjiangong.com/entity-framework-core-code-first-database-with-sql-localdb.html'
 redirect_from:
   - /2020/03/30/EfCore-SqlLocalDb-Code-First-Database.html
 ---

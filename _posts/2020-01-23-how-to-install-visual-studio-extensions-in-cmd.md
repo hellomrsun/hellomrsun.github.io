@@ -8,6 +8,7 @@ description: How to install Visual Studio Extensions in Command Line Visual Stud
 img: posts/2020-01-22-vs-extension/mp.PNG 
 tags: [VisualStudio]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-install-visual-studio-extensions-in-cmd.html'
 redirect_from:
   - /2020/01/22/Install_Visual_Studio_Extensions_Command_Line.html
 ---

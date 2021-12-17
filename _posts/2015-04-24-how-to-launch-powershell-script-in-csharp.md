@@ -8,6 +8,7 @@ description:  How to launch Powershell script in CSharp? C# PS
 img: posts/uncategorized/powershell.png
 tags: [Powershell]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-launch-powershell-script-in-csharp.html'
 mathjax: yes
 redirect_from:
   - /2015/04/24/how-to-launch-powershell-script-csharp.html

@@ -8,6 +8,7 @@ description: How to create proxy to consume WCF service ?
 img: posts/uncategorized/wcf.PNG
 tags: [WCF]
 author: SUN Jiangong
+canonical_url: 'https://www.sunjiangong.com/how-to-create-generic-wcf-proxy.html'
 mathjax: yes
 redirect_from:
   - /2013/10/10/how-to-create-generic-wcf-proxy.html
