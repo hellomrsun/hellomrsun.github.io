@@ -6,7 +6,7 @@ title:  An optimized version of function sys.fn_cdc_is_bit_set
 date:   2021-12-08 08:00:00 +0100
 description: An optimized version of function sys.fn_cdc_is_bit_set, Change Data Capture Table, update_mask
 img: posts/2021-12-08-cdc-is-bit-set/cdc.jpg 
-tags: [SQLServer, SQL]
+tags: [SqlServer, SQL]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/optimized-version-function-sys-fn-cdc-is-bit-set.html'
 redirect_from:

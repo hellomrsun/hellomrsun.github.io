@@ -6,7 +6,7 @@ title:  Local SQL Server database deployment problems and fixtures
 date:   2014-11-07 08:00:00 +0100
 description: Local SQL Server database deployment problems and fixtures
 img: posts/uncategorized/sqlserver.PNG
-tags: [SQLServer]
+tags: [SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/local-sql-server-database-deployment-problems-and-fixtures.html'
 mathjax: yes

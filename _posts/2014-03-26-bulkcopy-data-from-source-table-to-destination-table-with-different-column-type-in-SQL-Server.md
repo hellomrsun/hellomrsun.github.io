@@ -6,7 +6,7 @@ title:  BulkCopy data from source table to destination table with different colu
 date:   2014-03-26 08:00:00 +0100
 description: BulkCopy data from source table to destination table with different column type in SQL Server
 img: posts/uncategorized/sqlserver.PNG
-tags: [SQLServer]
+tags: [SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/bulkcopy-data-from-source-table-to-destination-table-with-different-column-type-in-SQL-Server.html'
 mathjax: yes

@@ -6,7 +6,7 @@ title:  SqlLocalDb Versions - Windows API call RegGetValueW returned error code
 date:   2020-03-28 08:00:00 +0100
 description: SqlLocalDb Versions - Windows API call RegGetValueW returned error code
 img: posts/2020-03-28-SqlLocalDb/InstalledVersion.PNG
-tags: [EntityFramework, SQLServer]
+tags: [EntityFramework, SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/windows-api-call-reggetvaluew-returned-error-code.html'
 mathjax: yes

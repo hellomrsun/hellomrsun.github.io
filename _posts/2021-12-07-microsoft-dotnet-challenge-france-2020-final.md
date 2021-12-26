@@ -6,7 +6,7 @@ title:  Microsoft .NET challenge France 2020 final
 date:   2021-12-07 08:00:00 +0100
 description: Microsoft .NET challenge France 2020 final, A Csharp Dotnet Azure Algorithm competition organized by Softfluent, Microsoft, EditX
 img: posts/2021-12-07-dotnet-challenge-final-2020/challenge-all.jpg 
-tags: [DotNET, CSharp, TechEvents]
+tags: [DotNet, CSharp, TechEvents]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/microsoft-dotnet-challenge-france-2020-final.html'
 redirect_from:

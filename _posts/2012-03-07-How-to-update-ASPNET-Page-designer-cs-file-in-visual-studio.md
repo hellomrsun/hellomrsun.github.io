@@ -6,7 +6,7 @@ title:  How to update ASP.NET Page's .designer.cs file in visual studio
 date:   2012-03-07 08:00:00 +0100
 description: .NET, Dotnet, C#, Csharp, ASP.NET, designer.cs, ASP-NET, Visual Studio
 img: posts/uncategorized/Visual-Studio.png
-tags: [ASPNET, Visual-Studio]
+tags: [ASPNET, VisualStudio]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/How-to-update-ASPNET-Page-designer-cs-file-in-visual-studio.html'
 mathjax: yes

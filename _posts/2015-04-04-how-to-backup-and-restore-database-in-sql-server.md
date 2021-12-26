@@ -6,7 +6,7 @@ title:  How to backup and restore database in MS SQL Server?
 date:   2015-04-04 08:00:00 +0100
 description: How to backup and restore database in MS SQL Server, Microsoft
 img: posts/uncategorized/sqlserver.PNG
-tags: [SQLServer]
+tags: [SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-backup-and-restore-database-in-sql-server.html'
 mathjax: yes

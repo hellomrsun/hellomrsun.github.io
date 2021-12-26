@@ -5,7 +5,7 @@ show_date: true
 title:  What is the difference between ASMX, WCF, and ASP.NET Web API?
 date:   2020-02-16 08:00:00 +0100
 description: What is the difference between ASMX, WCF, and ASP.NET Web API? Windows communication framework
-img: posts/2020-02-16-AsmxWcfWebApi/asmx-wcf-webapi.png
+img: posts/2020-02-16-AsmxWcfWebApi/asmx-wcf-webapi.PNG
 tags: [DotNet, WebService, WebApi, WCF]
 author: SUN Jiangong
 mathjax: yes
@@ -25,37 +25,37 @@ Let's explore them together today.
 <!-- TOC -->
 
 - [ASMX](#asmx)
-    - [SOAP message](#soap-message)
-    - [ASMX web service code sample](#asmx-web-service-code-sample)
-    - [WSDL](#wsdl)
-        - [WSDL structure](#wsdl-structure)
-        - [PrintService's WSDL detail](#printservices-wsdl-detail)
-        - [PrintService's WSDL code](#printservices-wsdl-code)
-        - [SOAP vs WSDL vs UDDI](#soap-vs-wsdl-vs-uddi)
-    - [ASMX service consumption](#asmx-service-consumption)
-        - [Consume ASMX service in Web browser](#consume-asmx-service-in-web-browser)
-        - [Consume ASMX service in SoapUI](#consume-asmx-service-in-soapui)
-    - [ASMX project source project](#asmx-project-source-project)
+  - [SOAP message](#soap-message)
+  - [ASMX web service code sample](#asmx-web-service-code-sample)
+  - [WSDL](#wsdl)
+    - [WSDL structure](#wsdl-structure)
+    - [PrintService's WSDL detail](#printservices-wsdl-detail)
+    - [PrintService's WSDL code](#printservices-wsdl-code)
+    - [SOAP vs WSDL vs UDDI](#soap-vs-wsdl-vs-uddi)
+  - [ASMX service consumption](#asmx-service-consumption)
+    - [Consume ASMX service in Web browser](#consume-asmx-service-in-web-browser)
+    - [Consume ASMX service in SoapUI](#consume-asmx-service-in-soapui)
+  - [ASMX project source project](#asmx-project-source-project)
 - [WCF](#wcf)
-    - [WCF Architecture](#wcf-architecture)
-    - [WCF communication binding](#wcf-communication-binding)
-    - [SOAP WCF service sample code](#soap-wcf-service-sample-code)
-    - [SOAP WCF WSDL](#soap-wcf-wsdl)
-        - [SOAP WCF WSDL detail](#soap-wcf-wsdl-detail)
-        - [SOAP WCF WSDL code](#soap-wcf-wsdl-code)
-    - [SOAP WCF service consumption](#soap-wcf-service-consumption)
-    - [WCF service bindings](#wcf-service-bindings)
-    - [REST WCF service sample code](#rest-wcf-service-sample-code)
-    - [REST WCF WADL](#rest-wcf-wadl)
-        - [REST WCF WADL structure](#rest-wcf-wadl-structure)
-        - [REST WCF WADL code](#rest-wcf-wadl-code)
-    - [REST WCF service consumption](#rest-wcf-service-consumption)
-    - [SOAP and REST WCF services source projects](#soap-and-rest-wcf-services-source-projects)
+  - [WCF Architecture](#wcf-architecture)
+  - [WCF communication binding](#wcf-communication-binding)
+  - [SOAP WCF service sample code](#soap-wcf-service-sample-code)
+  - [SOAP WCF WSDL](#soap-wcf-wsdl)
+    - [SOAP WCF WSDL detail](#soap-wcf-wsdl-detail)
+    - [SOAP WCF WSDL code](#soap-wcf-wsdl-code)
+  - [SOAP WCF service consumption](#soap-wcf-service-consumption)
+  - [WCF service bindings](#wcf-service-bindings)
+  - [REST WCF service sample code](#rest-wcf-service-sample-code)
+  - [REST WCF WADL](#rest-wcf-wadl)
+    - [REST WCF WADL structure](#rest-wcf-wadl-structure)
+    - [REST WCF WADL code](#rest-wcf-wadl-code)
+  - [REST WCF service consumption](#rest-wcf-service-consumption)
+  - [SOAP and REST WCF services source projects](#soap-and-rest-wcf-services-source-projects)
 - [ASP.NET Web API](#aspnet-web-api)
-    - [REST](#rest)
-    - [Web API sample code](#web-api-sample-code)
-    - [Web API consumption](#web-api-consumption)
-    - [Web API source project](#web-api-source-project)
+  - [REST](#rest)
+  - [Web API sample code](#web-api-sample-code)
+  - [Web API consumption](#web-api-consumption)
+  - [Web API source project](#web-api-source-project)
 
 <!-- /TOC -->
 

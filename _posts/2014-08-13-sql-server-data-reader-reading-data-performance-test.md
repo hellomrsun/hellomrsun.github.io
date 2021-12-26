@@ -6,7 +6,7 @@ title:  SQL Server data reader reading data performance test
 date:   2014-08-13 08:00:00 +0100
 description: SQL Server data reader reading data performance test
 img: posts/uncategorized/sqlserver.PNG
-tags: [Performance, SQLServer]
+tags: [Performance, SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/sql-server-data-reader-reading-data-performance-test.html'
 mathjax: yes

@@ -6,7 +6,7 @@ title:  MS SQL server full-text index and its stop words
 date:   2021-06-12 08:00:00 +0100
 description: MS SQL server full-text index and its stop words, fulltext index, Microsoft
 img: posts/20210612-Fulltext-stoplist/3-fulltext-index-architecture.gif
-tags: [SQLServer, FullText, Index]
+tags: [SqlServer, FullText, Index]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/ms-sql-server-full-text-index-stop-words-stop-list.html'
 redirect_from:
