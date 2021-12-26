@@ -10,10 +10,10 @@ jobs:
       BUNDLE_PATH: ~/hellomrsun.github.io/vendor/bundle
     steps:
       - checkout
-      - restore_cache:
-          keys:
-            - hellomrsun.github.io-{{ checksum "Gemfile.lock" }}
-            - hellomrsun.github.io-
+      # - restore_cache:
+      #     keys:
+      #       - hellomrsun.github.io-{{ checksum "Gemfile.lock" }}
+      #       - hellomrsun.github.io-
       - run:
           name: Bundle Install
           command: bundle check || bundle install
