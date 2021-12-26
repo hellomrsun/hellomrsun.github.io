@@ -2,15 +2,13 @@
 layout: post
 read_time: true
 show_date: true
-title:  MS SQL server full-text index
+title:  MS SQL server full-text index reserved words
 date:   2021-06-12 08:00:00 +0100
 description: MS SQL server full-text index fulltext index, Microsoft
 img: posts/20210612-Fulltext-stoplist/3-fulltext-index-architecture.gif
 tags: [SqlServer, FullText, Index]
 author: SUN Jiangong
-canonical_url: 'https://www.sunjiangong.com/ms-sql-server-fulltext-index.html'
-redirect_from:
-  - /2021/06/12/sql-server-fulltext-index-stop-words.html
+canonical_url: 'https://www.sunjiangong.com/ms-sql-server-fulltext-index-reserved-words.html'
 ---
 
 Full-text index is different from clustered and non-clustered index in SQL Server.
