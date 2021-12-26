@@ -6,7 +6,7 @@ title:  How to traverse binary tree by breadth (Part II) ?
 date:   2013-08-02 08:00:00 +0100
 description: CSharp Algorithm - How to traverse binary tree by breadth (Part II)?
 img: posts/uncategorized/algorithm.PNG
-tags: [CSharp, Algorithm]
+tags: [Algorithm]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-traverse-binary-tree-by-breadth-part-II.html'
 ---

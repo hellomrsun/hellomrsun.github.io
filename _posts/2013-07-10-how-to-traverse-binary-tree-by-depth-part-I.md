@@ -6,7 +6,7 @@ title:  How to traverse binary tree by depth (Part I) ?
 date:   2013-07-10 08:00:00 +0100
 description: How to traverse binary tree by depth (Part I), csharp, algorithm
 img: posts/uncategorized/algorithm.PNG
-tags: [CSharp, Algorithm]
+tags: [Algorithm]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-traverse-binary-tree-by-depth.html'
 ---
