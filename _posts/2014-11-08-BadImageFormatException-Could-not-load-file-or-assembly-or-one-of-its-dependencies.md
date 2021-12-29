@@ -9,9 +9,6 @@ img: posts/uncategorized/windows.jpg
 tags: [VisualStudio]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/BadImageFormatException-Could-not-load-file-or-assembly-or-one-of-its-dependencies.html'
-mathjax: yes
-redirect_from:
-  - /2014/11/08/BadImageFormatException-Could-not-load-file-or-assembly-or-one-of-its-dependencies.html
 ---
 
 If you have met this exception:

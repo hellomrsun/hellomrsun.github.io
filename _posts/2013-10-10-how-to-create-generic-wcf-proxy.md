@@ -9,9 +9,6 @@ img: posts/uncategorized/wcf.PNG
 tags: [WCF]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-create-generic-wcf-proxy.html'
-mathjax: yes
-redirect_from:
-  - /2013/10/10/how-to-create-generic-wcf-proxy.html
 ---
 
 You want to consume a WCF service, but don't want to Add hard reference of the service's .svc file.

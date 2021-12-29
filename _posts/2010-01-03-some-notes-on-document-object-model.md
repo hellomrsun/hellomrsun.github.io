@@ -10,8 +10,6 @@ tags: [DOM]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/some-notes-on-document-object-model.html'
 mathjax: yes
-redirect_from:
-  - /2010/01/03/some-notes-on-document-object-model.html
 ---
 
 

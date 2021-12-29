@@ -9,9 +9,6 @@ img: posts/2019-11-17-PE-CIL/code_lifecycle.png
 tags: [DotNet]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/what-is-the-difference-between-portable-executable-and-common-intermediate-language.html'
-mathjax: yes
-redirect_from:
-  - /2019/11/17/Difference-between-PE-and_CIL.html
 ---
 
 In .NET, C# code is compiled into Common Intermediate Language (**CIL**) by compiler at **compile-time**, then the CIL code will be compiled into machine code by Just-In-Time (**JIT**) compiler at **runtime**.

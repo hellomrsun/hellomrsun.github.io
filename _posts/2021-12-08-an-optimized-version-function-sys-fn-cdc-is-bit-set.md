@@ -9,8 +9,6 @@ img: posts/2021-12-08-cdc-is-bit-set/cdc.jpg
 tags: [SqlServer, SQL]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/optimized-version-function-sys-fn-cdc-is-bit-set.html'
-redirect_from:
-  - /2021/12/08/optimized-version-function-sys-fn-cdc-is-bit-set.html
 ---
 
 Change Data Capture (CDC) table uses __$update_mask to track the modifications of ordinal columns.

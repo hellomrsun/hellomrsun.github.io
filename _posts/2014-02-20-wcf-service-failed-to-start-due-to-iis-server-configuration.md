@@ -9,9 +9,6 @@ img: posts/uncategorized/iis.png
 tags: [IIS, WCF]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/wcf-service-failed-to-start-due-to-iis-server-configuration.html'
-mathjax: yes
-redirect_from:
-  - /2014/02/20/wcf-service-failed-to-start-wrong-IIS-configuration.html
 ---
 
 

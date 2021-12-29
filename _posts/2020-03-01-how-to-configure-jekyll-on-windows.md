@@ -10,8 +10,6 @@ tags: [Jekyll]
 author: SUN Jiangong
 mathjax: yes
 canonical_url: 'https://www.sunjiangong.com/how-to-configure-jekyll-on-windows.html'
-redirect_from:
-  - /2020/03/01/How_to_configure_Jekyll_on_Windows.html
 ---
 
 Let's see how to configure Jekyll on Windows.

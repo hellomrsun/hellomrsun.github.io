@@ -9,9 +9,6 @@ img: posts/uncategorized/csharp.jpg
 tags: [CSharp]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/just-for-fun-csharp-property-acess-modifier-usage.html'
-mathjax: yes
-redirect_from:
-  - /2014/12/28/just4fun-csharp-property-acess-modifier-usage.html
 ---
 
 

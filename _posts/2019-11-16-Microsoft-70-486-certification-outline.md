@@ -9,9 +9,6 @@ img: posts/2019-11-16-mcsa/MCSA-Web_Applications.png
 tags: [Certification]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/Microsoft-70-486-certification-outline.html'
-mathjax: yes
-redirect_from:
-  - /2019/11/16/Microsoft-70-486-certification-outline.html
 ---
 
 

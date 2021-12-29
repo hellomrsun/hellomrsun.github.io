@@ -9,9 +9,6 @@ img: posts/uncategorized/Visual-Studio.png
 tags: [VisualStudio]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-create-custom-snippet-in-visual-studio.html'
-mathjax: yes
-redirect_from:
-  - /2014/01/23/how-to-create-custom-snippet-in-visual-studio.html
 ---
 
 

@@ -9,8 +9,6 @@ img: posts/2020-05-28-CorsAllowAnyOriginCredentials/solution.PNG
 tags: [CORS]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-resolve-cors-allow-credentials-allow-any-origin-conflit-aspnet-webapi.html'
-redirect_from:
-  - /2020/05/28/cors-allow-any-origin-and-allow-credentials-conflict.html
 ---
 
 When you implement an ASP.NET CORE Web API, you may want the API to support all clients from anywhere and enable credentials at the same time.

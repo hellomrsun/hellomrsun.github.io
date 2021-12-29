@@ -9,9 +9,6 @@ img: posts/uncategorized/sqlserver.PNG
 tags: [SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/local-sql-server-database-deployment-problems-and-fixtures.html'
-mathjax: yes
-redirect_from:
-  - /2014/11/07/local-sql-server-database-deployment-problems-and-fixtures.html
 ---
 
 

@@ -9,8 +9,6 @@ img: posts/2020-01-22-vs-extension/mp.PNG
 tags: [VisualStudio]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-install-visual-studio-extensions-in-cmd.html'
-redirect_from:
-  - /2020/01/22/Install_Visual_Studio_Extensions_Command_Line.html
 ---
 
 If you have limited user right and you are not able to install some Visual Studio Extensions (.VSIX) directly, you can install them in command line.

@@ -9,9 +9,6 @@ img: posts/uncategorized/tfs.png
 tags: [TFS]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-unshelve-a-shelveset-into-another-branch-with-tfs.html'
-mathjax: yes
-redirect_from:
-  - /2014/05/21/how-to-unshelve-a-shelveset-into-another-branch-with-tfs.html
 ---
 
 If you have made a shelve in one branch, and want to unshelve it to another branch. 

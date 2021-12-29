@@ -9,8 +9,6 @@ img: posts/2021-12-07-dotnet-challenge-final-2020/challenge-all.jpg
 tags: [DotNet, CSharp, TechEvents]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/microsoft-dotnet-challenge-france-2020-final.html'
-redirect_from:
-  - /2021/12/07/microsoft-dotnet-challenge-france-2020-final.html
 ---
 
 I've participated in the Microsoft .NET challenge France 2020 final, eventually one year later. ;)

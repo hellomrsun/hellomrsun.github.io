@@ -9,9 +9,6 @@ img: posts/uncategorized/Visual-Studio.png
 tags: [VisualStudio]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-solve-one-or-more-projects-in-the-solution-were-not-loaded-correctly-in-visual-studio.html'
-mathjax: yes
-redirect_from:
-  - /2015/02/04/one-or-more-projects-in-the-solution-were-not-loaded.html
 ---
 
 

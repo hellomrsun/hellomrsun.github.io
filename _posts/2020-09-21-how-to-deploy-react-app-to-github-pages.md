@@ -9,8 +9,6 @@ img: posts/2020-09-21-DeployReactAppGithubPages/03_set_source_to_gh-pages.PNG
 tags: [React, GithubPages]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-deploy-react-app-to-github-pages.html'
-redirect_from:
-  - /2020/09/21/how-to-deploy-react-app-to-github-pages.html
 ---
 
 Github-pages is very practical to host static websites, not only Jekyll based websites, but also Angular, React based static websites etc.

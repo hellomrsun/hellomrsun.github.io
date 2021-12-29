@@ -9,9 +9,6 @@ img: posts/uncategorized/iis.png
 tags: [IIS]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/aspnet-application-life-cycle.html'
-mathjax: yes
-redirect_from:
-  - /2013/09/04/aspnet-application-life-cycle.html
 ---
 
 

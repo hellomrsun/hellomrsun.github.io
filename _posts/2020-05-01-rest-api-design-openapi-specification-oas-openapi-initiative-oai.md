@@ -9,8 +9,6 @@ img: posts/uncategorized/open-api.png
 tags: [REST, WebApi]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/rest-api-design-openapi-specification-oas-openapi-initiative-oai.html'
-redirect_from:
-  - /2020/05/01/rest-api-open-api-specification.html
 ---
 
 The OpenAPI Initiative (**OAI**) was created in order to standardize the API design.The OpenAPI Specification (**OAS**) was originally based on the Swagger Specification, donated by SmartBear Software.
