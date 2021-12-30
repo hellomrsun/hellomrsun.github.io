@@ -28,6 +28,8 @@ It works for scripts developed in TypeScript and TSX.
 
 <br/>
 
+<!--more-->
+
 - Auto Import - ES6, TX, JSX, TSX 
 
 This extension not only works for scripts developed in TypesScript, TSX, but also for scripts developed in **JSX**.
