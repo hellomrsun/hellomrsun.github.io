@@ -9,9 +9,6 @@ img: posts/uncategorized/sqlserver.PNG
 tags: [SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/bulkcopy-data-from-source-table-to-destination-table-with-different-column-type-in-SQL-Server.html'
-mathjax: yes
-redirect_from:
-  - /2014/03/26/bulkcopy-data-for-a-column-with-different-type.html
 ---
 
 

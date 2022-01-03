@@ -9,9 +9,6 @@ img: posts/uncategorized/csharp.jpg
 tags: [CSharp]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/just-for-fun-play-with-pre-increment-and-post-increment-in-csharp.html'
-mathjax: yes
-redirect_from:
-  - /2015/02/16/just4fun-compare-pre-increment-post-increment.html
 ---
 
 Pre-Increment and Post-Increment are used frequently in conditions for loops.

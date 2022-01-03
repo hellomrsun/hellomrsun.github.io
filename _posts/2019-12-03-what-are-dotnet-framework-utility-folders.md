@@ -9,9 +9,6 @@ img: posts/2019-dotnet-framework/dotnet.jpg
 tags: [DotNet]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/what-are-dotnet-framework-utility-folders.html'
-mathjax: yes
-redirect_from:
-  - /2019/12/03/DotNet-tool-folders.html
 ---
 
 As a .NET developer, there are some utility folders you might need to use in your development, build, debugging, test, and deployment, etc.
