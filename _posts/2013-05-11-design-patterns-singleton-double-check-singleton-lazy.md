@@ -9,9 +9,6 @@ img: posts/uncategorized/design-patterns.PNG
 tags: [DesignPatterns]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/design-patterns-singleton-double-check-singleton-lazy.html'
-mathjax: yes
-redirect_from:
-  - /2013/05/11/design-patterns-singleton-double-check-singleton-lazy.html
 ---
 
 Design patterns are a collection of software development best practices in solving commonly occurring problems.

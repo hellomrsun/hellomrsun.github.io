@@ -9,9 +9,6 @@ img: posts/uncategorized/csharp.jpg
 tags: [CSharp]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/just-for-fun-compare-const-and-readonly-csharp.html'
-mathjax: yes
-redirect_from:
-  - /2015/03/13/just4fun-compare-const-and-readonly.html
 ---
 
 Today let us talk about const and readonly.

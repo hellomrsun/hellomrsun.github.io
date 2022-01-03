@@ -9,9 +9,6 @@ img: posts/uncategorized/sqlserver.PNG
 tags: [SqlServer]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-backup-and-restore-database-in-sql-server.html'
-mathjax: yes
-redirect_from:
-  - /2015/04/04/backup-and-restore-database-sql-server.html
 ---
 
 

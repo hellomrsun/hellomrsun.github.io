@@ -9,9 +9,6 @@ img: posts/uncategorized/iis.png
 tags: [IIS]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/IIS-configuration-with-support-of-multiple-domain-urls.html'
-mathjax: yes
-redirect_from:
-  - /2011/11/08/IIS-configuration-with-support-of-multiple-domain-urls.html
 ---
 
 Today I have encountered a problem, I spent 3 hours and a half for figuring it out. I need to make the application compatible with muiltiple domain urls. 

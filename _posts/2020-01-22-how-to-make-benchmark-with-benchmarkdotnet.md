@@ -9,9 +9,6 @@ img: posts/2020-01-22-BenchmarkDotNet/nuget.PNG
 tags: [DotNet, Profiler, Benchmark]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-make-benchmark-with-benchmarkdotnet.html'
-mathjax: yes
-redirect_from:
-  - /2020/01/22/BenchmarkDotNet.html
 ---
 
 BenchmarkDotNet is a .NET benchmark tool, developed by Microsoft.

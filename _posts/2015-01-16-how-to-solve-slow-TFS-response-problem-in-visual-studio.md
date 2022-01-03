@@ -9,9 +9,6 @@ img: posts/uncategorized/tfs.png
 tags: [TFS]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/how-to-solve-slow-TFS-response-problem-in-visual-studio.html'
-mathjax: yes
-redirect_from:
-  - /2015/01/16/how-to-solve-slow-tfs-problem.html
 ---
 
 

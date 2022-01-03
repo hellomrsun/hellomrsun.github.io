@@ -9,9 +9,6 @@ img: posts/uncategorized/unit-test.PNG
 tags: [UnitTest]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/unit-test-best-practices.html'
-mathjax: yes
-redirect_from:
-  - /2014/08/12/some-advice-on-unit-tests.html
 ---
 
 

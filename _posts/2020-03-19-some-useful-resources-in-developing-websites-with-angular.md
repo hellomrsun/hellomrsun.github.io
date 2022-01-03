@@ -9,9 +9,6 @@ img: posts/2020-03-19-AngularStarter/AngularUIFrameworks.png
 tags: [Angular]
 author: SUN Jiangong
 canonical_url: 'https://www.sunjiangong.com/some-useful-resources-in-developing-websites-with-angular.html'
-mathjax: yes
-redirect_from:
-  - /2020/03/19/Angular_starter_resources.html
 ---
 
 I would like to share some useful tips in developing web applications with Angular.
