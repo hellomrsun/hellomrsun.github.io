@@ -18,6 +18,7 @@ They are:
 - Client Id (Application Id)
 - Object Id
 
+<!--more-->
 <br>
 
 ### Tenant ID 
@@ -80,12 +81,20 @@ var graphserviceClient = new GraphServiceClient(authProvider);
 
 This is the unique ID of the service principal object associated with this application. This ID can be useful when performing management operations against this application using PowerShell or other programmatic interfaces.
 
-You can use ObjectId as service principal to retrieve all the role assignments to an user.
+As you can see in the previous chapter, Application has an "Application ID" and an "Object ID".
+
+And an user also has an Object ID.
+
+![](./../../../assets/img/posts/2022-03-10-azure-tenantid-clientid/azure-objectId.png)
+
+You can use object IDs to retrieve all the roles assigned to an user in an application.
 
 ```csharp
-public async Task<IUserAppRoleAssignmentsCollectionPage> GetUserRoleAssignmentsForApplicationAsync(string userId, string applicationObjectId)
+public async Task<IUserAppRoleAssignmentsCollectionPage> GetUserRolesAsync(string userObjectId, 
+                                                                          string applicationObjectId)
 {
-  return await _clientCredentialGraphServiceClient.Users[userId].AppRoleAssignments.Request().Filter($"resourceId eq {applicationObjectId}").GetAsync();
+  return await graphserviceClient.Users[userObjectId].AppRoleAssignments.Request()
+                                 .Filter($"resourceId eq {applicationObjectId}").GetAsync();
 }
 ```
 
